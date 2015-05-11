@@ -23,3 +23,16 @@ C:\Users\Elliot\Documents\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Rele
 C:\Users\Elliot\Documents\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\GREVocabGame.g.resources
 C:\Users\Elliot\Documents\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\GREVocabGame.Properties.Resources.resources
 C:\Users\Elliot\Documents\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\GREVocabGame.csproj.GenerateResource.Cache
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\bin\Release\GREVocabGame.exe.config
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\GREVocabGame.exe
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\GREVocabGame.pdb
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\bin\Release\GREVocabGame.exe
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\bin\Release\GREVocabGame.pdb
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\GREVocabGame.csprojResolveAssemblyReference.cache
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\MainWindow.baml
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\MainWindow.g.cs
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\App.g.cs
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\GREVocabGame_MarkupCompile.cache
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\GREVocabGame.g.resources
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\GREVocabGame.Properties.Resources.resources
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Release\GREVocabGame.csproj.GenerateResource.Cache

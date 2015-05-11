@@ -24,3 +24,16 @@ C:\Users\Elliot\Documents\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debu
 C:\Users\Elliot\Documents\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\GREVocabGame.g.resources
 C:\Users\Elliot\Documents\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\GREVocabGame.Properties.Resources.resources
 C:\Users\Elliot\Documents\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\GREVocabGame.csproj.GenerateResource.Cache
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\bin\Debug\GREVocabGame.exe.config
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\GREVocabGame.exe
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\GREVocabGame.pdb
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\bin\Debug\GREVocabGame.exe
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\bin\Debug\GREVocabGame.pdb
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\GREVocabGame.csprojResolveAssemblyReference.cache
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\MainWindow.baml
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\MainWindow.g.cs
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\App.g.cs
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\GREVocabGame_MarkupCompile.cache
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\GREVocabGame.g.resources
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\GREVocabGame.Properties.Resources.resources
+D:\GitHub\GREVocabGame\GREVocabGame\GREVocabGame\obj\Debug\GREVocabGame.csproj.GenerateResource.Cache

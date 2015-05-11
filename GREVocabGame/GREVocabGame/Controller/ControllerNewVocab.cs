@@ -16,10 +16,13 @@ namespace GREVocabGame.Controller
     {
         private MainWindow view;
         private ModelToWrite dataWrite;
+        private ModelToWrite[] dayArray;
 
         public ControllerNewVocab(MainWindow view, ModelToWrite dataWrite)
         {
-            this.dataWrite = dataWrite;
+            //this.dataWrite = dataWrite;
+            this.dayArray = new ModelToWrite[30];
+            dayArray[0] = new ModelToWrite();
             this.view = view;
             this.clearAll();
             this.fillVocabFileLists();
@@ -29,6 +32,8 @@ namespace GREVocabGame.Controller
         {
             this.view.listDays.Items.Clear();
 
+            String strDay = "";
+            int day;
 
             String dir = getVocabFolderAddr();
             String fileName = "Day";
@@ -47,6 +52,11 @@ namespace GREVocabGame.Controller
                 if (File.Exists(dir + fileName))
                 {
                     this.view.listDays.Items.Add(fileName);
+                    strDay = fileName.Substring(3, 2);
+                    day = int.Parse(strDay);
+                    this.dayArray[day - 1] = new ModelToWrite();
+                    scatterToDayArray(fileName);
+
                     //this.autoScrollListBox(this.view.listDays);
                 }
                 fileName = "Day";
@@ -83,7 +93,7 @@ namespace GREVocabGame.Controller
                 }
                 else if (temp.Name.Equals("txtMean"))
                 {
-                    this.view.txtRelation.Focus();
+                    this.view.txtExample.Focus();
                 }
                 else if (temp.Name.Equals("txtRelation"))
                 {
@@ -91,16 +101,16 @@ namespace GREVocabGame.Controller
                 }
                 else if (temp.Name.Equals("txtRealtedTo"))
                 {
-                    this.view.txtExample.Focus();
+                    this.view.btnAdd.Focus();
                 }
                 else if (temp.Name.Equals("txtExample"))
                 {
-                    this.view.btnAdd.Focus();
+                    this.view.txtRelation.Focus();
                 }
             }
         }
 
-        private void clearAll()
+        public void clearAll()
         {
             this.view.txtDay.Text = "";
             this.view.txtMean.Text = "";
@@ -137,36 +147,48 @@ namespace GREVocabGame.Controller
 
         public void scatterToText(object sender, SelectionChangedEventArgs e)
         {
-            ListBox lBox = (ListBox) sender;
-            this.view.txtDay.Text = this.dataWrite.day;
-            this.view.txtMean.Text = this.dataWrite.listMean[lBox.SelectedIndex];
-            this.view.txtRealtedTo.Text = this.dataWrite.listRealtedTo[lBox.SelectedIndex];
-            this.view.txtRelation.Text = this.dataWrite.listRelation[lBox.SelectedIndex];
-            this.view.txtWordType.Text = this.dataWrite.listWordType[lBox.SelectedIndex];
-            this.view.txtWord.Text = this.dataWrite.listWord[lBox.SelectedIndex];
-            this.view.txtExample.Text = this.dataWrite.listExample[lBox.SelectedIndex];
+            try
+            {
+                ListBox lBox = (ListBox)sender;
+                this.view.txtDay.Text = this.dataWrite.day;
+                this.view.txtMean.Text = this.dataWrite.listMean[lBox.SelectedIndex];
+                this.view.txtRealtedTo.Text = this.dataWrite.listRealtedTo[lBox.SelectedIndex];
+                this.view.txtRelation.Text = this.dataWrite.listRelation[lBox.SelectedIndex];
+                this.view.txtWordType.Text = this.dataWrite.listWordType[lBox.SelectedIndex];
+                this.view.txtWord.Text = this.dataWrite.listWord[lBox.SelectedIndex];
+                this.view.txtExample.Text = this.dataWrite.listExample[lBox.SelectedIndex];
+            }
+            catch (Exception exxxx)
+            {
+
+            }
         }
 
 
-        public void scatterToListWords(object sender, EventArgs e)
+        public void scatterToDayArray(string fileName)
         {
-            String fileName = getVocabFolderAddr() + this.view.listDays.SelectedItem.ToString();
-            this.dataWrite.day = this.view.listDays.SelectedItem.ToString().Substring(3, 2);
-            this.view.txtDay.Text = this.dataWrite.day;
-            if (this.view.listDays.SelectedItem != null)
+            Console.WriteLine(fileName);
+            String strDay = fileName.Substring(3, 2);
+            int day = int.Parse(strDay);
+            this.dataWrite = this.dayArray[day - 1];
+            this.dataWrite.day = strDay;
+            //this.view.txtDay.Text = this.dataWrite.day;
+            if (true)
             {
-                StreamReader fIn = new StreamReader(fileName);
+
+                StreamReader fIn = new StreamReader(getVocabFolderAddr() + fileName);
                 String temp;
                 while (!fIn.EndOfStream)
                 {
                     fIn.ReadLine(); // get rid of index
                     temp = fIn.ReadLine();
                     this.dataWrite.listWord.Add(temp);
-                    this.view.listWords.Items.Add(temp);
-                    this.autoScrollListBox(this.view.listWords);
+                    //this.view.listWords.Items.Add(temp);
+                    //this.autoScrollListBox(this.view.listWords);
 
                     temp = fIn.ReadLine();
                     this.dataWrite.listWordType.Add(temp);
+
                     temp = fIn.ReadLine();
                     this.dataWrite.listMean.Add(temp);
                     temp = fIn.ReadLine();
@@ -181,8 +203,71 @@ namespace GREVocabGame.Controller
         }
 
 
+        public void scatterToListWords(object sender, EventArgs e)
+        {
+            String strDay = this.view.listDays.SelectedItem.ToString().Substring(3, 2);
+            int day = int.Parse(strDay);
+            this.dataWrite = this.dayArray[day - 1];
+            this.view.txtDay.Text = this.dataWrite.day;
+            Console.WriteLine(this.dataWrite.listWord.Count);
+            this.view.listWords.Items.Clear();
+            for (int i = 0; i < this.dataWrite.listWord.Count; i++)
+            {
+                this.view.listWords.Items.Add(this.dataWrite.listWord.ElementAt(i));
+                this.autoScrollListBox(this.view.listWords);
+            }
+        }
+
+
         public void addToList()
         {
+            // before add, need to check if the focus in on the right array element
+            
+            int day = int.Parse(this.view.txtDay.Text);
+            bool newDay = false;
+
+            if (this.dataWrite == null)
+            {
+                // there's one already
+                if (this.dayArray[day - 1] != null)
+                {
+                    this.dataWrite = this.dayArray[day - 1];
+                }
+                else // there's no one yet
+                {
+                    this.dayArray[day - 1] = new ModelToWrite();
+                    this.dataWrite = this.dayArray[day - 1];
+                    String fileName = null;
+                    if (this.view.txtDay.Text.Length < 2)
+                    {
+                        fileName = "Day0" + this.view.txtDay.Text + ".txt";
+                    }
+                    else
+                    {
+                        fileName = "Day" + this.view.txtDay.Text + ".txt";
+                    }
+                    this.view.listDays.Items.Add(fileName);
+                }
+            }
+            else
+            {
+                if (int.Parse(this.dataWrite.day) != day)
+                {
+                    // there's one already
+                    if (this.dayArray[day - 1] != null)
+                    {
+                        this.dataWrite = this.dayArray[day - 1];
+                    }
+                    else // there's no one yet
+                    {
+                        this.dayArray[day - 1] = new ModelToWrite();
+                        this.dataWrite = this.dayArray[day - 1];
+                        Console.WriteLine("asdkfjalsdjfaldf");
+                        newDay = true;
+                    }
+                }
+            }
+
             if (this.checkConventionForAdd())
             {
                 // add the data to model
@@ -195,7 +280,15 @@ namespace GREVocabGame.Controller
                 this.dataWrite.listExample.Add(this.view.txtExample.Text);
 
                 // update list box
+                if (newDay)
+                {
+                    this.view.listWords.Items.Clear();
+                    this.view.listWords.Items.Add(this.view.txtWord.Text);
+                    this.saveList();
+                    newDay = false;
+                }
                 this.view.listWords.Items.Add(this.view.txtWord.Text);
+                
                 // auto scroll
                 this.autoScrollListBox(this.view.listWords);
 
@@ -296,12 +389,12 @@ namespace GREVocabGame.Controller
                 fout.WriteLine(this.dataWrite.listRealtedTo[i]);
                 fout.WriteLine(this.dataWrite.listExample[i]);
             }
-            this.dataWrite.listExample.Clear();
-            this.dataWrite.listMean.Clear();
-            this.dataWrite.listRealtedTo.Clear();
-            this.dataWrite.listRelation.Clear();
-            this.dataWrite.listWord.Clear();
-            this.dataWrite.listWordType.Clear();
+            //this.dataWrite.listExample.Clear();
+            //this.dataWrite.listMean.Clear();
+            //this.dataWrite.listRealtedTo.Clear();
+            //this.dataWrite.listRelation.Clear();
+            //this.dataWrite.listWord.Clear();
+            //this.dataWrite.listWordType.Clear();
 
             // close the file
             fout.Close();

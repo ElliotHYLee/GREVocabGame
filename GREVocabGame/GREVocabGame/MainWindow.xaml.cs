@@ -71,6 +71,26 @@ namespace GREVocabGame
             this._ControllerNewVocab.scatterToText(sender, e);
         }
 
+        private void listDays_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void btnModify_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnClear_Click(object sender, RoutedEventArgs e)
+        {
+            this._ControllerNewVocab.clearAll();
+        }
+
+        private void txtMean_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
 
 
 
