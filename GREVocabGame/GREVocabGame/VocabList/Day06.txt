@@ -1,0 +1,175 @@
+0
+anthology
+n
+a collection of selected literary or artistic pieces compiled into one work
+fun
+poem
+This anthology is regarded as the irst Korean literary work to be translated into Mongolian for publication.
+1
+antipathy
+n
+aversion or strong dislike
+ant
+affinity
+The president made clear his antipathy to the opposition by betoing their legislation 3 times.
+2
+artless
+adj
+uncultured; made without skill; having or displaying no guile
+ant
+urbanity
+Blake enrolled in a poetry class to improve his reputation as a crass and artless football player.
+3
+authentic
+adj
+genuine or real
+wo
+fabricate
+The painting was deemed to be authentic afer much inspection and scrutiny.
+4
+authorize
+v
+to grant permission; to invest with legal authority
+ant
+interdict
+John authorized his wife to have access to his bank accounts.
+5
+bequest
+n
+a gift in  a will
+obj
+testator
+Edward's educational rust fund was a bequest left to him by his rich uncle.
+6
+catholic
+adj
+broad in scope; universal
+ant
+narrow
+Amy was a woman of catholic interests, ranign from bungee jumping to stamp collecting.
+7
+cement
+v
+to bind or bring together; to unite
+ant
+fracture
+The marriage of their children cemented the two families' friendship.
+8
+charade
+n
+a pretense or mockery
+pos
+dissimulate
+Though they loathed each other, the couple managed the charade of a marriage for the sake of their children.
+9
+connive
+v
+to work together in a secret or illegal manner; to collude
+ch
+conspiratorial
+The bank robbers connived for 3 months to plan the perfect robbery.
+10
+deter
+v
+to inhibit or prevent from acting by means of fear or doubt
+ch
+intrepid
+D.A.R.E is a drug prevention program aimed to deter children from taking drugs.
+11
+determination
+n
+the conclusion or the act of deciding definitely; strong will or resoluteness
+ant
+irresolution
+Her determination is what got Sally to the top of the corporate ladder.
+12
+detour
+n
+a deviation from the normal route or direct course; a path or road replacing a temporarily disabled one
+obj
+route
+The cab driver took a detour down the alley in order to avoid traffic.
+13
+encumber
+v
+to obstruct or impede
+ant
+remove impediment
+Drinking in moderation is fine, but it becomes a problem when it encumbers one's ability to make dicisions.
+14
+enthusiasm
+n
+intense interest or involvement
+de
+mania
+The teacher's enthusaism kept the children attentive in class.
+15
+entice
+v
+to tempt or lure by arousing hope or desire
+syn
+allure
+The brightly lit store window with its display of all the latest toys enticed the little boy.
+16
+estimable
+adj
+capable of being valuable; worthy of esteem
+ant
+contemptible
+The king was impressed by the estimable young knight's heoric deeds in battle.
+17
+extinguish
+v
+to stop from burning
+ant
+kindle
+Luckily, the firemen extinguished the flames before they burned down the entire house.
+18
+extol
+v
+to praise or glorify
+ant
+excoriate
+The evangelist extolled the virtues of his religion to every person he encountered
+19
+extort
+v
+to obtain by force or illegal power
+ch
+intimidation
+The bully extorted money from the boy everyday by threatenig to beat him up.
+20
+fathom
+v
+v to come to understanding through probing or thinking.
+ch
+erudite
+Tim couldn't fathom why she would do that.
+21
+futile
+adj
+useless or completely ineffective
+ant
+efficacious
+It is futile to argue with her when she has made up her mind like that.
+22
+intercessor
+n
+one who mediates between two parties to reconcile differences
+ch
+mediate
+To make money the marriage counselor has even served as an intercessor for couples she thought should be apart.
+23
+interdict
+v
+to prohibit or forbid in a formal or authoritative manner.
+ant
+authorize
+The role of the guards is to interdict anyone from entering the compound.
+24
+interroage
+v
+to question formally and aggressively
+syn
+examine
+The inspector interrogated the suspect for three hours, but wasn't able to extract new information.
