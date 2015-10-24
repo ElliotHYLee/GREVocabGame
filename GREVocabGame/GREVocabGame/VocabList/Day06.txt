@@ -173,3 +173,178 @@ to question formally and aggressively
 syn
 examine
 The inspector interrogated the suspect for three hours, but wasn't able to extract new information.
+25
+intimate
+adj
+marked by close association in a very private and personal matter
+ch
+clique
+The relationship between the co-workers grew very intimate after a couple of months.
+26
+lithe
+adj
+flexible; easily bent or flexed
+syn
+lissome
+Fortunately the gymnast was lithe enough to handle the difficult move.
+27
+mawkish
+adj
+excessively sentimental; having a bad taste
+syn
+maudlin
+The critic's review of the movie seem mawkish and overwrought.
+28
+meticulous
+adj
+excessively thorough and careful with details
+de
+careful
+It takes a meticulous person to be a good editor.
+29
+mitigate
+v
+to reduce the severity or pain of; to mollify or alleviate
+obj
+severity
+The camper mtigated the itch of his mosquito bites by applying a cream.
+30
+noxious
+adj
+poisonous or harmful to living creatures; obnoxious
+ch
+venom
+The city was evacuated to save them from the noxious fumes coming out of the fast food restaurants.
+31
+oxymoron
+n
+a combination of contradictory words.
+ch
+contradictory
+The phrase "just war" is an oxymoron that is often used by politicians to alleviate fears that onnocent civilians will be killed accidently.
+32
+pith
+n
+the core or essential part
+ant
+unimportant point
+The pith of humanity is love.
+33
+ratification
+n
+formal approval and confirmation
+ant
+repeal
+The ratification of the handgun law shocked the public.
+34
+reticence
+n
+the quality of being reserved or restrained.
+cn
+talk
+Jim has some reticence about expressing emotion.
+35
+retinue
+n
+a group of retainers or follower
+par
+attendant
+Queen Elizabeth has a retinue of 30 servants that accompany her on any of her travels.
+36
+retort
+v
+to reply rapidly and sharply, sometimes in jest;
+syn
+repartee
+The receptionist retroted with a sarcastic comment.
+37
+revive
+v
+to reawaken to consciousness or lifel
+ant
+wither
+I tried to revive her spirits, but she was hopelessly gloomy.
+38
+satiate
+v
+to fuly satisfy; to sate
+causal
+food
+After the fest, my stomach was satiated.
+39
+savor
+n
+the taste or smell of something
+syn
+palatable
+Roxanne enjoyed the savor of the meal and left no food to waste.
+40
+savvy
+n
+knowledge of affairs; shrewdness
+ant
+tactless
+The senator's political savvy has won him more than 5 re-elections.
+41
+sly
+adj
+celever, usually implying deceptiveness
+ant
+artless
+The sly fox outsmarted the owl, or so the fable goes.
+42
+tawdry
+adj
+gaudy in brightness of appearance
+obj
+garment
+Cynthia failed to achieve an air of elegance with that tawdry dress she wore.
+43
+thwart
+v
+to prevent ocurence, realization, or attainment of; to baffle
+ant
+aid
+The nation thwarted the war by giving back the hostages.
+44
+untoward
+adj
+unlucky or unfavorable; improper
+ant
+fortunate
+Julian found himself in a very untoward situation, having no money and no place to stay for the night.
+45
+utter
+v
+to speak or give utterance
+kin
+blurt
+The groom uttered a few words of thanks to each of his guests at the wedding.
+46
+venial
+adj
+easily excused or forgiven
+ch
+excuse
+In Singapore, littering is not considered a venial offense.
+47
+veto
+n
+an authoritatvie prohibition
+ch
+prohibitive
+The plan was circumvented b the president's veto.
+48
+watershed
+n
+a divided region that drains into another body of water
+ant
+routine
+The Vietnam war was an important watershed in modern American history marking the end of easily justified military iterventions abroad.
+49
+wither
+v
+to dry up or shrivel
+wo
+vitality
+The rose withered in the sun and the petals fell off

@@ -1,0 +1,329 @@
+0
+abstruse
+adj
+difficult to understand
+ant
+accessible
+The abstruse terminology used in the economist's presentation confused most of his audience.
+1
+astronomy
+n
+t
+obj
+planet
+For Jeff's astronomy course, the teacher took them outside.
+2
+buttress
+n
+a structure giving stability to a wall or building
+fun
+edifice
+The city mandated the addition of buttresses to all multi-story buildings in preparation of future earthquakes.
+3
+carp
+v
+to find fault or complain querulously
+de
+complain
+The old man was always carping at anyone wo sat near him.
+4
+caulk
+v
+to make something airtight or watertight
+syn
+seal
+To prevent the wind from coming in, Andrew tried to caulk the cracks with sealant.
+5
+convivial
+adj
+festive; fond of good company
+syn
+sociable
+The convivial young boy was the most popular student in his class.
+6
+serenity
+n
+clear, quite, pure
+ant
+disturb
+I had a wonderful feeling of peace and serenity when I saw my husband.
+7
+equable
+adj
+uniform or steadyl even-tempered
+ant
+intemperate
+The new principal's equable demeanor was appreciated and respected by the community.
+8
+extraneous
+adj
+irrelevant or unrelated to the topic at hand
+wo
+essence
+Harry quickly became annoyed at the extraneous chatter that filled the discussion group.
+9
+extravagant
+adj
+recklessly wasteful; excessively expensive; exceeding the limits of reason
+ant
+parsimonious
+Sally considered her boyfriend's tastes to be too extravagant for her simple lifestyle.
+10
+extrinsic
+adj
+external; unessential
+ant
+immanent
+The extrinsic stain on the man's teeth was caused by years of habitual coffe drinking.
+11
+fatuous
+adj
+foolish
+ant
+scintillating
+Kenny's dream of becoming a race car driver was considered fatuous by his peers.
+12
+fetter
+v
+to put fetters onl to confine
+ant
+release
+After graduation, Jennifer longed to move away where she wouldn't be fettered by family obligations.
+13
+intractable
+adj
+not easily directed or manipulated; unruly
+cn
+manage
+Erica soon discovered that children at day care are intractable and frustrating.
+14
+intrepid
+adj
+fearless or courageous
+ant
+timorous
+The intrepid climber reached the top of the Mount Everest alone.
+15
+intricacy
+n
+the quality or state of being complex and elaborately detailed
+ch
+tapestry
+For English speakers, the intricacies of the Chinese languate are far too difficult.
+16
+intrude
+v
+to enter without permission or invitation
+syn
+tresspass
+jack intruded on the party in order to talk to his ex-girlfriend.
+17
+jittery
+adj
+nervous
+ant
+resolute
+The three cups of coffee made her jittery and unable to sit still.
+18
+lassitude
+n
+fatigue
+ant
+vim
+After a night of drinking, Brain's lassitude was clearly apparent to his co-workers.
+19
+miff
+v
+to insult or offend slightly
+ant
+appease
+Mr. Kronkite was miffed by reportere's tardiness for the interview.
+20
+mottle
+n
+a sopt or blotch
+pos
+spot
+The painting was a random arrangement of mottles.
+21
+natty
+adj
+neat
+ant
+slovenly
+The actor looked natty at the oscars in his long black tuxedo.
+22
+nettle
+n
+a stinging plant with needels
+ant
+conciliate
+The campers avoided walking through an open field after seeing bunches of nettles in it.
+23
+obstreperous
+adj
+uncontrolable
+cn
+control
+The birthday party became obstreperous as soon as the parents left.
+24
+obtuse
+adj
+dull
+wo
+keen
+The man was too obtuse to catch the humor and with of the play.
+25
+ostracize
+v
+to exclude or exile
+syn
+exile
+Themistokles, the Ancient Greek politician, was ostracized from Athens for three years in the 5th century BC.
+26
+parsimonious
+adj
+stingy
+de
+frugal
+Frugality was a quality she admired, but Frank's parsimonious habits were too much for her.
+27
+patrionize
+v
+support
+ch
+support
+As a rule, I try to patronize the local community business rather than large national chain stores.
+28
+pedagogue
+n
+one who teaches or instructs.
+ch
+indoctrinate
+The greates pedagogues in the world are the one who Impart both wisdom and knowledge.
+29
+petrography
+n
+study of categorizing rocks
+obj
+rock
+For lack of better options, Jack took a class in petrography to fulfill his science requirements.
+30
+petty
+adj
+trivial
+cn
+noticeable
+The two friends fought over something petty that managed to destroy their friendship.
+31
+pittance
+n
+a small portion or allowance
+de
+allowance
+Jackie's mother gives her a pittance every month for taking out the garbage.
+32
+potter
+n
+a person who makes pottery.
+kin
+artisan
+The potter sold some of his brightly painted vases at the craft show.
+33
+retrench
+v
+to cut down or reduce
+obj
+expense
+The family retrenched their monthly expenses to save for a big trip.
+34
+squabble
+n
+small argument
+de
+dispute
+All of our squabbles are about Jack's smoking habit.
+35
+squalid
+adj
+filthy
+ant
+immaculate
+The squalid streets of the impoverished neighborhood can be very.
+36
+squall
+n
+gust
+de
+commontion
+The squall came upon the countryside without warning
+37
+squalor
+n
+vulgar
+ant
+splendor
+Due to current political and economic problems, squalor is the norm in the inner cities of America.
+38
+tatty
+adj
+worn or shabby
+ant
+smart
+The homeless man near my work dresses in tatty clothes and carries a garbage bag.
+39
+taut
+adj
+tight or tense
+obj
+slacken
+His nerves were taut during the interview.
+40
+truant
+adj
+lazy
+ant
+dutiful
+The truant father abandoned his wife and children in order to pursue his dream of being a singer.
+41
+unwonted
+adj
+extraordinary
+ant
+usual
+We experienced unwonted freezing this past autumn.
+42
+vex
+v
+to irritate
+ant
+conciliate
+Mike could not help but be vexed by the troubling news.
+43
+vituperate
+v
+to criticize alot
+ant
+admire
+Jessie Ventura, the Minnesota governor, was harshly vituperated by politicians nationwide when he was first eleceted.
+44
+waylay
+v
+flanking
+cn
+vigilant
+Bret was waylay by a mugger from the dark alley way off the main boulevard.
+45
+wizen
+v
+wither
+ant
+rejuvenate
+It is hard to see our own parents become wizened by time.
+46
+wry
+adj
+bent, out of shape
+de
+humorous
+The student showed an almost wry attitude towards his teacher.
