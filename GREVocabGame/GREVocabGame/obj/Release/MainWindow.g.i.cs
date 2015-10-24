@@ -224,6 +224,12 @@ namespace GREVocabGame {
             
             #line default
             #line hidden
+            
+            #line 23 "..\..\MainWindow.xaml"
+            this.txtDay.TextChanged += new System.Windows.Controls.TextChangedEventHandler(this.txtDay_TextChanged);
+            
+            #line default
+            #line hidden
             return;
             case 3:
             this.txtWord = ((System.Windows.Controls.TextBox)(target));
