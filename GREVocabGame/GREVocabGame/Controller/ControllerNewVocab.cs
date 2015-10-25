@@ -18,11 +18,15 @@ namespace GREVocabGame.Controller
         private ModelToWrite dataWrite;
         private ModelToWrite[] dayArray;
 
+
         public ControllerNewVocab(MainWindow view, ModelToWrite dataWrite)
         {
             //this.dataWrite = dataWrite;
             this.dayArray = new ModelToWrite[30];
+
             dayArray[0] = new ModelToWrite();
+
+
             this.view = view;
             this.clearAll();
             this.fillVocabFileLists();
@@ -33,6 +37,7 @@ namespace GREVocabGame.Controller
             this.view.listDays.Items.Clear();
 
             String strDay = "";
+            
             int day;
 
             String dir = getVocabFolderAddr();
@@ -42,12 +47,15 @@ namespace GREVocabGame.Controller
                 if (i < 10)
                 {
                     fileName += "0" + i.ToString();
+                   
                 }
                 else
                 {
                     fileName += i.ToString();
+                    
                 }
                 fileName += ".txt";
+               
                 //MessageBox.Show(dir + fileName);
                 if (File.Exists(dir + fileName))
                 {
@@ -59,8 +67,13 @@ namespace GREVocabGame.Controller
 
                     //this.autoScrollListBox(this.view.listDays);
                 }
+                
                 fileName = "Day";
+                
             }
+
+
+
         }
 
 
@@ -301,6 +314,7 @@ namespace GREVocabGame.Controller
 
         }
 
+        
 
         private bool checkConventionForSave()
         {
