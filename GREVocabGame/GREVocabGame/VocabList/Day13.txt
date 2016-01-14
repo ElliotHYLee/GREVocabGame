@@ -1,0 +1,273 @@
+0
+abase
+v
+to lower esteem
+obj
+prestige
+The abased executive was embarrassed by his recent demotion.
+1
+abash
+v
+to embarrass or make ashamed of
+ant
+embolden
+Abashed glances of wonder were exchanged by the sailors.
+2
+abate
+v
+reduce
+obj
+degree
+The installation of insect light traps did little to abate the probelm.
+3
+apathetic
+adj
+lacking feeling or concern
+wo
+fervor
+Alfred stood motionless, in what seemed to be an apathetic attitude.
+4
+avarice
+n
+an excessive desire for wealth
+ant
+generosity
+The avarice of the man caused his neighbors and friends to spite him.
+5
+blatant
+adj
+vulgarly conspicuous
+cn
+ignore
+The oil tycoon's blatant show of wealth was epitomized by his gold encrusted belt buckle.
+6
+blush
+v
+to become red in the face from shame or nervousness
+cause
+embarrassment
+Surprised and a little embarrassed by his flattery, Tonya blushed.
+7
+conspicuous
+adj
+apparent
+ant
+inconspicuous
+Mary's red hair always made her conspicuous at school
+8
+brash
+adj
+hasty
+ant
+deliberate
+Tony's brash manner has gotten him in a lot of trouble.
+9
+chary
+adj
+very cautious
+ant
+bold
+Clara knew that Mr. Gryce was chary, not prone to rash or impulsive decisions.
+10
+chasm
+n
+a deep opening in the surface of the Earth
+de
+cleft
+The rock climbers looked down into the chasm.
+11
+concede
+v
+to accept that somehing is true
+ant
+disavow
+It is generally conceded that humans are social beings.
+12
+consent
+v
+agree
+ant
+dissent
+Dirk consented to the drug test because he had no other options.
+13
+cursory
+adj
+superficial
+ant
+fastidious
+The editor's cursory review of the document failed to reveal its structural flaws.
+14
+dearth
+n
+a lack or shortage of supply
+ant
+plethora
+The drought in Bengal a few years ago caused a great dearth of food supplies.
+15
+disphanous
+adj
+transparent
+ant
+opaque.
+In the gloom the girls' wraps glowed palllid and diaphanous.
+16
+disclosure
+n
+exposure
+ant
+stealth
+The disclosure of FBI reports has raised many doubts as to the actions of President Bush prior to Sept. 11th.
+17
+discord
+n
+conflict
+ant
+rapport
+Wars arise from discord between political bodies.
+18
+drab
+adj
+dull
+wo
+resplendence
+The man's entire ardrobe is rather drab.
+19
+ensconce
+v
+to conceal in a secure place
+ant
+unsettle
+Norma deals with stress by ensconcing herself in her apartment and reading.
+20
+forbear
+v
+to refrain from
+syn
+forgo
+Although Kelly could hardly wait to give her Mom the present, she forbore the urge until Christmas day.
+21
+fulsome
+adj
+flattering
+de
+comoplimentary
+The bartender's fulsome compliments did not impress the lady server.
+22
+gobble
+v
+to eat greedily and quickly
+de
+nibble
+As children, my siblings and I would make fun of our dad for always gobbling his dinner.
+23
+hearten
+v
+to ive courage or spirit
+obj
+dejection
+Malcom heartened the brave volunteers before flying to their posts in Africa.
+24
+irascible
+adj
+easy to be angry
+cn
+placate
+All the tenants tried to avoid the irascible landowner whenever possible.
+25
+loathe
+v
+hate
+de
+dislike
+Commuters often loathe the drive to work because of perpetual traffic and hazardous road conditions.
+26
+measly
+adj
+despicably small.
+ant
+grand
+The measly salary of the factory workers gave them reason to strike.
+27
+mince
+v
+to chop or walk short steps
+kin
+walk
+The prince had minced her way across the ballroom to attract attention to her new gown.
+28
+orate
+v
+speak arrogant
+wo
+modesty
+Pericles orated to the Athenians, persuading them to go to war.
+29
+oust
+v
+to kick out from a position
+obj
+incumbent
+The mayor was ousted from office after a huge scandal broke loose.
+30
+palmy
+adj
+prosperous
+pos
+prosperity
+The 1990's was a palmy time for technology companies.
+31
+penchant
+n
+preference
+ant
+aversion
+Lee has penchant for percussion instruments.
+32
+perscience
+n
+knowledge for futuer
+ant
+myopia
+The ancient wise men claimed to have a prescience which all the citizens listened to and followed.
+33
+quash
+v
+to extinguish forcibly and compleely
+ant
+engender
+Modred was slain in his attempt to quash the revolt.
+34
+shard
+n
+debris
+par
+pottery
+There were shards everywhere on the floor from the broken mirror.
+35
+snarl
+v
+entangle
+ant
+disentangle
+The fly was snarled in the black widow's spider web with no prospects of escaping.
+36
+spate
+n
+a sudden outburst or flood
+ant
+dearth
+Alice was a popular columnist and received a spate of letters everyday.
+37
+stasis
+n
+a state of balance or motionlessness
+wo
+motility
+The Russia-U.S relationship appears to have reached a stasis.
+38
+weary
+adj
+fatigued or exhausted in strenth
+ant
+vivid
+Grandma is weary from the trip and must take a nap.
