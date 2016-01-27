@@ -1,0 +1,287 @@
+0
+abhor
+v
+hate
+de
+dislike
+Carrie abhorred the condenscending manner in which her class mate spoke.
+1
+abide
+v
+to endure, to follow
+ant
+evanescent
+The composer's passion for writing music abided until his untimely death.
+2
+achromatic
+adj
+no color
+wo
+hue
+The achromatic door caused many visitors to miss the entrance completely.
+3
+amble
+v
+to walk slowly
+kin
+walk
+The couple ambled lazily through their garden after dinner.
+4
+ambrosial
+adj
+pleasing to the tase or smell
+obj
+food
+The ambrosial drink was heralded by many as the nectar of the gods.
+5
+amicable
+adj
+friendly and peaceful
+ant
+inimical
+The amicable men came to a settlement quickly.
+6
+aphorism
+n
+short phrases
+ch
+brevity
+Peopole who practice Confucianism use aphorisms to guide their lives.
+7
+archaic
+adj
+ancient artistic
+ant
+neologism
+The factory's archaic methods of production slowed the growth of the company.
+8
+arid
+adj
+dry
+ch
+desert
+The arid acres of his farm scarcely yielded enough to keep his household fed through the winter.
+9
+ascetic
+adj
+desire-supressing
+ch
+self-denial
+Jogn had lived an ascetic life until he came to the very liberal and adventurous lifestyle of th eKorean peninsula.
+10
+augur
+n
+prophet
+ch
+prediction
+Louis went to the angur to discover his fate.
+11
+avid
+adj
+enthusiastic
+ant
+indifferent
+So avid was Jamie in his pursuit of affluence that the soon forgot the friends who aided him in his quest.
+12
+chiaroscuro
+n
+a skill of art
+ch
+contrast
+Chiaroscuro was employed by the artist to create a perception of shadows in the sketch.
+13
+chicanery
+n
+cunning deception
+ant
+aboveboard action
+Many Americans think that President Bush used chicanery to win the last election.
+14
+eccentric
+adj
+odd, extraordinary
+syn
+offbeat
+Carrington was the most eccentric person Gore had ever met.
+15
+embolden
+v
+make bold
+ant
+appall
+Sybil was emboldened by her sister's words and confronted her boss about the problem.
+16
+fabricate
+v
+to make fake
+wo
+authenticity.
+The student fabricated a story to tell his teacher that explained why his homework was late.
+17
+facetious
+adj
+witful
+obj
+speech
+Victor's facetious coment was met with great amusement by his co-workers.
+18
+gash
+n
+a deep wound
+de
+cut
+The paramedics found a large gash in the stabbing victim's right side.
+19
+genteel
+adj
+elegant
+ant
+churlish
+Brad's genteel demeanor belied his true maliciusness.
+20
+incendiary
+n
+crime of fire
+ch
+agitate
+Charlie was hired as an incendiary to stir up anger among the workers.
+21
+incense
+v
+being angry alot
+ant
+propitiate
+The recollection of Alexei's last act incensed his wife.
+22
+labyrinth
+n
+a hard maze
+ch
+tortuous
+McDougal's cave was a vast labyrinth of crooked walkways.
+23
+lacerate
+v
+to hurt feeling
+syn
+distress
+His colleague's tragic death lacerated the fireman, and his guilty consccience drove him to see a therapist.
+24
+licentious
+v
+not deciplined
+ant
+moral restraint
+The man went to the cathedral and confessed of his lientious behavior.
+25
+nebulous
+adj
+lacking distinct form
+ant
+unambiguous
+Banks and investors prefer the structure of a corporation to the often more nubulous organization of a sole proprietorship.
+26
+nicety
+n
+a subtle difference
+syn
+precision
+The consultant's nicety of the situation allowed her to immediately think of an alternative remedy.
+27
+peccadillo
+n
+a slight fault or sin
+de
+sin
+The conquistador committed a peccadillo to the priuest but quickly made amends for it.
+28
+recalcitrant
+adj
+defiant to authority
+cn
+obey
+In general, the people of France have been historically recalcitrant.
+29
+recant
+to
+cancelling previous oppinion
+obj
+belief
+Helen's refusal to recant her Christian faith led to her imprisonment for more than a year.
+30
+saboteur
+n
+one who sabotages
+ch
+disrupt
+The saboteurs' underhanded tactics led to the demise of the agency.
+31
+sobriety
+n
+seriousness in manner
+wo
+sumptuous
+Sobriety is one of the most important tenets of Buddism.
+32
+sublime
+adj
+majestic
+ant
+base
+There is but one step from the sublime to the ridiculous.
+33
+subside
+v
+to fall downward, to become less active
+ant
+intensify
+The storm eventually subsided.
+34
+subsidiary
+adj
+auxiliary
+ch
+supportive
+Trunacy was a subsidiary reason for why Dan was let go.
+35
+subterfuge
+n
+a deception to conceal the truth
+wo
+candor
+Roberta's apparent happiness with her domestic life was nothing mroe than subterfuge that maksked a lonely and empty existence.
+36
+subvert
+v
+to overturn from the foundation
+syn
+sabotage
+The rebels subverted the existing regime and replaed it with a democratic system of government.
+37
+succor
+n
+help when need
+syn
+relief
+The homeless woman found succer at the local shelter.
+38
+taciturn
+adj
+not talkative
+ant
+loquacious
+Alex enjoyed Beth's company even though she was taciturn by nature.
+39
+vibrant
+adj
+full of life
+ant
+flagging
+A vibrant complexion can signal younger, healthier individuals.
+40
+waver
+v
+to be indecisive
+pos
+irresoluteness
+Alex finally made a decision after two weeks of wavering back and forth.
