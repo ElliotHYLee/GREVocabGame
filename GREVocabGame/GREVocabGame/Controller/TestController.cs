@@ -72,7 +72,7 @@ namespace GREVocabGame.Controller
             dispatcherTimer.Tick += dispatcherTimer_Tick;
             dispatcherTimer.Interval = new TimeSpan(0, 0, 1);
             dispatcherTimer.Start();
-            int targetTime = Int32.Parse(_view.txtNumQu.Text) * 10;
+            int targetTime = Int32.Parse(_view.txtNumQu.Text) * 6;
             int targetMin = targetTime / 60;
             int targetSec = targetTime % 60;
             _view.lblTimeTarget.Content = targetMin.ToString() + ":" + targetSec.ToString();
@@ -148,7 +148,7 @@ namespace GREVocabGame.Controller
         {
             Random random = new Random();
             int randomNumber;
-
+            List<int> listRand = new List<int>();
             if (_view.txtNumQu.Text == "")
             {
                 MessageBox.Show("Check numbers");
@@ -163,6 +163,11 @@ namespace GREVocabGame.Controller
                 {
                     vp = new VPacket();
                     randomNumber = random.Next(0, _data.listExample.Count - 1);
+                    while (listRand.Contains(randomNumber))
+                    {
+                        randomNumber = random.Next(0, _data.listExample.Count - 1);
+                    }
+                    listRand.Add(randomNumber);
                     listWordIndex[i] = randomNumber;
                     vp.Day = _data.day;
                     vp.Word = _data.listWord[randomNumber];
