@@ -1,0 +1,301 @@
+0
+aloft
+adj
+high above in the air
+ant
+founder
+The sight of the eagles soaring aloft inspired Amos to paint a picture.
+1
+arctic
+adj
+extremely cold and frigid
+ant
+torrid
+The arctic tundra is home to only the fittest of wildlife.
+2
+balk
+v
+to stop short and refuse to go on
+ant
+move ahead willingly
+The horse balked and would not proceed into the dark forest.
+3
+ballast
+n
+a heavy substance used to imporve the stability of a ship
+fun
+stability
+Without the ballast, the ship will roll to much.
+4
+balm
+n
+a balsamic resinl a soothing agent
+fun
+irritation
+Lip balm is an essential for people who live in cold winter climates.
+5
+bolster
+n
+to support with a bolster
+fun
+support
+An extended rest and a good meal bolstered the morale of the troops.
+6
+callous
+adj
+hardened and thickened
+casue
+friction
+Greg's finger tips have become callous from playing guitar.
+7
+callow
+adj
+inexperienced.
+ant
+mature
+The man's callow ways often caused him to be shortsighted in his goals.
+8
+collude
+v
+to conspire
+kin
+cooperate
+Anarchists collude against the government.
+9
+culpable
+adj
+deserve to blame
+ch
+blame
+Are video games culpable for the recent violence in shcool?
+10
+disgorge
+v
+to discharge or eject from the throat and mouth
+syn
+vomit
+People in Ancient Rome often ate for 6 hours because they would excuse themselves to disgorge thoughout the meal.
+11
+errant
+adj
+deviating or straying from the etablished couse
+obj
+course
+Tom's errant behavior worried his father greatly.
+12
+eulogize
+v
+to extol or speak highly of
+ch
+encomiast
+President Bush eulogized the citizens of New York City for their reaction to the September 11th attacks.
+13
+fallacious
+adj
+tending to deceive
+ant
+veracious
+The product's fallacious advertising swindled many consumers of their hard earned money.
+14
+falter
+v
+ to move unsteadily
+syn
+hesitate
+Michael faltered for a few moments before finally speaking.
+15
+gall
+v
+to vex or become irritated
+ant
+assuage
+The teacher was galled by Daniel's actions.
+16
+gull
+v
+to cheat or deceive
+pur
+chicanery
+People are willing to gull for what they desire.
+17
+jolt
+v
+to disturb with a sudden
+kin
+move
+Rachael was jolted backwards by the collision of the cars.
+18
+lull
+v
+to soothe
+ant
+gall
+Every night the mother lulls her baby to sleep with a song.
+19
+malleable
+adj
+easy to change form
+obj
+shape
+Copper was the first malleable metal to ve uncovered and its flexibility led to rapid innovations.
+20
+malodor
+n
+a horrible smell
+kin
+scent
+Oral malodor is often the result of irregular brushing and improper hygiene.
+21
+mellifluous
+adj
+having a rich taste
+obj
+music
+A beautiful mellifluous melody floated into the room.
+22
+mollify
+v
+to ease or appease
+ant
+beleaguer
+The wife mollified her enraged husband.
+23
+palliate
+v
+to lessen the effect of
+obj
+severity
+Doctors hoped the new drug would palliate the side effects of chemotherapy on cancer patients.
+24
+palpable
+adj
+obvious or capable of being felt
+ant
+elliptical
+The scar on his knee is palpable to the touch.
+25
+palter
+v
+to act or speak in a deceitful way
+wo
+candor
+Philip paltered in front of the principa, hoping to get his classroom in trouble.
+26
+pellucid
+adj
+allowing for light to pass without diffusing or distorting
+ant
+evasive
+The professor's pellucid method of teaching was popular among his students.
+27
+pillory
+n
+a punishing tool
+fun
+punish
+The villagers threw tomatoes at the man in the pillory.
+28
+pine
+v
+loss of weight due to deep sorrow
+pos
+longing
+Justin pined for the opportunity to paint in Italy.
+29
+pollster
+n
+a person conducting polls
+ch
+canvass
+The pollsters are busy during election time.
+30
+punctilious
+adj
+strictly adhering to etiquette or formalities
+ant
+remiss
+Soren is an honest and very punctilious German, very much representing the general German culture.
+31
+pundit
+n
+a learned person
+ch
+opine
+The pundit gave lectures on glovalization at universities across the world.
+32
+rafter
+n
+a sloping beam that is used to support the roof
+fun
+roof
+Once the rafters were put in, the house started to take shape.
+33
+rancor
+n
+long-lived and bitter hatred
+an
+charitableness
+The doctor's rancor towards the tabacco industry emanated from treating lung cancer patients.
+34
+rend
+v
+to tear apart violently
+de
+tear
+Kathy's unfaithful husband rent her heart.
+35
+sanctimonious
+adj
+claiming to be more holy than one really is
+de
+devout
+the preacher's sanctimonious spiel about tithing had many of the congregation shaking their heads.
+36
+spleen
+n
+ill temper, an organ
+ant
+elation
+Nicholas vented his splenn on his wife.
+37
+sunder
+v
+to break apart
+de
+divide
+The tree was sundered after the lightening strike.
+38
+syllogism
+n
+a deductive structure of an arguement that includes a major premise
+pur
+disprove
+Aristotle's doctine of syllogism was the basis of formal logic.
+39
+tangy
+adj
+having a sharp, distinctive flavor or odor.
+ant
+bland
+Japanese cooking often uses the kabosu to produce a tangy flavor.
+40
+tarnish
+v
+to dull the luster of
+obj
+silver
+The once shiny trophy had become tarnished over time.
+41
+venner
+n 
+a super ficial or flase appearancel; 
+par
+furniture
+The wooden veneer on the table was beautiful.
+42
+volition
+v
+an act of free will
+wo
+vacillating
+Voting is an act of intelligent volition.

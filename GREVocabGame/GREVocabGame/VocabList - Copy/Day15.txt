@@ -1,0 +1,308 @@
+0
+accoldae
+v
+praise or honor
+ant
+invective
+In 1967 Michael won accolades for his role as a mass murderer in "In Cold Blood".
+1
+archetype
+n
+a prototype
+ch
+exemplify
+The archetype of an Ancient Greek woman was Aphrodite.
+2
+bucolic
+adj
+life of the herdsman
+ant
+urban
+I don't love the hectic urban lifestyle, but I prefer it to a bucolic life here.
+3
+constitute
+v
+to lay the foundation for or set up
+ant
+abdicate
+Henderson was constituted as the new ambassador in July.
+4
+cower
+v
+to shrink in fear
+cause
+fear
+Every time the owner raised his voice, the dog cowered in the corner.
+5
+derlirium
+n
+a state of mental disorder or confusion
+ch
+confusion
+The force of the blow put Liz into a temporary delirium.
+6
+exhaust
+v
+to use up completely
+ch
+infinite
+The small clinic's resources were exhausted while treating patients from the bus accident.
+7
+exhort
+v
+to urge strongly with argument
+ch
+urge
+Mr. Smith exhorted the company's adminstrative committee to cut down on expenditures.
+8
+facile
+ad
+superficial
+wo
+profundity
+The bachelor's facile reasons for marriage turned off any woman he dated.
+9
+feckless
+adj
+irresponsible or feeble
+ant
+responsible
+The father was upset at his daughter's feckless behavior at school.
+10
+foible
+n
+a minor fault in one's personality
+de
+failling
+The father's foibles did not prevent his son from admiring him.
+11
+friable
+adj
+easily breakable
+ch
+crumble
+The water filtered into underlying, particularly friable soil.
+12
+glib
+adj
+fluent but shallow
+de
+fluent
+The glib speaker told his life story to an entraptured audience.
+13
+grieve
+adj
+to feel sorrow
+pos
+sorrow
+We were shocked and grieved at the wanton murder he had committed.
+14
+hackneyed
+adj
+common or dull
+ch
+cliche
+The hackneyed sentiments of the play caused people to audibly groan at its triteness.
+15
+ichthyologist
+n
+scholar studying fish
+obj
+salmon
+The number of fish in Long Lake was determined by the ichthyologist.
+16
+incipeint
+adj
+just starting
+ch
+realized
+The work is still in the incipient stage.
+17
+inclement
+adj
+severe or merciless
+ant
+balmy
+The inclement man's heart was not touched by the starving children.
+18
+incogitant
+adj
+inconsiderate or thoughtless
+wo
+thought
+I found my brother's teasing of my boyfriend to be extremely incogitant.
+19
+laconic
+adj
+using few worsl brief to the point
+wo
+volubility
+Chris didn't enjoy trying to make conversation with the laconic guest.
+20
+lucid
+adj
+easy to understand
+ch
+obfuscate
+The student wrote a lucid explanation of his behavior, expressing regert.
+21
+outmaneuver
+v
+to overcome
+ant
+yield
+In martial arts, speed and precision are important in outmaneuvering your opponent.
+22
+palatable
+adj
+satisfacting taste
+syn
+savory
+Hunger makes any fare palatable.
+23
+paucity
+adj
+small amount
+ant
+slew
+The paucity of the group allowed them to travel together.
+24
+pliant
+adj
+flexible
+syn
+lithe
+The wire coat hanger was pliant enough to bend into different shapes.
+25
+preclude
+v
+exclude, hinder
+ant
+enclose
+His choice not to go to college has precluded any possibility for a good career.
+26
+pristine
+adj
+belonging to the earliest period
+ch
+taint
+The pristine beauty of the lake caused everyone to stare in awe.
+27
+pliable
+adj
+pliant
+syn
+supple
+The pliable gymnast was able to do the splits with the greates of ease.
+28
+pucker
+v
+contract into wrinkles
+obj
+mouth
+Her lips were puckered in anticipaation of a kiss.
+29
+puckish
+adj
+mischievous or imipish
+ant
+sober
+With a puckish gleam in her eye, Sarah ate the cake that was meant for the dinner guests.
+30
+quibble
+v
+to find fault for trivial reasons.
+ch
+cavil
+The heirs quibbled over the equitable distribution of the inheritance.
+31
+quiescenece
+n
+inactivity or idleness
+ant
+tumult
+The night's quiescence lulled Sarah to sleep.
+32
+recidivism
+n
+continual crime
+ch
+relapse
+The drug user's recidivism made any attempts at rehabilitation useless.
+33
+recluse
+n
+one who lives in solitude
+wo
+gregariousness
+For two years John wandered through Arizona, living as a recluse in the desert.
+34
+recondite
+adj
+abstruse or obscure
+ant
+widely understood
+Quantum physics is a  recondite subject for the average layman.
+35
+reconnoiter
+v
+to conduct a preliminary survey
+pur
+information
+A scout was sent ahead to reconnoiter the position of the enemy.
+36
+rickety
+adj
+being in an unstable condition
+obj
+furniture
+The rickety floor of the old house creaked as Michelle walked across it.
+37
+schism
+n
+a conflict, division
+ant
+unanimity
+A schism arose between Turkey and Greece after a group of illegal immigrants were found living in Athens.
+38
+stickler
+n
+one who insists on exactness or completeness in observance of something
+ch
+exacting
+My grammar teacher is a stickler for correcting grammar errors.
+39
+tacit
+adj
+implied withut being spoken
+obj
+infer
+The face she made at that moment was tacit cue for me to leave.
+40
+ticklish
+adj
+sensiive to tickling
+ant
+imperturbable
+Jane's ticklish disposition made her sensitive to criticism.
+41
+vacillate
+v
+hesitate
+wo
+equipoise
+The dancer's body rhythmically vacillated to the beat of the music.
+42
+vociferous
+adj
+offensivelyh loud
+ant
+serene
+The fans' vociferous voices attempted to distract opposing teams.
+43
+wicked
+adj
+vicious or evil
+pos
+nefarious
+The truly wicked people of the world live alone.

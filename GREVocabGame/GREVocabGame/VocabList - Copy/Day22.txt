@@ -1,0 +1,259 @@
+0
+admonish
+v
+deciple
+de
+denounce
+She softly admonished her husband for criticizing his brother's inrresponsible lifestyle.
+1
+arrhythmic
+adj
+lacking steady rhythm
+syn
+erratic
+Sandy brought the car to the mechanic because of an arrhythmic sound in the engine.
+2
+brat
+n
+troublesome child
+ch
+mischievous
+Karen loved her nieces, but she had to admit that they were brats.
+3
+bumptious
+adj
+arrogant
+de
+assertive
+The bumptious student didn't have many friends because of his aggressive attitude.
+4
+commend
+v
+to praise
+de
+esteem
+The brave citizen was commended for saving a child from drowning.
+5
+commodious
+adj
+spacious
+ant
+constricted
+The room was bright and commodious.
+6
+commotion
+n
+fuss
+de
+squall
+Curous upon hearing the commotion in the boss' office, Mina decided to investiage.
+7
+compendious
+adj
+brief
+ch
+encyclopedia
+aThe professor's comepndious remarks impressed the faculty board.
+8
+complacence
+n
+contended satisfaction with oneself.
+wo
+anxiety
+Steve's complacence infuriated his ambitious grilfriend and eventually resulted in their break-up.
+9
+compunction
+n
+feeling of guilty
+wo
+unrepentant
+Cynthia had not the least compunction for what she had said.
+10
+conjecture
+n
+guess
+syn
+speculate
+Elinor could only conjecture about their relationship because her husband didn't talk about it much.
+11
+dank
+adj
+wet and cool
+pos
+moisture
+The air was dank and stale in the cargo hold of the huge freighter.
+12
+denigrate
+v
+to defame
+ant
+honor
+The coach denigrated the capabilities of the opposing team.
+13
+din
+n
+a loud and persisten noise.
+syn
+clamor
+The din of the party inhibited the neighbor's sleep.
+14
+enmity
+n
+hatred or animmosity.
+ant
+concord
+Ratcliffe did not think Carington's enmity a thing to be overlooked.
+15
+footloose
+adj
+free to go as one pleases
+wo
+attachment
+The man had been footloose most of his life, but now felt he wanted to settle down.
+16
+genial
+adj
+friendly and warm
+ant
+mordant
+Lyman seemed to be every man's friend, because his genial disposition even puts strangers at ease.
+17
+hamper
+v
+to hinder
+ant
+facilitate
+Last minute work at the office hampered Billy's plan to get an early start on the weekend.
+18
+hangdog
+adj
+dejected or depressed
+ant
+elate
+The by left the classroom with a hangdog expression on his face when the teacher told him to go to the principal's office.
+19
+hankering
+adj
+aspiring
+ant
+odious
+Barney rummaged through the fridge to satisfy his hankering for a midnight snack.
+20
+hymn
+n
+a song of praise to God
+ch
+praise
+The Church hymns filled the air on that Sunday morning.
+21
+languid
+adj
+with minimal energy 
+wo
+energy
+barry's languid expression belied the excitement he felt inside.
+22
+leniency
+n
+a merciful disposition
+wo
+martinet
+On occasion, the teacher exhibited leniency for her students' misbehavior, but usually she was very strict and quick o punish.
+23
+longing
+n
+yearning
+pos
+pine
+Miguel was full of longing for his girlfriend far away.
+24
+mangy
+adj
+sordid
+ant
+decorous
+Homeless people are mangy looking because they lack life's necessities.
+25
+manifest
+adj
+obvious
+fun
+cargo
+Kindness is manifest in humanity at Christmas time.
+26
+munificent
+adj
+very liberal or generous
+ant
+parsimonious
+The chief offered me a munificent benefits package to stay with the company longer.
+27
+pompous
+adj
+exhibiting self-importance or arrogance
+ch
+bombast
+There is something very pompous in his style and mannerisms.
+28
+ramshackle
+adj
+being in disrepair
+wo
+soundness
+The ramshackle old vehicle sat rusting in the drive way.
+29
+remonstrance
+n
+an expression of protest
+ch
+dissuade
+The workers submitted a remonstrance listing the reasons for their dissatisfaction with management.
+30
+remorse
+n
+regret
+syn
+rue
+I was full of remorese for having hurt my sister with my viciuous criticism.
+31
+remunerate
+v
+to compensate
+ant
+unrequited
+The company will remunerate their traveling salesmen for any reasonable expenses incurred.
+32
+somnolence
+n
+a state of sleepiniess
+wo
+alert
+The students were nearing somnolence due to the teacher's monotone voice.
+33
+summit
+n
+the peak
+syn
+apex
+Presley climbed to the summit of one of the hills.
+34
+sumptuous
+adj
+luxurious
+wo
+sobriety
+The house had a very sumptuous appearance, so I knew I couldn't afford it.
+35
+timorous
+adj
+fearful or timid
+wo
+temerity
+Worried about the cat, the timorous mouse never scampered about the house for very long.
+36
+tumult
+n
+mental or emotional agitation
+ant
+serenity
+The tiny earthquake left Paul in a tumult of fear and anxiety even though it hardly registered on the Richter Scale.

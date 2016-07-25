@@ -1,0 +1,294 @@
+0
+abdicate
+v
+give up
+obj
+throne
+The allies forced Napoleon to abdicate his emperorship and exiled him to the island of Elba.
+1
+ameliorate
+v
+make it better
+syn
+improve
+We may be able to ameliorate the suffering of patients with the new drug.
+2
+blemish
+n
+stain
+wo
+impeccable
+The Watergate scandal was a huge blemish for Nixon administration.
+3
+bode
+v
+to be an omen
+ant
+auspicious
+The policy bodes ill for the future of international cooperation on environment.
+4
+cleft
+n
+gap
+de
+chasm
+The tremors of the earthquake created a massive cleft in the street.
+5
+clement
+adj
+merciful
+ant
+pitiless
+The clement woman took in the deserted stray and nourished it back to health.
+6
+credence
+n
+credit
+ant
+doubt
+Galileo disputed the credence that the world was flat.
+7
+diehard
+n
+conservative person
+dn
+budge
+Many in the firm viewed Aaron as a diehard who would never approve the new budget plan.
+8
+endorse
+v
+grant
+obj
+approval
+Mr. Derrick offers this only as a suggestion, and will endorse any decision you arrive at.
+9
+execrate
+v
+hate
+ant
+exalt
+Conservative Christians often execrate cinema and television, claiming that it corrupts the youth.
+10
+fleet
+v
+fade away quick
+syn
+meteoric
+Being in the spot light for just a fleeting moment was enought to make the old signer smile.
+11
+gregarious
+adj
+sociable
+wo
+recluse
+The once shy and reticent girl had become a gregarious young lady.
+12
+hedge
+v
+to evade
+kin
+fence
+On her way home, Jackie hedged hitting the deer by swerving off of the road.
+13
+godgepodge
+n
+a mixture of many things
+cn
+homogeneous
+America is a godgepodge of cultures from all over the world.
+14
+hovel
+n
+hut
+cn
+palatial
+Comapred to the mansion we used to live in, this place is a hovel.
+15
+indifferent
+adj
+imparital; lack of interest
+ant
+avid
+Mary's indifferent attitude towards school frustrated her parents.
+16
+indolent
+adj
+lazy
+ant
+sedulous
+Clare's indolent partner caused them to receive a poor grade on the project.
+17
+indomitable
+adj
+never surrender
+cn
+subdued
+The Greeks besieged the indomitable city of Troy with the gift of a wooden horse.
+18
+indubitable
+adj
+unable to doubt
+ant
+doubtful
+The indubitable truth of Pierre's testimony could not be argued.
+19
+ineluctable
+adj
+inevitable
+syn
+inescapable.
+Fate is the belief that all of life is ineluctable.
+20
+judicious
+adj
+wise
+ant
+daft
+A good mediator and fiend, Kren is respectable and judicious at all tims.
+21
+lethargic
+adj
+apathetic
+wo
+energy
+Alex was so lethargic from oversleeping that he didn't care that his favorite show was on.
+22
+intercessor
+n
+mediator
+ch
+mediate
+My family, fifth grade teacher, a guidance counselor at school, and a wonderful group called “Children to Children” were the greatest “intercessors” that I encountered.
+23
+mediocre
+adj
+common people
+ant
+virtuosity
+The poet's work was considered mediocre at best.
+24
+modest
+adj
+humble
+ant
+brazen
+The athlete was modest in victory, giving full credit to his coaches and teammates.
+25
+modicum
+n
+small amount
+ant
+large amount
+Even a modicum of moisture would be greatly appreciated by farmers in the dry season.
+26
+meek
+adj
+mild
+wo
+arrogance
+Daniel's meek personality was often taken as a sign of weakness by others.
+27
+mnemonic
+n
+a device that helps one remember
+fun
+remember
+Children use mnemonics to help them remember difficult problems.
+28
+nudge
+v
+to push gently
+de
+prod
+Steve nudged me with his elbow when I began dozing off in the meeting.
+29
+obdurate
+adj
+stubborn in perspective
+de
+firm
+The captain was obdurate to their appeals.
+30
+obedient
+adj
+submissive
+ant
+contumacious
+Obedient students rarely defytheir teachers.
+31
+preen
+v
+show off 
+ch
+dandy
+Mary preened herself for two hours on the night of the school dance.
+32
+quell
+v
+to supress
+ant
+stir
+Liz quelled the crying baby with a pacifier.
+33
+sneer
+v
+mock and laugh
+syn
+derision
+The crowd sneered at the poor attemps of the magician.
+34
+spendthrift
+n
+a person who wastefully spends his money
+ch
+improvidence
+Kimberly was known as a spendthrift because of her penchant for impulse buys.
+35
+steep
+v
+soak
+ch
+precipice
+The hint to making better raisin muffins is to steep the raisins in sherry.
+36
+stench
+n
+a foul smell
+obj
+nose
+The stench of rotting corpses filled the air around the river.
+37
+svelte
+adj
+slender or graceful in outline
+ant
+paunchy
+James Levine was investigating why some people can gorge themselves with food and stay svelte.
+38
+sweltering
+adj
+very hot
+pos
+heat
+The sweltering heat in Cambodia was unbearable for the tourists.
+39
+trenchant
+adj
+incisive
+ant
+vague
+The trenchant facts of the case left little for the jury to deliberate on.
+40
+troupe
+n
+a group of traveling performers
+par
+actor
+The strain of 2 months of traveling and performing was beginning to wear the troupe down.
+41
+wheedle
+v
+to entice by flattery
+pos
+cajolery
+Developers of some projects are weedling potential clients with free food and entertainment.

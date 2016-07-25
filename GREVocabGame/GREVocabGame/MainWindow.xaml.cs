@@ -24,7 +24,7 @@ namespace GREVocabGame
     {
         private ControllerNewVocab _ControllerNewVocab;
         private ModelToWrite _ModelToWrite;
-
+        private TestController _ControllerTest;
         /** Constructor
          * 
          * 
@@ -34,6 +34,7 @@ namespace GREVocabGame
             InitializeComponent();
             this._ModelToWrite = new ModelToWrite();
             this._ControllerNewVocab = new ControllerNewVocab(this, _ModelToWrite);
+            this._ControllerTest = new TestController(this, _ControllerNewVocab);
         }
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
@@ -91,6 +92,27 @@ namespace GREVocabGame
 
         }
 
-    
+        private void btnGen_Click(object sender, RoutedEventArgs e)
+        {
+            this._ControllerTest.generateSession();
+        }
+
+        private void btnSubmit_Click(object sender, RoutedEventArgs e)
+        {
+            this._ControllerTest.processAnswer();
+        }
+
+        private void btnHint_Click(object sender, RoutedEventArgs e)
+        {
+            this._ControllerTest.showHint();
+        }
+
+        private void txtResponse_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Enter)
+            {
+                this._ControllerTest.processAnswer();
+            }
+        }
     }
 }

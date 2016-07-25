@@ -13,7 +13,7 @@ namespace GREVocabGame.Model
         private List<String> _listWordType;
         private List<String> _listMean;
         private List<String> _listRelation;
-        private List<String> _listRealtedTo;
+        private List<String> _listRelatedTo;
         private List<String> _listExample;
 
         public ModelToWrite()
@@ -23,7 +23,7 @@ namespace GREVocabGame.Model
             this._listWordType = new List<String>();
             this._listMean = new List<String>();
             this._listRelation = new List<String>();
-            this._listRealtedTo = new List<String>();
+            this._listRelatedTo = new List<String>();
             this._listExample = new List<String>();
         }
 
@@ -57,10 +57,10 @@ namespace GREVocabGame.Model
             get { return this._listRelation; }
         }
 
-        public List<String> listRealtedTo
+        public List<String> listRelatedTo
         {
-            set { this._listRealtedTo = value; }
-            get { return this._listRealtedTo; }
+            set { this._listRelatedTo = value; }
+            get { return this._listRelatedTo; }
         }
 
         public List<String> listExample 

@@ -76,7 +76,6 @@ namespace GREVocabGame.Controller
 
         }
 
-
         public void enterTyped(object sender, KeyEventArgs e)
         {
             TextBox temp = null;
@@ -165,7 +164,7 @@ namespace GREVocabGame.Controller
                 ListBox lBox = (ListBox)sender;
                 this.view.txtDay.Text = this.dataWrite.day;
                 this.view.txtMean.Text = this.dataWrite.listMean[lBox.SelectedIndex];
-                this.view.txtRealtedTo.Text = this.dataWrite.listRealtedTo[lBox.SelectedIndex];
+                this.view.txtRealtedTo.Text = this.dataWrite.listRelatedTo[lBox.SelectedIndex];
                 this.view.txtRelation.Text = this.dataWrite.listRelation[lBox.SelectedIndex];
                 this.view.txtWordType.Text = this.dataWrite.listWordType[lBox.SelectedIndex];
                 this.view.txtWord.Text = this.dataWrite.listWord[lBox.SelectedIndex];
@@ -177,6 +176,15 @@ namespace GREVocabGame.Controller
             }
         }
 
+        public ModelToWrite GetData
+        {            
+            get { return dataWrite;}
+        }
+
+        public ModelToWrite[] GetDays
+        {
+            get { return dayArray; }
+        }
 
         public void scatterToDayArray(string fileName)
         {
@@ -207,14 +215,13 @@ namespace GREVocabGame.Controller
                     temp = fIn.ReadLine();
                     this.dataWrite.listRelation.Add(temp);
                     temp = fIn.ReadLine();
-                    this.dataWrite.listRealtedTo.Add(temp);
+                    this.dataWrite.listRelatedTo.Add(temp);
                     temp = fIn.ReadLine();
                     this.dataWrite.listExample.Add(temp);
                 }
                 fIn.Close();
             }
         }
-
 
         public void scatterToListWords(object sender, EventArgs e)
         {
@@ -289,7 +296,7 @@ namespace GREVocabGame.Controller
                 this.dataWrite.listWordType.Add(this.view.txtWordType.Text);
                 this.dataWrite.listMean.Add(this.view.txtMean.Text);
                 this.dataWrite.listRelation.Add(this.view.txtRelation.Text);
-                this.dataWrite.listRealtedTo.Add(this.view.txtRealtedTo.Text);
+                this.dataWrite.listRelatedTo.Add(this.view.txtRealtedTo.Text);
                 this.dataWrite.listExample.Add(this.view.txtExample.Text);
 
                 // update list box
@@ -313,8 +320,6 @@ namespace GREVocabGame.Controller
              }
 
         }
-
-        
 
         private bool checkConventionForSave()
         {
@@ -400,7 +405,7 @@ namespace GREVocabGame.Controller
                 fout.WriteLine(this.dataWrite.listWordType[i]);
                 fout.WriteLine(this.dataWrite.listMean[i]);
                 fout.WriteLine(this.dataWrite.listRelation[i]);
-                fout.WriteLine(this.dataWrite.listRealtedTo[i]);
+                fout.WriteLine(this.dataWrite.listRelatedTo[i]);
                 fout.WriteLine(this.dataWrite.listExample[i]);
             }
             //this.dataWrite.listExample.Clear();

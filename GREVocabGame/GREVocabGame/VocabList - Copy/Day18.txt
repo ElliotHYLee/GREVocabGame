@@ -1,0 +1,273 @@
+0
+abject
+adj
+in a miserable or low condition
+ant
+spirited
+The abject neighborhood was often the scene of violent crimes.
+1
+abjure
+v
+to reject or renounce something under oath
+ant
+espouse
+Mr. Linton abjured his involvement with the cult.
+2
+askew
+adj
+not straight
+ant
+aligned
+The picture was hanging askew on the wall
+3
+banal
+adj
+trivial; not interesting
+ch
+platitude
+Brian did poorly on his creative writing assignment because the professor thought it was a banal piece of writing.
+4
+belabor
+v
+to attack verbally
+de
+assert
+The Jehovah's Witness came to my house and belabored me with his messages.
+5
+bristle
+v
+to show anger
+cause
+anger
+The hair on Peter's head bristled even after many brushings with a comb.
+6
+cajole
+v
+to coax or persuade with charm
+pos
+wheedle
+The sales man cajoled the woman into buying a new car.
+7
+candid
+adj
+honest and straightforward
+ant
+furtive
+Charles' candid story did not leave out his own role in the crime.
+8
+candor
+n
+impartiality
+wo
+palter
+The political candidate's candor won over many voters who wre impressed by his frankness.
+9
+clique
+n
+an exclusive group of people
+syn
+faction
+The jock's clique was comprised of fellow football players and their cheerleader girlfriends.
+10
+concord
+n
+an agreement
+wo
+inconsonant
+The sisters finally reached a concord about the layout of their bedroom.
+11
+concur
+v
+to approve or agree
+ant
+dissent
+Not all scientists agree about how Earth got its oceans, but most concur that space debris contributed.
+12
+condone
+v
+to pardon
+ant
+denounce
+The mother didn't condone the outlandish behavior of her daughter.
+13
+dappled
+adj
+marked with spots
+pos
+spot
+Virginia preferred her dappled horse to all the other palin horses.
+14
+drivel
+v
+to speak snselessly
+ch
+nonsensical
+The actor driveled all over the media looking for any kind of publicity.
+15
+eleemosynary
+adj
+benevolent
+ch
+philanthropist
+The unexpected outpouring of eleemosynary gifts touched the missionaries deeply.
+16
+fetid
+adj
+stinky
+obj
+smell
+The fetid odor made the girls nauseous.
+17
+flit
+v
+to dart across or move quickly
+kin
+move
+Tracy's role as the angle in the school play was to flit acros the stage gracefully.
+18
+frivolity
+n
+the act of being light-hearted
+wo
+gravity
+He did not like to combine frivolity with the serious business of hunting.
+19
+gait
+n
+the way a person walks or moves.
+obj
+walk
+Diana walked into the meeting with a confident gait.
+20
+grouch
+n
+a habitually complaining person
+ch
+querulous
+The children wre all afraid of the grouch who sat in front of the corner store.
+21
+hike
+v
+to increase
+ant
+backset
+The Federal Reserve Chairman hiked the interest rate in hopes of slowing inflation.
+22
+idolater
+n
+one who worships idols
+ch
+reverent
+In today's society, most people are idolaters of money.
+23
+iniquitous
+adj
+unjust
+ant
+rectitude
+The iniquitous freight rates had been implanted due to a lack of competition in the shipping industry.
+24
+irk
+v
+to make irritated or annoyed.
+de
+enrage
+It irked Helen that Matt forgot her birthday.
+25
+jejune
+adj
+lacking in interest
+wo
+interest
+The jejune novel put me to sleep after the first page.
+26
+lugubrious
+adj
+sad or mournful
+ant
+jovial
+A dog let out a long, lugubrious howl outside.
+27
+maladroit
+adj
+inept
+ant
+deft
+The maladroit young lady is not fit to be a dancer.
+28
+morose
+adj
+sullen 
+ant
+jocund
+Janet guessed from Jason's morose mood that the test did not go very well.
+29
+nonentity
+n
+not a significant person
+wo
+consequence
+Having been considered a nonentity his whole life, Albert aspired to be a world renowned author one day.
+30
+pontificate
+v
+to speak in an arrogant and dogmatic manner
+kin
+speak
+The brilliant professor was disliked because he had a tendency to pontificate during his lectuers.
+31
+shrik
+v
+to avoid responsibility or duty
+ch
+malingerer
+Jogn has tried to shirk the responsibility.
+32
+skirt
+v
+avoid
+syn
+evade
+Tom skirted the issue of his family by changing the subject.
+33
+skit
+n 
+short comedy
+kin
+drama
+Our skit at summer camp had the children in stitches.
+34
+slipshod
+adj
+looking shabby
+syn
+slovenly
+A slipshod man passed me on the street, wearing a ragged coat and torn pants.
+35
+smirk
+n
+an arrogant and self-satisfied smile
+ch
+smugness
+Emily's smirk upon hearing the news of her rival company's demise indicated she knew of it beforehand.
+36
+trite
+ad
+commonplace
+syn
+hackneyed
+The maxim is so old that it is trite.
+37
+turncoat
+n
+a traitor
+wo
+constancy
+One of the greatest crimes is to be a turncoat against your country.
+38
+unekempt
+adj
+messy or not clean
+ant
+dapper
+Mr. Gracie was short and unkempt, almost rustic.
