@@ -162,10 +162,10 @@ namespace GREVocabGame.Controller
                 for (int i = 0; i < maxIteration; i++)
                 {
                     vp = new VPacket();
-                    randomNumber = random.Next(0, _data.listExample.Count - 1);
+                    randomNumber = random.Next(0, _data.listExample.Count );
                     while (listRand.Contains(randomNumber))
                     {
-                        randomNumber = random.Next(0, _data.listExample.Count - 1);
+                        randomNumber = random.Next(0, _data.listExample.Count );
                     }
                     listRand.Add(randomNumber);
                     listWordIndex[i] = randomNumber;

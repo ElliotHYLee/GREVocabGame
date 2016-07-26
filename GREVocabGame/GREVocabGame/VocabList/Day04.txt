@@ -25,7 +25,7 @@ adj
 cold and grave in appearance or manner; morally self-disciplined; having no adornment
 cn
 decorate
-The dean appeared at the banquet with an qustere demeanor
+The dean appeared at the banquet with an austere demeanor
 4
 barefaced
 adj
@@ -53,7 +53,7 @@ n
 a reservoir used to store water
 fun
 liquids
-A cistern was added tot he village during war time as a precaution.
+A cistern was added to the village during war time as a precaution.
 8
 crutch
 n
@@ -118,7 +118,7 @@ ch
 digress
 The professor's excursive lecture lacked focus and confused the students.
 17
-exmpt
+exempt
 v
 to free or release from obligation or duty
 obj
@@ -312,7 +312,7 @@ n
 a sudden outburst or attack of emotion; convulsion
 ch
 sudden
-The patient took a turn for the better after his paraxysm of laughing at the antics of Dr. Adams.
+The patient took a turn for the better after his paroxysm of laughing at the antics of Dr. Adams.
 45
 parrot
 v
