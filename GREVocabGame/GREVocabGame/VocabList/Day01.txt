@@ -5,3 +5,409 @@ to leave secretly and hide oneself
 kin
 depart
 Though the CEO absconded to another country, he was extradited and forced to stand trial for the company's disastrous bankruptcy.
+1
+adulate
+v
+to flater in a servile way
+de
+flatter
+In order to get a raise, the employee adulated the boss.
+2
+adulterate
+v
+to make impure by adding or mixing with foreign or inferior substances
+obj
+purity
+More than a century ago, platinum was used to adulterate gold.
+3
+altruist
+n
+one who is unselfisly devoted improving the welfare of others.
+ant
+vulture
+Perry was a great altruist that touched the lives of people from all over the world.
+4
+anachronism
+n
+a chronological error
+wo
+chronology
+It is an anachronism to attempt a life without technology in the modern world.
+5
+awry
+adj
+turned or twisted out of place; not in proper position
+ant
+orderly
+Anne rushed into the meeting late with her hair unbrushed and her clothes awry.
+6
+blunt
+v
+to make dull
+ant
+whet
+Amy blunted the corners of the coffe table in order to ensure her toddler's safety.
+7
+browbeat
+v
+to intimidate or discourage by being overbearing or domineering
+ch
+bully
+Lawyers are not allowed to browbeat witnesses that are on the stand.
+8
+canopy
+n
+a covering usually made of cloth held on poles
+fun
+cover
+A canopy was added to the restaurant so that patrons could dine outdoors.
+9
+clumsy
+adj
+awkward of lacking grace
+wo
+knack
+My sister is said to have clumsy feet because she is alwyas tripping.
+10
+crucial
+adj
+critical or extremely important
+ant
+inconsequential
+It is crucial that you get the package to the post office on time.
+11
+crumble
+v
+to fall to pieces or collapse
+ch
+friable
+The tall building crumbled from the earthquake.
+12
+curt
+adj
+rudely short in speech or manner
+ant
+wordy
+The man at the counter was very curt when replying to my request.
+13
+curtail
+v
+to shorten or make less by cutting off some part
+ant
+protract
+The executives curtailed negotiations after making no headway with the labor union.
+14
+daunt
+v
+to intimidate or lessen the courage of
+wo
+trepidation
+Being attacked in Russia was dauting experience.
+15
+diocesan
+adj
+related to the area or churches under a bisiop's jurisdiction
+ant
+ecumenical
+The diocesan council overlooked the matter while the biship was absent.
+16
+disaffected
+adj
+discontented and resentful, especially against authority
+wo
+contentment
+Many of the Vietnam War Veterans have become disaffeted to their country.
+17
+disavow
+v
+to disclaim knowledge of, responsibility for, or association with
+syn
+deny
+Jeff disavowed any knowledge of the robbery.
+18
+discern
+v
+to see or understand as different; to recognize as distinct or separate
+ant
+myopic
+It is hard, at times, to discern between right and wrong.
+19
+discomfit
+v
+to disconcert; to upset or make uneasy
+ant
+pacify
+The president was discomfited by the terrorist threats.
+20
+discommode
+v
+to disturb the self-composure of
+cn
+pacific
+The laughs of the other schoolchildren on the playground discomposed the young girl.
+21
+discontent
+adj
+unhappy or dissatisfied
+syn
+gripe
+It was a point in my life when I was discontent and needed a change.
+22
+drudgery
+n
+uninspiring and fatiguing work
+ant
+rewarding work
+Unskilled labor workers spend their entire lives in drudgery.
+23
+earsplitting
+adj
+excessivly loud
+de
+loud
+clubs are only good for people who enjoying dancing and earsplitting music.
+24
+ecumenical
+adj
+universal; promoting worldwide Christian cooperation
+syn
+general
+Saving the environment is of ecumenical importance.
+25
+elucidate
+v
+to make clear by explanationl to render more intelligible
+ant
+garble
+Mary elucidated her actions by explaining her perspective and intentions.
+26
+emulate
+v
+ to imitate or strive to equal
+pur
+exemplary
+Carrie emulated her older sister in appearance and personality
+27
+equipoise
+n
+a state of equilibrium
+cn
+vacillate
+Will the world ever reach an equipoise?
+28
+ferid
+adj
+impassioned or having intense feelings
+ant
+impassive
+The missionary is abosulutely fervid about ther faith.
+29
+forthright
+adj
+frank or direct
+cn
+circumlocution
+The father was forthright with his son about the dangers of drinking.
+30
+fortify
+v
+to strengthen physically, emotionally, or mentally
+ant
+enervate
+The Venetians fortified their Cretan castle with huge defensive walls.
+31
+furtive
+adj
+deceptively secret or sly
+ant
+overt
+The politician's furtive behavior was attacked by journalists in the newspaper.
+32
+husband
+v
+to use sparingly or economically
+ant
+prodigality
+Billy husbanded his monthlyl allowance in order to save for a new bicycle.
+33
+martinet
+n
+a person who is strictlyt disciplined and adherent to forms
+wo
+leniency
+It takes a martinet to rurn a military operation.
+34
+mirth
+n
+happiness or gaiety expressed with laughter
+pur
+laughter
+Elizabeth responded with mirth when her boyfriend proposed to her.
+35
+misanthrope
+n
+one who dislikes or distrusts mankind
+cn
+humane
+Polly Whitney once pointed out the irony of a misanthrope needing people to hate.
+36
+misbehave
+v
+to behave improperly
+ch
+reporbate
+It is typical for children to misbehave.
+37
+mischievous
+adj
+tending to cause trouble; harmful
+ch
+brat
+The mother could not control her mischievous teen.
+38
+partial
+adj
+having prejudice; being favorably disposed
+ant
+dispassionate
+The manager was partial to his hirees and tended to promote them above others.
+39
+partisan
+n
+one who strongly adheres to a cause, party or faction
+ch
+allegiance
+Lee is a partisan for anti-globlization.
+40
+persuade
+v
+to convince or urge someone by argument or entreaty.
+ch
+obstinate
+You can try to persuade him, but I guarantee he won't be moved.
+41
+pertinacity
+n
+an obstinate adherence to a cause, position, or purpose.
+pos
+refractory
+Dary could not believe Elizabeth's pertinacity to feminism.
+42
+pertinent
+adj
+relevant
+ant
+immaterial
+The judge ruled the evidence pertinent to the case.
+43
+perturb
+v
+disturb or cause confusion to someone's peace of mind
+cn
+stoic
+The new employee perturbed the manager with his lazy work habits.
+44
+pervade
+v
+to permeate through every part
+cn
+avoid
+The scent of flowers from the garden pervaded the cottage.
+45
+portentous
+adj
+arousing amazement; being an important or serious matterl ominous
+ant
+auspicous
+His portentous words left the crowd in amazement and fear.
+46
+portrait
+n
+a picture or portrayla in words of a person
+obj
+person
+There is a portrait of Mona Lisa hanging in the Lourvre in Paris.
+47
+purvey
+v
+to supply provisions or materials
+ch
+vendor
+The committee purveyed food and other supplies for the conference.
+48
+ribald
+adj
+offensive; containing indecent humor.
+ant
+seemly
+Politicians must be careful not to make ribald comments during speeches.
+49
+rescind
+v
+to remove, take back, or revoke
+obj
+law
+The judgement was rescinded by the commitee due to new evidence.
+50
+sanguine
+adj
+being of the color of blood; of a cheerful and confident disposition
+ant
+despondent
+Derek had a sanguine temperament and always had a smile on his face.
+51
+servile
+adj
+subservient or submissive
+ant
+imperious
+Debbie is a quiet and servile young woman who never raises her voice.
+52
+squander
+v
+to spend foolishly; to scatter
+ant
+conserve
+Michael squandered his entire first paycheck at the casino.
+53
+steadfast
+adj
+immovable;
+ant
+capricious
+There is nothing more valuable than a steadfast friendship.
+54
+strut
+v
+to walk in a proud or arrogant way
+kin
+walk
+Kathy strutted down the hallyways of her corporation, flauting her attractiveness.
+55
+verve
+n
+energy or vitality; the spirit of enthusiansm
+ant
+listlessness
+The surfer goes at life just as he does a wave, with verve and confidence.
+56
+virtuous
+adj
+exhibiting excellent moral virtue
+ant
+base
+The princess was not only kind but virtuous
+57
+virulent
+adj
+being able to cause disease by breaking down bodily defense mechanisms; malignant
+ant
+salubrious
+Without proper treatment, the virulent HIV will spread throughout his body quickly and debilitate him.
+58
+wary
+adj
+cautious or watchful of danger
+cn
+gulled
+When walking alone at night, one should be wary of strangers.
