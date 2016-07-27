@@ -72,7 +72,7 @@ namespace GREVocabGame.Controller
             dispatcherTimer.Tick += dispatcherTimer_Tick;
             dispatcherTimer.Interval = new TimeSpan(0, 0, 1);
             dispatcherTimer.Start();
-            int targetTime = Int32.Parse(_view.txtNumQu.Text) * 6;
+            int targetTime = Int32.Parse(_view.txtNumQu.Text) * 5;
             int targetMin = targetTime / 60;
             int targetSec = targetTime % 60;
             _view.lblTimeTarget.Content = targetMin.ToString() + ":" + targetSec.ToString();
