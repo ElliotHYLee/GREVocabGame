@@ -5,6 +5,7 @@ to increase gradually by addition
 kin
 grow
 The money that Fred had invested 14 years ago had accredeted to a large amont.
+False
 1
 ardent
 adj
@@ -12,6 +13,7 @@ passionate and torrent
 ant
 tepid
 The ardent opponents to the death penalty lined up to protest outside the prison walls.
+False
 2
 audacious
 adj
@@ -19,6 +21,7 @@ recklessly adventurous or brave
 wo
 trepidation
 The audacious tricks of the stunt man awed the audience.
+False
 3
 blight
 v
@@ -26,6 +29,7 @@ to wither up
 syn
 ruin
 Tom hoped that Mary wouldn't forget his shoes, but the hope was blighted.
+False
 4
 cacophony
 n
@@ -33,6 +37,7 @@ dissonant sounds
 ant
 melody
 The Sirens tortured their victims with a cacophony of singing and wailing.
+False
 5
 coda
 n
@@ -40,6 +45,7 @@ a concluding part of an music work.
 ant
 prelude
 Finally in the coda, the book moves forward to 1999 for its embracing, reflective conclusion.
+False
 6
 decorous
 adj
@@ -47,6 +53,7 @@ being of decent or proper
 ant
 mangy
 The decorous yong man never lost his temper or said anything outof line.
+False
 7
 decrepit
 adj
@@ -54,6 +61,7 @@ weakned, worn out.
 ant
 vigorous
 the decrepit old man spent the last ten years of his life in bed.
+False
 8
 didactic
 adj
@@ -61,6 +69,7 @@ tending to teach or moralize
 ch
 teach
 Although he was an extremely intelligent man, his didactic attitude was not liked by anyone.
+False
 9
 dodder
 v
@@ -68,6 +77,7 @@ to shake body due to old age
 ch
 unsteady
 Grandmother Betty doddered on her way from the house to the car.
+False
 10
 eminent
 adj
@@ -75,6 +85,7 @@ highly ranked or prominent
 ch
 luminary
 Dressed in full attire, the eminent General led the parade through the town's main street.
+False
 11
 epigram
 n
@@ -82,6 +93,7 @@ a wise saying
 ch
 wise
 Sometimes the doctor made philosophic epigrams which he used as encouragement through the hardships in his life.
+False
 12
 excoriate
 v
@@ -89,6 +101,7 @@ censure harshly
 ant
 extol
 Mr. Arafat has been excoriate harshly by President Bush because of the many Palestinian suicide bombings.
+False
 13
 exculpate
 v
@@ -96,6 +109,7 @@ to forvie or excuse
 pur
 alibi
 The defendant argues that the new evidence should exculpate him.
+False
 14
 faction
 n
@@ -103,6 +117,7 @@ a select group within a larger group
 syn
 clique
 Only the most outstanding faction of students was selected to represent the school at the ceremony.
+False
 15
 faint
 adj
@@ -110,6 +125,7 @@ weak, idle
 ant
 stentorian
 The faint voices began to grow louder as Mary got closer to the door.
+False
 16
 fecundity
 n
@@ -117,6 +133,7 @@ the productiveness of a person
 ant
 barrenness
 Research shows that high fecundity is often balanced by high mortality.
+False
 17
 frigid
 adj
@@ -124,6 +141,7 @@ extremely cold
 de
 cool
 Mars has frigid weather conditions.
+False
 18
 gainsay
 v
@@ -131,6 +149,7 @@ to opose or state as untrue.
 ant
 affirm
 I gainsaid my sister's claim that I had stolen Mom's money.
+False
 19
 guile
 n
@@ -138,6 +157,7 @@ decit or trickery
 wo
 naive
 Looking into her large clear eyes, Bruce could see nothing that would indicate guile.
+False
 20
 hamstring
 v
@@ -145,6 +165,7 @@ to cripple or incapacitate
 obj
 effectiveness
 The relief efforts were hamstring by the unexpected storm.
+False
 21
 heinous
 adj
@@ -152,6 +173,7 @@ fatefully wicked
 ant
 venial
 Many consider Hittler's extermination of the Jews to be the most heinous act in history.
+False
 22
 hidebound
 adj
@@ -159,6 +181,7 @@ stubbornly conservative
 de
 conservative
 Some critics say that present-day Korean society is much less hierarchical and hidebound than it was during the country's long pre-modern period.
+False
 23
 hideous
 adj
@@ -166,6 +189,7 @@ ugly to the point of offensive
 wo
 pulchritude
 The Medusa was a mythological hideous creature whose face would turn any men to stone.
+False
 24
 incorrigible
 adj
@@ -173,6 +197,7 @@ unruly; unable to reform
 ch
 amend
 The incoriigible young man could not be controlled by anyone, not even his parents.
+False
 25
 inculpate
 v
@@ -180,6 +205,7 @@ to convict of a wrongful act with the use of evidence or proof.
 ant
 exonerate
 Pierre was inculpated by the new evidence brought forth by the prosecution.
+False
 26
 inimical
 adj
@@ -187,6 +213,7 @@ being hostile or opposed to someone or something
 ant
 amicable
 Peter's cold, inimical voice towards Michael indicated the bad blood tetween the two.
+False
 27
 inimitable
 adj
@@ -194,6 +221,7 @@ not able to mimicked
 ch
 copty
 the actor's stellar performance was inimitable.
+False
 28
 jaded
 adj
@@ -201,6 +229,7 @@ being worn out and tired
 cause
 overexposure
 Jack seemed jaded, but he interrupted his comrade with a voice of calm confidence.
+False
 29
 jocund
 adj
@@ -208,6 +237,7 @@ being in high spirits
 ant
 morose
 After the football victory, the fans were jocund and celebrated all night.
+False
 30
 occult
 adj
@@ -215,6 +245,7 @@ hidden from general view or knowledge
 ant
 patent
 The occult entrance to the club was only accessible with a special key.
+False
 31
 pedantic
 adj
@@ -222,6 +253,7 @@ being a pedant
 de
 scholarly
 The three Spanish professors laughed heartily at the pedantic Classics student who spent his entire time studying one Ancient Greek book.
+False
 32
 persiflage
 n
@@ -229,6 +261,7 @@ light teasing or banter
 pur
 incite
 The persiflage between the old friends belied the actual tension that strained their relationship.
+False
 33
 philistine
 n
@@ -236,6 +269,7 @@ one who is uncultured and ignorant
 cn
 cultivated
 The world is full of philistines who care only for money and nothing for culture and the arts.
+False
 34
 rectify
 v
@@ -243,6 +277,7 @@ to correct
 obj
 treaty
 The businessman tried to rectify his mistakes of bieng an absentee father by spending more time with his children.
+False
 35
 rectitude
 n
@@ -250,6 +285,7 @@ being fair
 wo
 corruptionist
 The moral rectitude of humanity is of the utmost concern especially for world religious leaders.
+False
 36
 sedate
 v
@@ -257,6 +293,7 @@ to make calm
 ant
 roil
 THe lawyer ahad to sedate his client from yelling against the judge to avoid the maximum sentence.
+False
 37
 sycophant
 n
@@ -264,6 +301,7 @@ one who flatters those in power to get what he/she wants
 ch
 fawn
 Hollywood stars often complain that true friends are hard to find among the plethora of sycophants.
+False
 38
 tact
 n
@@ -271,6 +309,7 @@ the capability to act so as not to offend people
 ch
 offend
 Tom was completely lacking tact and was of no romantic interest to Sue.
+False
 39
 trickle
 n
@@ -278,6 +317,7 @@ to drip or fall as drops
 de
 gush
 Pierre felt the tears trickel under his spectacles and hoped they would not be noticed.
+False
 40
 uncouth
 adj
@@ -285,6 +325,7 @@ lacking in tact and grace
 ch
 churl
 Mattie remembered the shyness he had felt at approcahing her in his uncouth clothes.
+False
 41
 unctuous
 adj
@@ -292,6 +333,7 @@ insincere kindness
 ch
 salve
 Many products, such as candles and oil, are made from the body parts of unctuous animals, suh as whales.
+False
 42
 vehement
 adj
@@ -299,3 +341,4 @@ intensely emotional
 ant
 apathetic
 In a rage of anger she shouted vehement words at the group of onlookers.
+False

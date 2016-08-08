@@ -15,18 +15,17 @@ namespace GREVocabGame.Controller
     class ControllerNewVocab
     {
         private MainWindow view;
-        private ModelToWrite dataWrite;
-        private ModelToWrite[] dayArray;
+        //private ModelToWrite dataWrite;
+        private DayPacket vocabList;
+        private List<DayPacket> dayList;
+        int currentListBoxIndex;
 
 
         public ControllerNewVocab(MainWindow view, ModelToWrite dataWrite)
         {
+
             //this.dataWrite = dataWrite;
-            this.dayArray = new ModelToWrite[30];
-
-            dayArray[0] = new ModelToWrite();
-
-
+            this.dayList = new List<DayPacket>();
             this.view = view;
             this.clearAll();
             this.fillVocabFileLists();
@@ -62,7 +61,7 @@ namespace GREVocabGame.Controller
                     this.view.listDays.Items.Add(fileName);
                     strDay = fileName.Substring(3, 2);
                     day = int.Parse(strDay);
-                    this.dayArray[day - 1] = new ModelToWrite();
+                    
                     scatterToDayArray(fileName);
 
                     //this.autoScrollListBox(this.view.listDays);
@@ -162,13 +161,15 @@ namespace GREVocabGame.Controller
             try
             {
                 ListBox lBox = (ListBox)sender;
-                this.view.txtDay.Text = this.dataWrite.day;
-                this.view.txtMean.Text = this.dataWrite.listMean[lBox.SelectedIndex];
-                this.view.txtRealtedTo.Text = this.dataWrite.listRelatedTo[lBox.SelectedIndex];
-                this.view.txtRelation.Text = this.dataWrite.listRelation[lBox.SelectedIndex];
-                this.view.txtWordType.Text = this.dataWrite.listWordType[lBox.SelectedIndex];
-                this.view.txtWord.Text = this.dataWrite.listWord[lBox.SelectedIndex];
-                this.view.txtExample.Text = this.dataWrite.listExample[lBox.SelectedIndex];
+                currentListBoxIndex = lBox.SelectedIndex;
+                this.view.txtDay.Text = this.vocabList.Day;
+                this.view.txtMean.Text = this.vocabList.at(lBox.SelectedIndex).Mean;
+                this.view.txtRealtedTo.Text = this.vocabList.at(lBox.SelectedIndex).RelatedTO;
+                this.view.txtRelation.Text = this.vocabList.at(lBox.SelectedIndex).Relation;
+                this.view.txtWordType.Text = this.vocabList.at(lBox.SelectedIndex).WordType;
+                this.view.txtWord.Text = this.vocabList.at(lBox.SelectedIndex).Word;
+                this.view.txtExample.Text = this.vocabList.at(lBox.SelectedIndex).Example;
+                this.view.chkFocus.IsChecked = this.vocabList.at(lBox.SelectedIndex).Focus;
             }
             catch (Exception exxxx)
             {
@@ -176,14 +177,10 @@ namespace GREVocabGame.Controller
             }
         }
 
-        public ModelToWrite GetData
-        {            
-            get { return dataWrite;}
-        }
 
-        public ModelToWrite[] GetDays
+        public List<DayPacket> DayAt
         {
-            get { return dayArray; }
+            get { return dayList; }
         }
 
         public void scatterToDayArray(string fileName)
@@ -191,9 +188,10 @@ namespace GREVocabGame.Controller
             Console.WriteLine(fileName);
             String strDay = fileName.Substring(3, 2);
             int day = int.Parse(strDay);
-            this.dataWrite = this.dayArray[day - 1];
-            this.dataWrite.day = strDay;
-            //this.view.txtDay.Text = this.dataWrite.day;
+
+            this.vocabList = new DayPacket();//this.dayList[day - 1];
+            this.vocabList.Day = strDay;
+            
             if (true)
             {
 
@@ -201,39 +199,45 @@ namespace GREVocabGame.Controller
                 String temp;
                 while (!fIn.EndOfStream)
                 {
+                    this.vocabList.newVPacket();
                     fIn.ReadLine(); // get rid of index
                     temp = fIn.ReadLine();
-                    this.dataWrite.listWord.Add(temp);
+                    this.vocabList.addWord(temp);
                     //this.view.listWords.Items.Add(temp);
                     //this.autoScrollListBox(this.view.listWords);
 
                     temp = fIn.ReadLine();
-                    this.dataWrite.listWordType.Add(temp);
+                    this.vocabList.addWordType(temp);
+                    temp = fIn.ReadLine();
+                    this.vocabList.addMean(temp);
+                    temp = fIn.ReadLine();
+                    this.vocabList.addRelation(temp);
+                    temp = fIn.ReadLine();
+                    this.vocabList.addRelatedTo(temp);
+                    temp = fIn.ReadLine();
+                    this.vocabList.addExample(temp);
+                    temp = fIn.ReadLine();
+                    this.vocabList.addFocus(bool.Parse(temp));
 
-                    temp = fIn.ReadLine();
-                    this.dataWrite.listMean.Add(temp);
-                    temp = fIn.ReadLine();
-                    this.dataWrite.listRelation.Add(temp);
-                    temp = fIn.ReadLine();
-                    this.dataWrite.listRelatedTo.Add(temp);
-                    temp = fIn.ReadLine();
-                    this.dataWrite.listExample.Add(temp);
+                    this.vocabList.insertVPacket();
                 }
                 fIn.Close();
             }
+
+            dayList.Add(vocabList);
         }
 
         public void scatterToListWords(object sender, EventArgs e)
         {
             String strDay = this.view.listDays.SelectedItem.ToString().Substring(3, 2);
             int day = int.Parse(strDay);
-            this.dataWrite = this.dayArray[day - 1];
-            this.view.txtDay.Text = this.dataWrite.day;
-            Console.WriteLine(this.dataWrite.listWord.Count);
+            this.vocabList = this.dayList.ElementAt(day - 1);
+            this.view.txtDay.Text = this.vocabList.Day;
+            Console.WriteLine(this.vocabList.Count);
             this.view.listWords.Items.Clear();
-            for (int i = 0; i < this.dataWrite.listWord.Count; i++)
+            for (int i = 0; i < this.vocabList.Count; i++)
             {
-                this.view.listWords.Items.Add(this.dataWrite.listWord.ElementAt(i));
+                this.view.listWords.Items.Add(this.vocabList.at(i).Word);
                 this.autoScrollListBox(this.view.listWords);
             }
         }
@@ -246,17 +250,16 @@ namespace GREVocabGame.Controller
             int day = int.Parse(this.view.txtDay.Text);
             bool newDay = false;
 
-            if (this.dataWrite == null)
+            if (this.vocabList == null)  // current day's vocab list is null
             {
-                // there's one already
-                if (this.dayArray[day - 1] != null)
+                if (this.dayList.Count <= day)  // there's the day is existing already in the daylist
                 {
-                    this.dataWrite = this.dayArray[day - 1];
+                    this.vocabList = this.dayList[day - 1];
                 }
                 else // there's no one yet
                 {
-                    this.dayArray[day - 1] = new ModelToWrite();
-                    this.dataWrite = this.dayArray[day - 1];
+                    this.dayList.Add(new DayPacket());
+                    this.vocabList = this.dayList[day - 1];
                     String fileName = null;
                     if (this.view.txtDay.Text.Length < 2)
                     {
@@ -271,17 +274,17 @@ namespace GREVocabGame.Controller
             }
             else
             {
-                if (int.Parse(this.dataWrite.day) != day)
+                if (int.Parse(this.vocabList.Day) != day)
                 {
                     // there's one already
-                    if (this.dayArray[day - 1] != null)
+                    if (this.dayList.Count <= day)
                     {
-                        this.dataWrite = this.dayArray[day - 1];
+                        this.vocabList = this.dayList[day - 1];
                     }
                     else // there's no one yet
                     {
-                        this.dayArray[day - 1] = new ModelToWrite();
-                        this.dataWrite = this.dayArray[day - 1];
+                        this.dayList.Add(new DayPacket());
+                        this.vocabList = this.dayList[day - 1];
                         Console.WriteLine("asdkfjalsdjfaldf");
                         newDay = true;
                     }
@@ -291,13 +294,19 @@ namespace GREVocabGame.Controller
             if (this.checkConventionForAdd())
             {
                 // add the data to model
-                this.dataWrite.day = this.view.txtDay.Text;
-                this.dataWrite.listWord.Add(this.view.txtWord.Text);
-                this.dataWrite.listWordType.Add(this.view.txtWordType.Text);
-                this.dataWrite.listMean.Add(this.view.txtMean.Text);
-                this.dataWrite.listRelation.Add(this.view.txtRelation.Text);
-                this.dataWrite.listRelatedTo.Add(this.view.txtRealtedTo.Text);
-                this.dataWrite.listExample.Add(this.view.txtExample.Text);
+                this.vocabList.Day = this.view.txtDay.Text;
+                this.vocabList.newVPacket();
+                this.vocabList.addWord(this.view.txtWord.Text);
+                this.vocabList.addWordType(this.view.txtWordType.Text);
+                this.vocabList.addMean(this.view.txtMean.Text);
+                this.vocabList.addRelation(this.view.txtRelation.Text);
+                this.vocabList.addRelatedTo(this.view.txtRealtedTo.Text);
+                this.vocabList.addExample(this.view.txtExample.Text);
+                if (this.view.chkFocus.IsChecked == true) this.vocabList.addFocus(true);
+                else this.vocabList.addFocus(false);
+
+
+                this.vocabList.insertVPacket();
 
                 // update list box
                 if (newDay)
@@ -329,7 +338,7 @@ namespace GREVocabGame.Controller
                 MessageBox.Show("List must have at least one item.");
                 result = false;
             }
-            else if (this.dataWrite.day == null)
+            else if (this.vocabList.Day == null)
             {
                 MessageBox.Show("Day > 0");
                 result = false;
@@ -392,21 +401,75 @@ namespace GREVocabGame.Controller
             this.fillVocabFileLists();
         }
 
+        public void modify()
+        {
+            this.vocabList.at(currentListBoxIndex).Mean = this.view.txtMean.Text;
+            this.vocabList.at(currentListBoxIndex).RelatedTO = this.view.txtRealtedTo.Text;
+            this.vocabList.at(currentListBoxIndex).Relation = this.view.txtRelation.Text;
+            this.vocabList.at(currentListBoxIndex).WordType = this.view.txtWordType.Text;
+            this.vocabList.at(currentListBoxIndex).Word = this.view.txtWord.Text;
+            this.vocabList.at(currentListBoxIndex).Example = this.view.txtExample.Text;
+            if (this.view.chkFocus.IsChecked==true) this.vocabList.at(currentListBoxIndex).Focus = true;
+            else this.vocabList.at(currentListBoxIndex).Focus = false;
+            
+            seeNextWord();
+        }
+
+        public void seeNextWord()
+        {
+            if (currentListBoxIndex < this.vocabList.Count -1 ) currentListBoxIndex++;
+            if (this.vocabList.Count >= currentListBoxIndex)
+            {
+                this.view.txtDay.Text = this.vocabList.Day;
+                this.view.txtMean.Text = this.vocabList.at(currentListBoxIndex).Mean;
+                this.view.txtRealtedTo.Text = this.vocabList.at(currentListBoxIndex).RelatedTO;
+                this.view.txtRelation.Text = this.vocabList.at(currentListBoxIndex).Relation;
+                this.view.txtWordType.Text = this.vocabList.at(currentListBoxIndex).WordType;
+                this.view.txtWord.Text = this.vocabList.at(currentListBoxIndex).Word;
+                this.view.txtExample.Text = this.vocabList.at(currentListBoxIndex).Example;
+                this.view.chkFocus.IsChecked = this.vocabList.at(currentListBoxIndex).Focus;
+            }
+           
+        }
+        public void seePrevWord()
+        {
+            if (currentListBoxIndex > 0) currentListBoxIndex--;
+            if (currentListBoxIndex >=0)
+            {
+                this.view.txtDay.Text = this.vocabList.Day;
+                this.view.txtMean.Text = this.vocabList.at(currentListBoxIndex).Mean;
+                this.view.txtRealtedTo.Text = this.vocabList.at(currentListBoxIndex).RelatedTO;
+                this.view.txtRelation.Text = this.vocabList.at(currentListBoxIndex).Relation;
+                this.view.txtWordType.Text = this.vocabList.at(currentListBoxIndex).WordType;
+                this.view.txtWord.Text = this.vocabList.at(currentListBoxIndex).Word;
+                this.view.txtExample.Text = this.vocabList.at(currentListBoxIndex).Example;
+                this.view.chkFocus.IsChecked = this.vocabList.at(currentListBoxIndex).Focus;
+            }
+
+        }
+
+
+        public void delete()
+        {
+            this.vocabList.deleteAt();
+        }
+
         private void writeFile(String fileName)
         {
             // create a file
             StreamWriter fout = new StreamWriter(fileName);
 
             // write the file
-            for (int i = 0; i < this.dataWrite.listWord.Count; i++)
+            for (int i = 0; i < this.vocabList.Count; i++)
             {
                 fout.WriteLine(i.ToString());
-                fout.WriteLine(this.dataWrite.listWord[i]);
-                fout.WriteLine(this.dataWrite.listWordType[i]);
-                fout.WriteLine(this.dataWrite.listMean[i]);
-                fout.WriteLine(this.dataWrite.listRelation[i]);
-                fout.WriteLine(this.dataWrite.listRelatedTo[i]);
-                fout.WriteLine(this.dataWrite.listExample[i]);
+                fout.WriteLine(this.vocabList.at(i).Word);
+                fout.WriteLine(this.vocabList.at(i).WordType);
+                fout.WriteLine(this.vocabList.at(i).Mean);
+                fout.WriteLine(this.vocabList.at(i).Relation);
+                fout.WriteLine(this.vocabList.at(i).RelatedTO);
+                fout.WriteLine(this.vocabList.at(i).Example);
+                fout.WriteLine(this.vocabList.at(i).Focus.ToString());
             }
             //this.dataWrite.listExample.Clear();
             //this.dataWrite.listMean.Clear();

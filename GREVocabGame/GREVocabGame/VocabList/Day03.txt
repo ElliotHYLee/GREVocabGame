@@ -5,6 +5,7 @@ honest and open; being without decption
 ant
 chicanery
 In the antique business, it is absolutely imperative that one have an aboveboard reputation.
+True
 1
 absorb
 ant
@@ -12,6 +13,7 @@ to take up or acquire
 ant
 secrete
 Most flowers take in nutrients by absorbing water and minerals from the soil.
+False
 2
 advertent
 adj
@@ -19,6 +21,7 @@ heedful
 ant
 inattentive
 David maeks a good husband because he is advertent to the needs of others.
+True
 3
 assist
 v
@@ -26,6 +29,7 @@ to aid or help
 ant
 discommode
 Jess assisted her friends with their move to their new home.
+False
 4
 associate
 v
@@ -33,6 +37,7 @@ to work or socialize with; to become partners with
 cn
 aloof
 Kids are taught not to associate with peoople who use drugs.
+False
 5
 auspicious
 adj
@@ -40,6 +45,7 @@ favorable or prosperous; having signs or omens of a positive nature
 ant
 unfavorable
 New Year's is an auspicious time to set goals for one's personal well-being
+False
 6
 besmirch
 v
@@ -47,6 +53,7 @@ to make dirty or soil; to sully
 ant
 honor
 Persident Clinton besmirched his repuation by having an affair.
+True
 7
 blurb
 n
@@ -54,6 +61,7 @@ a breif, written publicity notice
 kin
 notice
 There was a blurb in the paper about the upcoming convention.
+True
 8
 blurt
 v
@@ -61,6 +69,7 @@ to speak abruptly and impulsively
 kin
 speak
 Daniel blurted out his love for her in a moment of overwhelming emotion.
+False
 9
 bluster
 v
@@ -68,6 +77,7 @@ to utter or act with noisy threats
 kin
 speak
 Samuel came home drunk and blustered at the cat.
+True
 10
 caustic
 adj
@@ -75,6 +85,7 @@ corrosive or capable of destroying through chemical reaction; sarcastic
 ch
 barb
 Henry was not enjoying the caustic jokes that Daniel was saying about his old car.
+True
 11
 cavern
 n
@@ -82,6 +93,7 @@ a large cave
 obj
 spelunker
 The caverns of the west coast are a humbling sight.
+False
 12
 cessation
 n
@@ -89,6 +101,7 @@ a stopping of an action; discontinuance
 ant
 commencement
 The treaty put a cessation to the war
+False
 13
 cosmopolitan
 adj
@@ -96,6 +109,7 @@ pertinent to the whoel world; found in all parts of the world; having worldwide 
 ant
 insular
 Most professors today are cosmopolitan and reside in multipole countries.
+False
 14
 cosset
 v
@@ -103,6 +117,7 @@ to pamper
 ant
 slight
 If you cosset your child, he or she will never learn self-responsibility.
+True
 15
 court
 v
@@ -110,6 +125,7 @@ to seek the affections or good will of
 ant
 snub
 It is customary in certain cultures for a young couple to court each other before getting married.
+False
 16
 coven
 n
@@ -117,6 +133,7 @@ a collection of people with similarities; a group of about 13 withces
 par
 witch
 The coven of Dutch students met every week to socialize and practice speaking.
+False
 17
 despicable
 adj
@@ -124,6 +141,7 @@ contemptible or arousing moral indignation
 ant
 venerate
 The capture and torture of civilians in Argentina was a despicable act.
+True
 18
 despondent
 adj
@@ -131,6 +149,7 @@ depressed or discouraged
 ant
 sanguine
 Soren has been despondent for almost two weeks now.
+True
 19
 disintegrate
 v
@@ -138,6 +157,7 @@ to break into parts or components
 ant
 amalgamate
 The dominant political party disintegrated into belligerent factions under the pressure of corruption investigations.
+False
 20
 disinterest
 n
@@ -145,6 +165,7 @@ an impartiality; a lack of interest
 ant
 prejudiced
 Her disinterest in the outcome of the trial makes her a reliable witness
+False
 21
 dismantle
 v
@@ -152,6 +173,7 @@ to take apart; to destroy the integrity of
 obj
 unity
 the technician dismantled the computer in order to identify the hardware problem.
+False
 22
 disparage
 v
@@ -159,6 +181,7 @@ to degrade or belittle through speech
 de
 ignore
 The tennis palyer disparaged her opponents' abilities publicly prior to the match.
+True
 23
 disparate
 adj
@@ -166,6 +189,7 @@ distinctly marked in quality or character; totally different.
 ant
 similar
 Globalization allows peoople of disparate backgrounds to interact and conduct business.
+True
 24
 dispassionate
 adj
@@ -173,6 +197,7 @@ unaffected by passion, emotion, or prejudice; calm; impartial
 ant
 partial
 It is very difficult to take a dispassionate position on major issues such as abortion and capital punishment
+False
 25
 disprove
 v
@@ -180,6 +205,7 @@ to prove untrue or wrong
 pur
 syllogism
 In order to disprove his guilt, the accused prisoner took a lie detector test.
+False
 26
 dispute
 v
@@ -187,6 +213,7 @@ to oppose or debate with
 cn
 incontrovertible
 the two companies disputed over the rights to produce a new flavor of coffe.
+False
 27
 disregard
 v
@@ -194,6 +221,7 @@ to ignore or pay no attention to
 de
 flout
 Please disregard that last statement.
+False
 28
 disrespect
 v
@@ -201,6 +229,7 @@ to show a lack of respect for
 ant
 homage
 The defendant was careful not to disrespect the judge during her trial.
+False
 29
 disrupt
 v
@@ -208,6 +237,7 @@ to throw into confusion; to interrupt or cause a break the normal flow of; to ru
 ch
 saboteur
 The apprearance of the bride's ex-boyfriend disrupted the wedding.
+False
 30
 dissemble
 v
@@ -215,6 +245,7 @@ to pretend; to put onthe apprearance of
 wo
 honesty
 On her job application jackie dissembled the fact that she was a college graduate even though she hadn't even finished high school.
+True
 31
 disseminate
 v
@@ -222,6 +253,7 @@ to make known or disperse throughout; to throw about
 obj
 information
 The news of the attack was disseminated rapidly throughout the world.
+False
 32
 dissent
 n
@@ -229,6 +261,7 @@ a disagreement
 ant
 concur
 The protesters illustrated their dissent against the government's position.
+False
 33
 dyspeptic
 adj
@@ -236,6 +269,7 @@ having indigestion; being of ill humor
 ant
 genial
 John couldn't help but notice Niki's dyspeptic appearance when he mentioned he had set her up on a blind date.
+False
 34
 eavesdrop
 v
@@ -243,6 +277,7 @@ to listen to other people's conversation without them knowing.
 kin
 listen
 Helen discovered a horrible secret while eavesdropping on her sister's phone conversation.
+False
 35
 edifice
 n
@@ -250,6 +285,7 @@ a large building of imposing appearance
 fun
 buttress
 Many of the edifices found on the university campus have been standing there for over a hundred years.
+False
 36
 elated
 adj
@@ -257,6 +293,7 @@ full of high spirited pride and joy
 ant
 hangdog
 The young man was elated after his girlfriend's father consented to their marriage.
+False
 37
 enslave
 v
@@ -264,6 +301,7 @@ to subjugate or put into slavery
 ant
 manumit
 The African people have been kidnapped and enslaved by many different countries and peoples.
+False
 38
 filly
 n
@@ -271,6 +309,7 @@ a young female horse; a lively young woman
 kin
 horse
 The farmers had a hard time bringing the excited filly in from the field.
+False
 39
 finesse
 n
@@ -278,6 +317,7 @@ skillful and tactful handling of a situation
 wo
 gauche
 John's finesse with cars made him the most sought after car mechanic in town.
+False
 40
 fuss
 v
@@ -285,6 +325,7 @@ to take care with excessive concern; to complain
 de
 tend
 The mother fussed incessantly over the newborn's slight fever.
+False
 41
 gossamer
 n
@@ -292,6 +333,7 @@ thin and soft threads produced by spiders
 ant
 ponderous
 The old abandoned house was convered in dust and gossamers.
+False
 42
 hesitance
 n
@@ -299,6 +341,7 @@ reluctance or delay
 wo
 impetuouse
 I have some hesitance about buying such an exspensive house right now.
+False
 43
 insipid
 adj
@@ -306,6 +349,7 @@ tasteless or alcking interesting qualities
 ant
 piquant
 Plain popcorn has a rather insipid falvor
+True
 44
 insolent
 adj
@@ -313,6 +357,7 @@ rude, arrogant, or disrespectful in speech or conduct.
 wo
 veneration
 Most teenagers are insolent when it comes to authority figures.
+False
 45
 insouciant
 adj
@@ -320,6 +365,7 @@ being lightheartedly unconcerened
 cn
 worry
 An insouciant attitude about life will guarantee peace, bu tmay lead to unproductiveness.
+False
 46
 inspire
 v
@@ -327,6 +373,7 @@ to motivate or stimulate to work hard or be creative; to affect by divine influe
 de
 infuse
 Encouragement and praise always inspire my dreams and goals.
+False
 47
 mislead
 v
@@ -334,6 +381,7 @@ to lead astray or down the wrong path
 ch
 equivacation
 His e-mail misled me to believe that he was coming to visit.
+False
 48
 resist
 v
@@ -341,6 +389,7 @@ to withsatnd or fend off; to oppose; to keep from enjoying
 ant
 capitulate
 The German forces resisted the American assualt for two months.
+False
 49
 resolute
 adj
@@ -348,6 +397,7 @@ steady or firm in purpose or dedication
 cn
 dissuade
 Bill made a resolute decision to quite smoking.
+False
 50
 respite
 n
@@ -355,6 +405,7 @@ a short interval of rest; a pause or period of temporary delay
 wo
 labor
 The Memorial Union is a place for students to go for a respite from their studying.
+True
 51
 resplendent
 adj
@@ -362,6 +413,7 @@ brilliant or shiny; splendid
 obj
 appearance
 Our kids love to walk through the department sotres and see the many Chirstmas trees with all their resplendent decorations on display.
+False
 52
 taunt
 v
@@ -369,6 +421,7 @@ to ridicule or challenge by mocking
 de
 provoke
 The football palyer taunted the scholarly boy until he ran home cyring.
+True
 53
 truculent
 adj
@@ -376,6 +429,7 @@ savage or destructive, sometimes belligerent
 Kin
 walk
 Brett's moment of truculent behaviro won him a night and afraid.
+True
 54
 truncate
 v
@@ -383,6 +437,7 @@ to shorten or cut in length
 ant
 prolong
 The presentation was truncated by about 15 minutes to make it fit the schedule.
+False
 55
 vault
 n
@@ -390,6 +445,7 @@ a storage compartment or room used for the safekeeping of valuables
 fun
 valuables
 The items in our vault included a diamond necklace, our wills, and $3000.
+False
 56
 vaunt
 v
@@ -397,6 +453,7 @@ to brag of one's own worth
 syn
 boast
 Vaunting and gloating, the winner of the contest left the ceremony to celebrate.
+True
 57
 unsound
 adj
@@ -404,6 +461,7 @@ not true or logically valid; not healthy or whole
 ant
 tenable
 In a rage of anger, Kevin made an unsound and fatal decision to drin and drive.
+False
 58
 visionary
 adj
@@ -411,3 +469,4 @@ illusory; imaginary; incapable of being realized
 pos
 delusion
 Dave was entirely haunted by the visionary scene.
+False

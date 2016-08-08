@@ -5,6 +5,7 @@ to agree to or approve of
 ant
 object
 Max assented to the conditions and terms of the job.
+False
 1
 assert
 v
@@ -12,6 +13,7 @@ to forcefully state or declare an opinion or position; to defend one's rights
 de
 bumptious
 Tom asserts relentlessly that the judge is corrupt.
+False
 2
 assiduity
 n
@@ -19,6 +21,7 @@ the quality of being extremely hard working and diligent
 wo
 slothful
 It is assiduity, not necessarily intelligence, tha twill take you far in the world.
+True
 3
 badger
 v
@@ -26,6 +29,7 @@ to tease or annoy persistently
 de
 bother
 The boy badgered his sister until she started to cry.
+False
 4
 banish
 v
@@ -33,6 +37,7 @@ to expel or exilte from a country
 obj
 country
 Nick was banished from his country for treason.
+False
 5
 carouse
 v
@@ -40,6 +45,7 @@ to drink excessively and be boisterous
 ch
 roisterer
 Japanese businessmen work diligently all day and let out their stress by carousing untili the wee hours of the morning.
+False
 6
 desecrate
 v
@@ -47,6 +53,7 @@ to damage or defile the sanctity or sacredness of
 ant
 sanctify
 The church was desecrated by the graffiti spray-painted on its front doors.
+True
 7
 desiccate
 v
@@ -54,6 +61,7 @@ to dehydrate or absorb moisture
 obj
 moisture
 Due to the drought, the land was barren and desiccated.
+False
 8
 discredit
 v
@@ -61,6 +69,7 @@ to question the accuracy or authority of; to damage a reputation
 pur
 invective
 The attorney discredited the witness's character by revealing his criminal history.
+False
 9
 discrete
 adj
@@ -68,6 +77,7 @@ having a separate or distinct identity
 cn
 overlap
 Only in recent years have homosexual couples been recognized as discrete under the law in some countries.
+False
 10
 discriminate
 v
@@ -75,6 +85,7 @@ to perceive differences or distinctions between; to treat unfairly due to race, 
 obj
 difference
 Avid watchers can discriminate between the various species of birds.
+False
 11
 discursive
 adj
@@ -82,13 +93,15 @@ changing topics without order; covering a wide range of subjects
 syn
 digressive
 The discursive lecture left the students informed, but a little confused.
+True
 12
 disdain
 v, n
 to treat with haughty contempt, a feeling of contempt
 syn
 snub
-The Hispanic population charges that the U.S. disdains their people and heritage. Young pince David 3, looked at the common people in disdain.
+The Hispanic population charges that the U.S. disdains their people and heritage. 
+False
 13
 disembody
 v
@@ -96,6 +109,7 @@ to free from corporeal existence
 ant
 corporeal
 It is said that through meditation people have disembodied themselves and elevated to a purely spiritual existence.
+False
 14
 disgruntle
 v
@@ -103,6 +117,7 @@ to make discontented or dissatisfied
 ant
 contented
 The disgruntled postal workers eventually went on strike.
+False
 15
 disguise
 v 
@@ -110,6 +125,7 @@ to change or change of apperance of; to conceal
 fun
 camouflage
 The thief could not be identified because he disguised himself with a used military uniform.
+False
 16
 disgust
 v 
@@ -117,6 +133,7 @@ to offend with distasttefulness
 cause
 odious
 Melanie was disgusted by the rude behavior of the people sitting at the next table.
+False
 17
 disingenuous
 adj
@@ -124,6 +141,7 @@ insincere or lacking in candor
 wo
 sincerity
 The poem criticized disingenuous expressions of love
+False
 18
 equivocate
 v
@@ -131,6 +149,7 @@ to use uncertain or ambiguous language to avoid committing to a perspective or s
 wo
 clarity
 John intentionally equivocated his position on abortion to avoid controversy in the office
+True
 19
 erudite
 adj
@@ -138,6 +157,7 @@ learned or scholarly
 ch
 fathom
 The erudite graduate student finished his Ph.D. in 4 years.
+False
 20
 eschew
 v
@@ -145,6 +165,7 @@ to avoid deliberately; to shun
 ant
 welcome
 Phil found it difficult to eschew Paul because they had the same circle of friends.
+True
 21
 exultant
 adj
@@ -152,6 +173,7 @@ filled with great joy or triumph
 ant
 crestfallen
 The newly engaged man is exultant because his girlfriend said yes to his proposal.
+True
 22
 fluent
 adj
@@ -159,6 +181,7 @@ facile in language; capable of flowing with ease
 de
 glib
 To make it in the career world today, one must be fluent in at least two languages.
+False
 23
 frugal
 adj
@@ -166,6 +189,7 @@ sparing or thrifty
 de
 parsimonious
 The frugal man lived in a relatively modest home despite his substantial wealth.
+False
 24
 gouge
 v
@@ -173,6 +197,7 @@ to cut or scoop out
 de
 engrave
 The archeologist began to delicately gouge the sedimentary rock surrounding the fossil.
+False
 25
 gush
 v
@@ -180,6 +205,7 @@ to emit in a large flow or rush
 de
 trickle
 Water gushed out of the broken hose.
+False
 26
 hash
 v
@@ -187,6 +213,7 @@ to mince or chop finely
 fun
 pestle
 After seeing the dentist, all of his food had to be hashed before the could eat it.
+False
 27
 haunt
 n
@@ -194,6 +221,7 @@ a well-frequented palce
 ch
 familiar
 The library is the haunt of diligent students.
+False
 28
 insensible
 adj
@@ -201,6 +229,7 @@ apathetic; incapable of feeling sensation
 ch
 affect
 Ryan's insensible demeanor was often mistaken for arrogance and afforded him few friends.
+False
 29
 insight
 n
@@ -208,6 +237,7 @@ the ability or act of understanding the true nature of things.
 pos
 discerning
 The wise person has insight into every situation.
+False
 30
 laud
 v
@@ -215,6 +245,7 @@ to praise
 ant
 berate
 The young woman was lauded for her efforts in the match, despite the fact that she lost.
+False
 31
 lint
 n
@@ -222,6 +253,7 @@ scraped linen used for dressing wounds
 fun
 bleeding
 Rick looked through the first aid kit, but could not find the lint to cover Anne's wound.
+False
 32
 lush
 adj
@@ -229,6 +261,7 @@ growing thick and healthily; fertile or plentiful
 ant
 sere
 The lush garden would soon provide an abundance of vegetables.
+True
 33
 maudlin
 adj
@@ -236,6 +269,7 @@ extremely sentimental or emotionally weak
 de
 sentimental
 Kelly always cries at maudlin movies.
+False
 34
 miscreant
 n
@@ -243,6 +277,7 @@ a villain; a heretic
 ant
 saint
 The miscreant was exiled out of Greece.
+False
 35
 misdemeanor
 n
@@ -250,6 +285,7 @@ a minor legal offense less serious than a felony
 de
 crime
 The misdemeanor cost Fran a $100 fine.
+False
 36
 miser
 n
@@ -257,6 +293,7 @@ a person who is cruel and stingy with money
 ch
 hoard
 The miser refused to tip his waiter more than 5% of the bill
+False
 37
 mishap
 n
@@ -264,6 +301,7 @@ an unfortunate accident or occurrence
 de
 catastrophe
 The airport lost her luggage in a mishpa.
+False
 38
 obscure
 adj
@@ -271,6 +309,7 @@ unclear or hidden; not easily understood
 cn
 comprehend
 The professor's explanation was full of obscure jargon and beyond my scope of comprehension.
+True
 39
 obsequious
 adj
@@ -278,6 +317,7 @@ over attentive and obedient
 de
 deferential
 The student's obsequious behavior toward his teacher was a source of ridicule for the other kids.
+True
 40
 obsess
 v
@@ -285,6 +325,7 @@ to have something haunt and control one's mind and actions
 de
 sttracted
 Jack was so obsessed with Jill that he moved to another country just to be near her.
+False
 41
 opulent
 adj
@@ -292,6 +333,7 @@ wealthy
 ant
 indigent
 The opulent business man tipped the waiter almost 50% of the bill.
+False
 42
 ossify
 v
@@ -299,6 +341,7 @@ to change into bone; to become inflexible or rigid
 cn
 flexible
 After the September 11th attacks, many Americans who were democratic and liberal ossified.
+False
 43
 paunchy
 adj
@@ -306,6 +349,7 @@ having a potbelly
 ant
 svelte
 Soren's paunchy father had obviously drunk too many beers.
+False
 44
 pluck
 n
@@ -313,6 +357,7 @@ nerve
 ant
 cowardice
 The new reporter was known for his pluck when investigating a story.
+True
 45
 plumb
 v
@@ -320,6 +365,7 @@ to measure depth
 obj
 depth
 The oceanographers had to plumb the site to see where they could release the new scientific equipment.
+True
 46
 plummet
 v
@@ -327,6 +373,7 @@ to fall or drop rapidly
 de
 descend
 Diving to catch its prey, the inexperienced hawk accidently plummeted into the ground.
+False
 47
 poseur
 n
@@ -334,6 +381,7 @@ one who habitually pretends to be what he/she is; an insincere person
 wo
 sincerity
 The poseur dressed as a rock star, even though he was a janitor.
+False
 48
 prudence
 n
@@ -341,13 +389,15 @@ the ability and good judgement to govern oneself with the use of reason
 wo
 daredevil
 The King used prudence in making decisions about his kingdom.
+False
 49
-pusillanimouse
+pusillanimous
 adj
 afraid; timid, or lacking courage
 ant
 stouthearted
 The onlooker was too pusillanimous to help the man being robbed.
+True
 50
 rash
 adj
@@ -355,6 +405,7 @@ reckless or hasty and done without thinking
 de
 adventurous
 Her decision to quit school was rash and she later regretted it.
+True
 51
 reserved
 adj
@@ -362,6 +413,7 @@ characterized by reticence and self-restraint; set aside
 ant
 expansive
 Darcy is a rather reserved man, keeping to himself most of the time.
+False
 52
 resilience
 n
@@ -369,6 +421,7 @@ the capability to recover to original form or health
 ant
 inability to recover
 The gymnast's resilience allowed him to recover quickly from a sparained ankle.
+False
 53
 sculpt
 v
@@ -376,6 +429,7 @@ to carve or make a sculpture
 kin
 cameo
 The artist sculpted an image of the beautiful woman he fell in love with in his youth.
+False
 54
 scrupulous
 adj
@@ -383,6 +437,7 @@ having moral integrity; attentive to detail and exactness
 any
 probity
 The congregation couldn't have asked for a more scrupulous pastor.
+True
 55
 sluggard
 n
@@ -390,6 +445,7 @@ a person who is continually lazy
 ch
 lazy
 The sluggard showed up to work late every day and slept most of the time.
+False
 56
 smug
 adj
@@ -397,6 +453,7 @@ self-satisfied
 ch
 smirk
 Chloe didn't like the smug attitude of the professional wrestlers when she asked for their autographs.
+False
 57
 smuggle
 v
@@ -404,6 +461,7 @@ to illegally import or export things
 kin
 convey
 Five people were arrested yesterday for smuggling drugs into England.
+False
 58
 snub
 v
@@ -411,6 +469,7 @@ to treat with neglect or impoliteness
 wo
 politeness
 The arrogant actress snubbed the man offering her his coat
+True
 59
 stultify
 v
@@ -418,3 +477,4 @@ to render useless or ineffectual;
 ant
 stirring
 Johnson's previous prison record stultified any chances of him getting into medical school
+True

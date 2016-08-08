@@ -1,0 +1,301 @@
+0
+acrimonious
+adj
+bitter and caustic
+wo
+goodwill
+The memory of my parent's acrimonious divorce made me fear marriage for a long time.
+1
+apocalypse
+n
+a prophetic revelation
+syn
+prophetic
+According to environmentalists, a sharp rise in global temperatures could protend an apocalypse.
+2
+berate
+v
+to scold severely
+ant
+laud
+The military unnecessarily berates its officers to instill blind obedience and devotion.
+3
+canvass
+v
+to examine carefully with others
+ch
+pollster
+The group canvassed the neighborhood to determine if it was a conservative or liberal area.
+4
+circumlocution
+n
+the use of an excessive quantity of words to express something
+cn
+forthright
+Curcumlocution is usually a sign of nervousness or anxiety.
+5
+circumscribe
+v
+to restrict
+ant
+unlimited
+The new law circumscribed the strength of unions by prohibiting strikes that lasted longer than a week.
+6
+circumspect
+adj
+cautious
+ant
+rash
+To be circumspect is necessary in life if one is to live wisely.
+7
+circumvent
+v
+to avoid
+ant
+confront
+Rather than finish his assignment, the student circumvented it with excuses.
+8
+coagulant
+n
+an agent that makes a liqued into a solid to stop flowing
+fun
+thicken
+Corn starch is a coagulant used to make the sauce thicker.
+9
+contrite
+adj
+feeling of regret
+syn
+compunctious
+Catherine offered a contrite apology for having torn her sister's favorite sweater.
+10
+contumacious
+adj
+disobedient 
+ant
+obedient
+The contumacious anarchists refused to register for the draft.
+11
+conviction
+v
+sentence for quilty at a court
+wo
+dubious
+Hillary Clinton is a woman of strong political convictions.
+12
+convoluted
+adj
+complex to understand
+pos
+complexity
+The human maze was so convoluted that the students couldn't find their way out.
+13
+daredevil
+n
+one who is recklessly bold or performs dangerous and potentially harmful stunts
+wo
+prudence
+The daredevil jumped off a 30ft cliff with his bicycle into the river.
+14
+derelict
+adj
+abandoned by a owner
+ant
+pillar of society
+the derelict warehouse was used  as a playground by the neighborhood childre.
+15
+dire
+adj
+terrible
+ant
+pleasant
+With the economy in a dire situation, the unemployment rate was at its highest level since the Depression.
+16
+dulcet
+adj
+extremely pleasant and melodious to the ear
+ant
+cacophonous
+The dulcet voices of the children's choir filled the church sanctuary every Sunday.
+17
+ennui
+n
+a feeling of dissatisfaction from lack of interest
+wo
+enthusiastic
+It was only to her closest friends that she acknowledged she was tortured by ennui.
+18
+farce
+n
+a light comic play
+kin
+performance
+The entire evening was such a disastrous farce!
+19
+forbid
+v
+ban
+obj
+abstain
+The law forbids the sale or use of marijuana.
+20
+garble
+n
+to distort
+ant
+elucidate
+The static garbled Leslies' phone conversation with her friend.
+21
+harebrained
+adj
+foolish and reckless
+syn
+giddy
+The harebrained man decided to dance in the public fountain in his underwear.
+22
+larder
+n
+a place to store food
+fun
+food
+The larder for flour storage is the highest place in the house in order to keep out pests.
+23
+manumit
+v
+to free from slavery
+ant
+enslave
+As the Union army invaded the South, it manumitted all the plantation slaves it encountered.
+24
+minuscule
+adj
+very small
+ant
+enormous
+His handwriting was so minuscule that I could read it with a magnifying glass.
+25
+minute
+adj
+very small
+ant
+gargantuan
+Investigators are trained to pick up on the minutest clues that criminals leave behind.
+26
+moratorium
+n
+a legally authorized delay of payment; pausement
+wo
+activity
+Due to unstable political conditions, the U.S. put a moratorium on all flights to Pakistan.
+27
+mordant
+adj
+biting or bitter in manner or style
+ant
+genial
+The movie received a mordant review.
+28
+penurious
+adj
+very stingy
+ant
+lavish
+The character Scrooge was the most penurious of men.
+29
+plod
+v
+to walk heavily
+kin
+walk
+The young man plodded along the dark streets in silence to his house.
+30
+probity
+n
+honesty
+ant
+shiftiness
+The idea of probity in all financial dealings was deeply ingrained in him by his business class.
+31
+proclivity
+n
+an inclination or tendency
+ant
+antipathy
+Sam has a proclivity for drastic mood swings.
+32
+procure
+v
+to obtain or take possession of
+ant
+relinquish
+During the will reading, Georgia procured many worthless personal effects of her late great aunt.
+33
+prod
+v 
+tourge someone
+de
+nudge
+The cowboy prodded the cattle to get them moving.
+34
+prodigal
+adj
+recklessly wasteful with money
+ant
+husbandry
+Larry was accused of being prodigal with company funds for expending a Lear jet for his daily commute.
+35
+profane
+adj
+debased
+ant
+inviolate
+Bildad had told them that no profane songs would be allowed on board the Pequod.
+36
+proffer
+v
+to offer for acceptance
+ant
+retain
+The defense rejected the plea bargain proffered by the prosecution.
+37
+profligate
+adj
+extravagant
+obj
+money
+The government officer was charged for profligate spending of the taxpayer's money.
+38
+profuse
+adj
+plentiful
+ant
+skimpy
+No one enjoyed sitting next to Johnny in class because of his profuse perspiration all year round.
+39
+puny
+adj
+weak and small
+syn
+weakly
+The puny landowner looked silly next to his tall and strong field worker.
+40
+riveting
+adj
+engrossing one's attention
+ant
+vapid
+The lecture on "The State of the Environment in East Asia" was far from riveting, and everyone left in the middle of it.
+41
+stodgy
+adj
+boring or tedious
+syn
+dull
+Living in a small town becomes stodgy and predictable for most people.
+42
+stoic
+adj
+dispassionate
+cn
+perturb
+The stoic look on Jeanie's face masked the disappointment she felt when passed over for the promotion.

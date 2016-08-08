@@ -1,0 +1,294 @@
+0
+abstain
+v
+avoid
+obj
+forbidden
+It is common traditional practice to abstain from sex until marriage.
+1
+aggrandize
+v
+to increase
+obj
+strength
+Over the past decade China has aggrandized its influence in world affairs.
+2
+aggravate
+v
+to make worse
+syn
+exacerbate
+The loud construction aggravated many nearby residence.
+3
+aggrieve
+v
+to distress or bring trouble to
+ant
+gratify
+Eva looked downcast and aggrieved after her father's surgery.
+4
+argot
+n
+secret language or idom
+syn
+jargon
+The two uttered an argot so as not to be understood by the others.
+5
+bedlam
+n
+noisy uproar
+ant
+serenity
+Weddings are such a bedlam of activities that the bridal party is always exhausted after wards.
+6
+bigot
+n
+prejudiced person
+wo
+tolerance
+In the rural areas of the country there are more bigots because they have less exposure to different kinds of people.
+7
+cantankerous
+adj
+difficult to deal with
+ant
+genial
+If ron doesn't have his espresso in the morning, he becomes cantankerous for the whole day.
+8
+circumference
+n
+the length of a circle
+par
+circle
+The curcumference of the watermelon is triple that of the pear.
+9
+cogent
+adj
+very compelling
+ch
+convince
+A missionary's job is to be cogent in delivering the message of God.
+10
+cognizant
+adj
+having an awareness of knowledge
+ant
+unaware
+It is said that the oracles of Ancient Greece were cognizant of the wyas of the gods.
+11
+consummate
+v
+to complete or finish
+ant
+amateurish
+The two corporate leaders consummated their merger with a glass of wine.
+12
+digress
+v
+to move away from the main topic
+obj
+subject
+Our conversation digressed from academia to our plans for Friday night.
+13
+dogged
+adj
+stubbon
+ant
+yielded
+Sherlock Holmes was dogged in his pursuit to solve a mystery.
+14
+doggerel
+n
+rediculous poem
+kin
+verse
+As the soldier marched he sang a bit of a doggerel in a high and quavering voice.
+15
+effusive
+adj
+gushy
+ant
+reticent
+Mrs. Lee's effusive personality began to grate on her dinner guests.
+16
+engender
+v
+to produce
+ant
+quash
+There had been so much enthusiasm engendered that Carrie believed herself depply in love.
+17
+engross
+v
+to occupy completely
+syn
+absorbed
+The book engrossed readers with an intense and imaginative plot.
+18
+fiasco
+n
+a complete failure
+ant
+notable success
+Terry's friends had procrastinated too long in planning his birthday party and as a result it was a fiasco.
+19
+infuse
+v
+to instill
+de
+inspire
+The newly wed wife infused her husband's bachelor pad with a homely atmosphere.
+20
+ingenue
+n
+a naive girl
+wo
+sophistication
+The actress played the role of the ingenue who the lead male fell in love with.
+21
+odious
+adj
+disgusting
+cause
+disgust
+The odious smell in the kitchen emanated from the spoiled food.
+22
+opine
+v
+to state as one's own opinion
+ch
+pundit
+The doctor opinned that the indisposition arose from fatigue and he prescribed rest.
+23
+ostentation
+n
+a showy display to impress others
+ant
+artlessness
+The wealthy are not disliked for their riches, but rather for their ostentatious behavior.
+24
+persevere
+v
+bear
+ant
+give up
+Those who keep their goals in mind shall persevere.
+25
+rant
+v
+to speak or write in a violent manner
+cause
+anger
+The townspeoople had grown accustomed to the crazy man ranting about his life.
+26
+rapprochement
+n
+the state of reconciliation among nations
+ant
+estrangement
+The rapprochement of the two nations is necessary for trade negotiations to take place.
+27
+regimen
+n
+a remedy diet to be healthy
+pur
+health
+Soldiers in any army follow a strict regimen of diet, exercise, and discipline.
+28
+roil
+v
+to stir up
+ant
+sedate
+Throwing rocks into a pond always roils the fish.
+29
+sagacious
+adj
+keen, agile
+wo
+simpleton
+It is said the most sagacious are the slowers to speak.
+30
+sage
+n
+a wise man
+ch
+judicous
+The sage was often sought by the poeple of the village for advice.
+31
+scintillate
+v
+to be brilliant
+ant
+fatuous
+The scintillating story kept Anne up all night.
+32
+skimp
+v
+to put forht minimal effort
+pos
+parsimony
+The employer was in the habit of skimping his workers.
+33
+slight
+v
+to treat as small or unimportant
+ant
+cosset
+The slighted worker continued to keep his discontent hidden under a cheerful smile.
+34
+swill
+v
+to drink rapidly or greedily
+de
+sip
+For an hour I ate tacos and swilled glasss of tequila that were filled again by the time they'd been put back on the bar.
+35
+taint
+v
+to corrupt or spoil
+cn
+pristine
+Tracy's fall off the bike tainted her image of motorcycling.
+36
+ungainly
+adj
+clumsy
+ant
+lissome
+Alex's ungainly gait concealed his natural athletic prowess.
+37
+vagary
+n
+an erractic action
+cn
+predict
+The vagary of the horse races is the very excitement of them.
+38
+vigilant
+adj
+keenly alert
+cn
+entrap
+The vigilant guards kept watch over the  town as everyone slept.
+39
+vignette
+n
+a brief scene in a play or movie
+kin
+scene
+Thankfully the movie's pedestrian love vignette was brief.
+40
+vigor
+n
+an active force
+obj
+enervate
+They rowed with vigor using quick strokes.
+41
+whim
+n
+a sudden change of mind
+pos
+caprice
+Tracy skipped work and went to Atalntic City on a whim.

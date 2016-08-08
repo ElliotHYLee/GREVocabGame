@@ -5,6 +5,7 @@ a collection of selected literary or artistic pieces compiled into one work
 fun
 poem
 This anthology is regarded as the irst Korean literary work to be translated into Mongolian for publication.
+False
 1
 antipathy
 n
@@ -12,6 +13,7 @@ aversion or strong dislike
 ant
 affinity
 The president made clear his antipathy to the opposition by betoing their legislation 3 times.
+False
 2
 artless
 adj
@@ -19,6 +21,7 @@ uncultured; made without skill; having or displaying no guile
 ant
 urbanity
 Blake enrolled in a poetry class to improve his reputation as a crass and artless football player.
+False
 3
 authentic
 adj
@@ -26,6 +29,7 @@ genuine or real
 wo
 fabricate
 The painting was deemed to be authentic afer much inspection and scrutiny.
+False
 4
 authorize
 v
@@ -33,6 +37,7 @@ to grant permission; to invest with legal authority
 ant
 interdict
 John authorized his wife to have access to his bank accounts.
+False
 5
 bequest
 n
@@ -40,6 +45,7 @@ a gift in  a will
 obj
 testator
 Edward's educational rust fund was a bequest left to him by his rich uncle.
+False
 6
 catholic
 adj
@@ -47,6 +53,7 @@ broad in scope; universal
 ant
 narrow
 Amy was a woman of catholic interests, ranign from bungee jumping to stamp collecting.
+False
 7
 cement
 v
@@ -54,6 +61,7 @@ to bind or bring together; to unite
 ant
 fracture
 The marriage of their children cemented the two families' friendship.
+False
 8
 charade
 n
@@ -61,6 +69,7 @@ a pretense or mockery
 pos
 dissimulate
 Though they loathed each other, the couple managed the charade of a marriage for the sake of their children.
+False
 9
 connive
 v
@@ -68,6 +77,7 @@ to work together in a secret or illegal manner; to collude
 ch
 conspiratorial
 The bank robbers connived for 3 months to plan the perfect robbery.
+False
 10
 deter
 v
@@ -75,6 +85,7 @@ to inhibit or prevent from acting by means of fear or doubt
 ch
 intrepid
 D.A.R.E is a drug prevention program aimed to deter children from taking drugs.
+False
 11
 determination
 n
@@ -82,6 +93,7 @@ the conclusion or the act of deciding definitely; strong will or resoluteness
 ant
 irresolution
 Her determination is what got Sally to the top of the corporate ladder.
+False
 12
 detour
 n
@@ -89,6 +101,7 @@ a deviation from the normal route or direct course; a path or road replacing a t
 obj
 route
 The cab driver took a detour down the alley in order to avoid traffic.
+False
 13
 encumber
 v
@@ -96,6 +109,7 @@ to obstruct or impede
 ant
 remove impediment
 Drinking in moderation is fine, but it becomes a problem when it encumbers one's ability to make dicisions.
+False
 14
 enthusiasm
 n
@@ -103,6 +117,7 @@ intense interest or involvement
 de
 mania
 The teacher's enthusaism kept the children attentive in class.
+False
 15
 entice
 v
@@ -110,6 +125,7 @@ to tempt or lure by arousing hope or desire
 syn
 allure
 The brightly lit store window with its display of all the latest toys enticed the little boy.
+False
 16
 estimable
 adj
@@ -117,6 +133,7 @@ capable of being valuable; worthy of esteem
 ant
 contemptible
 The king was impressed by the estimable young knight's heoric deeds in battle.
+False
 17
 extinguish
 v
@@ -124,6 +141,7 @@ to stop from burning
 ant
 kindle
 Luckily, the firemen extinguished the flames before they burned down the entire house.
+False
 18
 extol
 v
@@ -131,6 +149,7 @@ to praise or glorify
 ant
 excoriate
 The evangelist extolled the virtues of his religion to every person he encountered
+False
 19
 extort
 v
@@ -138,6 +157,7 @@ to obtain by force or illegal power
 ch
 intimidation
 The bully extorted money from the boy everyday by threatenig to beat him up.
+False
 20
 fathom
 v
@@ -145,6 +165,7 @@ v to come to understanding through probing or thinking.
 ch
 erudite
 Tim couldn't fathom why she would do that.
+False
 21
 futile
 adj
@@ -152,6 +173,7 @@ useless or completely ineffective
 ant
 efficacious
 It is futile to argue with her when she has made up her mind like that.
+False
 22
 intercessor
 n
@@ -159,6 +181,7 @@ one who mediates between two parties to reconcile differences
 ch
 mediate
 To make money the marriage counselor has even served as an intercessor for couples she thought should be apart.
+False
 23
 interdict
 v
@@ -166,6 +189,7 @@ to prohibit or forbid in a formal or authoritative manner.
 ant
 authorize
 The role of the guards is to interdict anyone from entering the compound.
+False
 24
 interroage
 v
@@ -173,6 +197,7 @@ to question formally and aggressively
 syn
 examine
 The inspector interrogated the suspect for three hours, but wasn't able to extract new information.
+False
 25
 intimate
 adj
@@ -180,6 +205,7 @@ marked by close association in a very private and personal matter
 ch
 clique
 The relationship between the co-workers grew very intimate after a couple of months.
+False
 26
 lithe
 adj
@@ -187,6 +213,7 @@ flexible; easily bent or flexed
 syn
 lissome
 Fortunately the gymnast was lithe enough to handle the difficult move.
+False
 27
 mawkish
 adj
@@ -194,6 +221,7 @@ excessively sentimental; having a bad taste
 syn
 maudlin
 The critic's review of the movie seem mawkish and overwrought.
+False
 28
 meticulous
 adj
@@ -201,13 +229,15 @@ excessively thorough and careful with details
 de
 careful
 It takes a meticulous person to be a good editor.
+False
 29
 mitigate
 v
 to reduce the severity or pain of; to mollify or alleviate
 obj
 severity
-The camper mtigated the itch of his mosquito bites by applying a cream.
+The camper mitigated the itch of his mosquito bites by applying a cream.
+False
 30
 noxious
 adj
@@ -215,6 +245,7 @@ poisonous or harmful to living creatures; obnoxious
 ch
 venom
 The city was evacuated to save them from the noxious fumes coming out of the fast food restaurants.
+False
 31
 oxymoron
 n
@@ -222,6 +253,7 @@ a combination of contradictory words.
 ch
 contradictory
 The phrase "just war" is an oxymoron that is often used by politicians to alleviate fears that onnocent civilians will be killed accidently.
+False
 32
 pith
 n
@@ -229,6 +261,7 @@ the core or essential part
 ant
 unimportant point
 The pith of humanity is love.
+False
 33
 ratification
 n
@@ -236,6 +269,7 @@ formal approval and confirmation
 ant
 repeal
 The ratification of the handgun law shocked the public.
+False
 34
 reticence
 n
@@ -243,6 +277,7 @@ the quality of being reserved or restrained.
 cn
 talk
 Jim has some reticence about expressing emotion.
+False
 35
 retinue
 n
@@ -250,13 +285,15 @@ a group of retainers or follower
 par
 attendant
 Queen Elizabeth has a retinue of 30 servants that accompany her on any of her travels.
+False
 36
 retort
 v
 to reply rapidly and sharply, sometimes in jest;
 syn
 repartee
-The receptionist retroted with a sarcastic comment.
+The receptionist retorted with a sarcastic comment.
+False
 37
 revive
 v
@@ -264,6 +301,7 @@ to reawaken to consciousness or lifel
 ant
 wither
 I tried to revive her spirits, but she was hopelessly gloomy.
+False
 38
 satiate
 v
@@ -271,6 +309,7 @@ to fuly satisfy; to sate
 causal
 food
 After the fest, my stomach was satiated.
+False
 39
 savor
 n
@@ -278,6 +317,7 @@ the taste or smell of something
 syn
 palatable
 Roxanne enjoyed the savor of the meal and left no food to waste.
+False
 40
 savvy
 n
@@ -285,6 +325,7 @@ knowledge of affairs; shrewdness
 ant
 tactless
 The senator's political savvy has won him more than 5 re-elections.
+False
 41
 sly
 adj
@@ -292,6 +333,7 @@ celever, usually implying deceptiveness
 ant
 artless
 The sly fox outsmarted the owl, or so the fable goes.
+False
 42
 tawdry
 adj
@@ -299,6 +341,7 @@ gaudy in brightness of appearance
 obj
 garment
 Cynthia failed to achieve an air of elegance with that tawdry dress she wore.
+False
 43
 thwart
 v
@@ -306,6 +349,7 @@ to prevent ocurence, realization, or attainment of; to baffle
 ant
 aid
 The nation thwarted the war by giving back the hostages.
+False
 44
 untoward
 adj
@@ -313,6 +357,7 @@ unlucky or unfavorable; improper
 ant
 fortunate
 Julian found himself in a very untoward situation, having no money and no place to stay for the night.
+False
 45
 utter
 v
@@ -320,6 +365,7 @@ to speak or give utterance
 kin
 blurt
 The groom uttered a few words of thanks to each of his guests at the wedding.
+False
 46
 venial
 adj
@@ -327,13 +373,15 @@ easily excused or forgiven
 ch
 excuse
 In Singapore, littering is not considered a venial offense.
+False
 47
 veto
 n
 an authoritatvie prohibition
 ch
 prohibitive
-The plan was circumvented b the president's veto.
+The plan was circumvented by the president's veto.
+False
 48
 watershed
 n
@@ -341,6 +389,7 @@ a divided region that drains into another body of water
 ant
 routine
 The Vietnam war was an important watershed in modern American history marking the end of easily justified military iterventions abroad.
+False
 49
 wither
 v
@@ -348,3 +397,4 @@ to dry up or shrivel
 wo
 vitality
 The rose withered in the sun and the petals fell off
+False

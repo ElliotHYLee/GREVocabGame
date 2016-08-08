@@ -79,7 +79,7 @@ namespace GREVocabGame
 
         private void btnModify_Click(object sender, RoutedEventArgs e)
         {
-
+            this._ControllerNewVocab.modify();
         }
 
         private void btnClear_Click(object sender, RoutedEventArgs e)
@@ -113,6 +113,56 @@ namespace GREVocabGame
             {
                 this._ControllerTest.processAnswer();
             }
+        }
+
+        private void btnAll_Click(object sender, RoutedEventArgs e)
+        {
+            this._ControllerTest.getTotalVocabs();
+        }
+
+        private void btnNext_Click(object sender, RoutedEventArgs e)
+        {
+            txtDaySet.Text = (Int32.Parse(txtDaySet.Text) + 1).ToString();
+            if (chkBriefMode.IsChecked==true) this._ControllerTest.getTotalFocusedVocabs();
+            else this._ControllerTest.getTotalVocabs();
+        }
+
+        private void btnPrev_Click(object sender, RoutedEventArgs e)
+        {
+            txtDaySet.Text = (Int32.Parse(txtDaySet.Text) - 1).ToString();
+            if (chkBriefMode.IsChecked == true) this._ControllerTest.getTotalFocusedVocabs();
+            else this._ControllerTest.getTotalVocabs();
+        }
+
+        private void btnDelte_Click(object sender, RoutedEventArgs e)
+        {
+            this._ControllerNewVocab.delete();
+        }
+
+        private void chkBriefMode_Checked(object sender, RoutedEventArgs e)
+        {
+            CheckBox temp = (CheckBox) sender;
+            if (temp.IsChecked == true) btnAll.IsEnabled = false;
+            else btnAll.IsEnabled = true;
+            this._ControllerTest.getTotalFocusedVocabs();
+        }
+
+        private void chkBriefMode_Unchecked(object sender, RoutedEventArgs e)
+        {
+            CheckBox temp = (CheckBox)sender;
+            if (temp.IsChecked == true) btnAll.IsEnabled = false;
+            else btnAll.IsEnabled = true;
+            
+        }
+
+        private void btnPrevVocab_Click(object sender, RoutedEventArgs e)
+        {
+            this._ControllerNewVocab.seePrevWord();
+        }
+
+        private void btnNextVocab_Click(object sender, RoutedEventArgs e)
+        {
+            this._ControllerNewVocab.seeNextWord();
         }
     }
 }

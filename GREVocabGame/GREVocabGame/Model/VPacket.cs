@@ -10,7 +10,14 @@ namespace GREVocabGame.Model
     {
         string day, word, wordType, mean, relation, relatedTo, example;
         string processedEx;
+        bool focus;
 
+
+        public bool Focus
+        {
+            get { return focus; }
+            set { focus = value; }
+        }
         public string Day
         {
             get { return day; }
@@ -89,10 +96,14 @@ namespace GREVocabGame.Model
                             }
 
                         }
+                        else if (word.Equals("vex") && token.Equals("vexed")) targetIndex = index;
+                        else if (word.Equals("rue") && token.Equals("rue")) targetIndex = index;
+                        else if (word.Equals("ode") && token.Equals("ode")) targetIndex = index;
                         else
                         {
+                            
                             processedEx = "hard noun and verb..";
-                            return;
+                            
                         }
                     }
                     else

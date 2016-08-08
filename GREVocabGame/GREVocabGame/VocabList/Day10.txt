@@ -5,6 +5,7 @@ the quality of being pleasant and easy to talk to
 ant
 surliness
 His affability, even to those whom he disliked, was unfailing.
+False
 1
 affiliate
 v
@@ -12,6 +13,7 @@ to accept as a member or branch; to become closely connected or associated
 ant
 dissociate
 Lawrence only affiliated with such seedy characters under the most dire of circumstances.
+False
 2
 affinity
 n
@@ -19,6 +21,7 @@ an interest or attraction to, often based on similarity
 ant
 anipathy
 The two young lovers felt an affinity for each other at first sight.
+False
 3
 affluent
 adj
@@ -26,6 +29,7 @@ abundant or wealthy
 ant
 impecunious
 Hank had grwon up in an affluent family and always had his material needs met.
+False
 4
 buffoon
 n
@@ -33,6 +37,7 @@ a clown
 ch
 ludicrous
 The man acted like a buffoon in front of the kids to amuse them.
+False
 5
 daft
 adj
@@ -40,6 +45,7 @@ follish or insane
 ant
 judicious
 Brian's parents labeled his plans to forgo college as a daft decision.
+False
 6
 defer
 v
@@ -47,6 +53,7 @@ to submit to another's wishes or opinions through respect
 obj
 leader
 Lieberman has said he would defer to Gore if the former vice president decides to seek the presidency.
+False
 7
 defile
 v
@@ -54,6 +61,7 @@ to make impure or despicably unclean.
 syn
 taint
 The church had been broken into and defiled by vandals.
+False
 8
 deft
 adj
@@ -61,6 +69,7 @@ quick and skillful
 ant
 maladroit
 The magician baffled the young child with his deft slight of hand.
+False
 9
 diffidence
 n
@@ -68,6 +77,7 @@ the state of lacking self-confidence
 ant
 brazenness
 His diffidence became evident in his speech and mannerisms.
+False
 10
 disonance
 n
@@ -75,6 +85,7 @@ a combination of discordant sounds
 ant
 concord
 The disonance in their relationship grew until they finally borke up.
+False
 11
 distillate
 n
@@ -82,6 +93,7 @@ the distilled liquid
 ch
 purity
 Whiskey is a distillate of grain.
+False
 12
 divergent
 adj
@@ -89,13 +101,15 @@ moving apart from a common point
 ch
 aside
 The salesman eventually convinced his boss of the financial benefits of following his unorthodox and divergent strategies.
+False
 13
 efface
 v
 to erase
 ant
 bring to prominent
-Michelle often affeced herself in an attempt to avoid being the object of attention.
+Michelle often effaced herself in an attempt to avoid being the object of attention.
+False
 14
 effervesce
 v
@@ -103,6 +117,7 @@ to emit small bubbles of gas
 ant
 droop
 Jane effervesced with joy upon hearing the news of her husband's successful surgery.
+False
 15
 effete
 adj
@@ -110,6 +125,7 @@ depleted of vitallity
 ant
 hale
 The effete senior citizen walked feebly and only with aid of a cane.
+False
 16
 efficacious
 adj
@@ -117,6 +133,7 @@ effective or able to produce an intended effect
 ant
 futile
 The old woman wore the pained expression that she had long sicnce found to be much more efficacious than anger.
+False
 17
 effulgent
 adj
@@ -124,6 +141,7 @@ shining brilliantly
 pos
 resplendence
 The stars in the sky produced an effulgent sight.
+False
 18
 enfeeble
 v
@@ -131,6 +149,7 @@ to deprive of strength
 obj
 strength
 The reliance on funding has gradually enfeebled every state which has adopted it.
+False
 19
 enfranchise
 v
@@ -138,6 +157,7 @@ to confer a frenchise on
 ant
 enfetter
 The Emancipation Proclamation enfranchised American slaves.
+False
 20
 gloat
 v
@@ -145,6 +165,7 @@ to think about something with victorious and malicious gratification
 ch
 smug
 The victor of the election gloated at his opponent.
+False
 21
 impartial
 adj
@@ -152,13 +173,15 @@ treating all sides equally
 ch
 arbitrator
 The coach couldn't find an impartial referee to work the game.
+False
 22
 impassion
 v
 to arouse the passions or feelings of
 cn
 callous
-The president's rousing speech imapssioned the nation to fight illiteracy.
+The president's rousing speech impassioned the nation to fight illiteracy.
+False
 23
 callous
 adj
@@ -166,13 +189,15 @@ cold attitude
 ant
 warm
 A callous muderer killed a man.
+False
 24
 jaundice
 v
 to affect adversely
 ant
 dispose favorably
-Diane's previous marriage had juandiced her opinion of men until she met Josh.
+Diane's previous marriage had jaundiced her opinion of men until she met Josh.
+False
 25
 lofty
 adj
@@ -180,6 +205,7 @@ having great height
 ant
 ignoble
 The prosecutor pleaded with the lofty judge to make a just decision.
+False
 26
 morbid
 adj
@@ -187,6 +213,7 @@ characterized by excessively gloomy or unwholesome thoughts and feelings
 ant
 wholesome
 His morbid thoughts nearly led him to commit suicide.
+False
 27
 muffle
 v
@@ -194,6 +221,7 @@ to wrap up or cover a sound
 ant
 plangent
 A muffled sound was coming from the chlid, but his father couldn't understand it.
+False
 28
 nefarious
 adj
@@ -201,6 +229,7 @@ wiched or evil
 pos
 wickedness
 Al Capone was the nefarious mastermind behind the St. Valentine's day massacre.
+False
 29
 recalcitrant
 adj
@@ -208,6 +237,7 @@ hard to treat
 cn
 obey
 Is this supposed to indicate recalcitrant behavior?
+False
 30
 obfuscate
 v
@@ -215,6 +245,7 @@ to make obscure or unclear
 ant
 clarify
 The president's staff obfuscated the sotry concerning the president's alleged affair.
+False
 31
 offbeat
 adj
@@ -222,6 +253,7 @@ unexpected or unusual
 ant
 bathetic
 The new student was too offbeat to fit in with the other students.
+False
 32
 officious
 adj
@@ -229,6 +261,7 @@ meddlesome
 de
 attentive
 The officious neighbor was known for giving unwanted advice and being noisy.
+False
 33
 offish
 adj
@@ -236,6 +269,7 @@ prone to be reserved and aloof
 ant
 sociable
 I asked my sister why she was being so offish, but she gave no reply.
+False
 34
 parry
 v
@@ -243,13 +277,15 @@ to deflect or evade
 obj
 question
 Smith had been a politician for 10 years and could parry any reporter's question.
+False
 35
 penitent
 adj
 feeling sorrow and shame over acts of sin committed
 syn
 remorese
-A truly panitent person makes amends to the people he has hurt.
+A truly penitent person makes amends to the people he has hurt.
+False
 36
 perforate
 v 
@@ -257,6 +293,7 @@ to punch a row of holes in order to allow for easy separation
 obj
 hole
 Enid preferred the notebook with the perforated pages so she could tear them out.
+False
 37
 raffish
 adj
@@ -264,6 +301,7 @@ cheaply or showily vulgar
 wo
 decorum
 Amy's father worreid about her becoming friendly with the raffish bunch of hoodlums
+False
 38
 refractory
 adj
@@ -271,6 +309,7 @@ resistant to authority
 obj
 authority
 The frustrated teacher quickly sent her refractory student to the principal's office.
+False
 39
 snobbish
 adj
@@ -278,6 +317,7 @@ being a snob
 de
 refined
 A snobbish attitude will bring you nothing but loneliness.
+False
 40
 suffuse
 v
@@ -285,6 +325,7 @@ to fill or spread over with fluid
 de
 tint
 The room was suffused with sunlight when she opened the window shades.
+False
 41
 unflappable
 adj
@@ -292,6 +333,7 @@ not easily perturbed
 cn
 upset
 one sign of a true leader is an unflappable reaction to crisis.
+False
 42
 vagrant
 adj
@@ -299,6 +341,7 @@ moving around without direction
 ant
 fixed
 During the depression, the streets were filled with vagrant children who had nowhere to go.
+False
 43
 veer
 v
@@ -306,3 +349,4 @@ to shift direction sharply
 obj
 course
 The driver veered off the road to avoid oncoming traffic.
+False

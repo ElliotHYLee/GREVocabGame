@@ -1,0 +1,266 @@
+0
+aberrant
+adj
+deviating form the norm
+obj
+standard
+The mother began to worry when all of her son's teachers complained of his aberrant behavior.
+1
+abet
+v
+encourage and support
+pos
+encouragement
+The protesters gathered to abet the legalization of same0sex marriages.
+2
+acerbic
+adj
+sour
+ant
+saccharine
+The medicine's acerbic flavor caused the child to flinch.
+3
+aversion
+n
+a feeling of strong hate
+de
+disinclination
+A young man naturally conceives an aversion to labor when he receives no benefit from it.
+4
+caveat
+n
+warning
+pos
+cautionary
+Samantha did not heed the caveat given by her father.
+5
+crestfallen
+adj
+depressed
+ant
+exultant
+The emplyee to whom the manager had been talking went away quite crestfallen.
+6
+deterrent
+n
+barrier
+ant
+inducement
+The claim that corporal punishment is an effective deterrent against future crimes is false.
+7
+dilapidate
+v
+to bring into a state of decay or partial ruin
+ant
+resotred
+The riots left the street dilapidated.
+8
+earshot
+n
+the distance over which a sound can be heard
+obj
+hear
+Tom made sure we were out of earshot before he began telling me the latest rumors.
+9
+enervate
+v
+to drain of physical or mental energy
+obj
+vigor
+The long work day and lack of sleep envervated Marie.
+10
+frenetic
+adj
+frantic and nervously excited
+de
+energetic
+The children were frenetic on the last day of school.
+11
+frenzy
+n
+a temprorary state of chaos and panic
+de
+emotion
+The scuba divers witnessed feeding frenzy as the sharks devoured the bait.
+12
+grimace
+n
+a facial contortion in reaction to pain or disgust
+causal
+pain
+Francis grimaced whenever she was reminded of her painful past.
+13
+adroit
+adj
+skillful
+wo
+inept
+an adroit negotiato
+14
+inert
+adj
+unable to move or resist motion
+cn
+react
+The ropes bound the inert hostage to the chair.
+15
+ode
+n
+a poem
+kin
+poem
+The young poet sang an ode to Odysseus, the clever and courageous hero.
+16
+overbearing
+adj
+arrogant
+ant
+meek
+The overbearing commander shouted at and threatened his troops.
+17
+overindulge
+v
+to indulge excessively i some action
+ch
+glutton
+It is hard to not overindulge during the holidays and vacations.
+18
+pedestrian
+adj
+ordinary
+ant
+imaginative
+The company's pedestrian advertisements failed to generate sales.
+19
+peeve
+v
+piss off
+ant
+placate
+The housekeeper was peeved at his boss for leaving such a mess.
+20
+precarious
+adj
+unstable or insecure
+wo
+stability
+You don't seem to realize that we are in a precarious condition.
+21
+precipitate
+v
+to cause to occur suddenly or abruptly
+wo
+symptom
+The accident was precipitated by the younger driver not paying attention to the road.
+22
+preponderance
+n
+superiority
+obj
+weight
+A preponderance of evidence against the defendant made the prosecution's job easy.
+23
+preposterous
+adj
+abberant
+ant
+commonsensical
+No one paid any attention to Bill because everything he said was preposterous.
+24
+prevaricate
+v
+to cover up the truth;
+wo
+truth
+The guilty child prevaricated to his mother when she asked who broke the vase.
+25
+querulous
+adj
+continually whining or complaining
+ch
+grouch
+The traveler could not stand taking trips with querulous people.
+26
+redolent
+adj
+giving off and odor or fragrance
+syn
+fragrant
+Sara's hair was redolent of sweet perfume.
+27
+redoubtable
+adj
+respectful, scary
+pos
+regard
+The counselor was a redoubtable member of the faculty who many students turned to for advice.
+28
+rudiment
+n
+foundation
+syn
+fundament
+Primary school educates youth in the rudiments of human knowledge.
+29
+rue
+n
+regret
+syn
+remorse
+The old man has rue regarding his failed first marriage.
+30
+sedulous
+adj
+assiduous
+ant
+indolent
+The sedulous student was on the hornor roll every semester.
+31
+sidereal
+adj
+related to constellations or stars
+pos
+star
+The sidereal bodies in our solar system show the magnificence of God's creativity.
+32
+specious
+adj
+appearing true although it is false
+ant
+valid
+The man's specious reasoning nearly convinced the couple to sign the contract.
+33
+stentorian
+adj
+very loud
+de
+audible
+The stentorian speeches of the artilery continued in some distant encounter, but the crashes of the musketry had almost ceased.
+34
+sterile
+adj
+absolutely clean; unable to reproduce
+wo
+germ
+It is very important that a doctor's instruments are sterile before used to ensure that germs are not spread.
+35
+teeter
+v
+to waver or move unsteadily
+syn
+totter
+A chinaman went by, teetering under the weight of the market baskets slung on a pile across his shoulders.
+36
+torrid
+adj
+very hot
+ant
+arctic
+In South America, siestas are taken in the middle of the day to hide from the torrid sun.
+37
+trepidation
+n
+anxiety or fear
+wo
+dauntless
+The dog's enormous size caused the little boy to approach it with trepidation.

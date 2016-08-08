@@ -1,0 +1,259 @@
+0
+acme
+n
+the highest point
+ant
+nadir
+Having reached the acme of her political career, the woman planned to retire after the end of her second presidential term.
+1
+bombast
+n
+pretentious speech or writing
+ch
+pompous
+The professor's article, no more than a bombast, was denied publication.
+2
+bromide
+n
+a commonplace or trite remark
+ch
+hackneyed
+The bromides offered to the crying girl did nothing to ease her pain and sorrow.
+3
+calumniate
+v
+to criticize to damage one's reputation
+pur
+falsehood
+To divert attention from his own poor performance, Jason calumniated a co-worker, going so far as to accuse him of embezzlement.
+4
+conform
+v
+to obey or comply with
+wo
+maverick
+Young people have always refused to conform to the conventional standars of the day.
+5
+congeal
+v
+to solidify or harden
+ant
+liquefy
+The blood had congealed around the wound on his head.
+6
+congenial
+adj
+friendliness
+ant
+draconic
+Stepan was congenial and kind to all his coworkers.
+7
+congruent
+adj
+being in agreement or harmony
+ojb
+dimension
+The company's long-range goals are congruent with my own.,
+8
+convalesce
+v
+to recover or recuperate from illness
+pos
+rehabilitation
+When Samantha was convalescing after her surgery, the nurses insisted she get up and walk even though it was painful.
+9
+deluge
+n
+a great flow
+de
+drizzle
+A deluge hit Napier, flooding streets and property.
+10
+delusion
+n
+an erroneous belief or opinion; an idea that is not true
+pos
+visionary
+Charles lived his life under the delusion that money brings happiness.
+11
+ditty
+n
+a short song
+kin
+song
+Mothers usually sing a ditty to put their baby to sleep.
+12
+flinch
+v
+to recoil or shrink in fear or pain
+cause
+fear
+After years of abuse, the dog flinched every time anyone raised their voice.
+13
+foment
+v
+to stir up trouble
+ant
+defuse
+Authorities accused opposition parties of using the media to foment widespread public discord.
+14
+galvanize
+v
+to shock with an electric current
+de
+stimulate
+Campaignes designed to galvanize the public into action by appealing to reason can be sustained over those that appeal to emotions.
+15
+hem
+v
+to surround
+par
+garment
+The The valley was not discovered until recently because large mountains hemmed it in.
+16
+homage
+n
+expression of high regard
+ant
+disrespect
+Two hundred football players came to pay homage to the great coach who had been dear to them all.
+17
+immanent
+adj
+inherent; implying
+ant
+extrinsic
+Atheist believe that a spiritual being is immanent in people.
+18
+imminent
+adj
+ready or about to happen
+syn
+forthcoming
+The soldier, fighting in the midst of a bloody battle, knew he was in imminent peril.
+19
+limerick
+n
+a poem of about five lines
+kin
+poem
+The Irish are famous for their limericks.
+20
+luminary
+n
+a prominent or respected person
+ch
+eminence
+The luminary professor Richard Feynman is best known for his revision of the theoyr of quantum electrodynamics.
+21
+momentous
+adj
+very significant
+de
+important
+The signiing of the Declaration of Independence was a momentous event in American history.
+22
+paltry
+adj
+small, meager, despicable
+ant
+fignificant
+The laborer receivced a paltry wage for hs week's work, barely enough to feed his small family.
+23
+premeditate
+v
+to plan or consider in advance
+ant
+offhand
+Sentencing is more severe for convicted individuals who premeditate their crimes becasue the planning implies curety.
+24
+remiss
+adj
+negligent or careless in the performance of one's duties or reponsibilities
+syn
+indolent
+The employee was reprimanded for being remiss and forgetting to lock the office.
+25
+ruminate
+v
+ponder
+ant
+unreflective
+Tim grew restless as he ruminated over whether or not to accept the job offer.
+26
+salubrious
+adj
+promoting or favorable to health
+ant
+baneful
+A short workout every morning is a salubrious daily routine.
+27
+salve
+v
+to soothe or cure
+ch
+unctuous
+After sitting in the sun for some time, Jimmy had to slave himself with aloe in order to lessen the discomfort from the sunburn.
+28
+solvent
+adj
+able to pay all legal debts
+ant
+bankrupt
+The gifted businessman managed to keep his company solvent throughout the long economic recession.
+29
+somber
+adj
+dark colored
+ant
+droll
+Kitty's mood became somber when the policeman pulled her over for speeding.
+30
+symbiotic
+adj
+coliving 
+ch
+interdependent
+A symbiotic relationship between two species develops over a long period of evolution.
+31
+temerity
+n
+foolish boldness
+wo
+timorous
+Alicia's temerity led her to scream at ther boss.
+32
+vim
+n
+a large amount of energy and vitality
+ant
+lassitude
+The old grandmother was so full of vim and vigor that she tired out her grandchildren with her play.
+33
+voluble
+adj
+fluent
+ant
+reticent
+Laura is voluble in her protestations, espeicially when discussing environmental issues.
+34
+voluptuary
+n
+a person addicted to luxury and sensual pleasures
+ant
+ascetic
+Bernice was a true voluptuary who enjoyed regular gourmet meals and weekend spa getaways.
+35
+wan
+adj
+unnaturally pale
+ant
+rubicund
+The doctor's pale and wan face indicated that his 36 hour shift ran too long.
+36
+windbag
+n 
+talkative person
+ch
+verbosity
+Nobody pays attention to that old winbag because he talks incessantly about the weather.

@@ -1,0 +1,91 @@
+0
+adamant
+adj
+stubbornly unyielding
+wo
+flexibility
+The boy's adamant refusal to do his chores angered his mother.
+1
+analgesia
+n
+the inability to feel pain but without a loss of consciousness
+fun
+ache
+The patient asked the doctor to put her into a state of amalgesia before the oepration.
+2
+barb
+n
+a pungent comment
+ch
+caustic
+Jim was hurt by the sarcastic barb made by his boss at his expense.
+3
+blanch
+v
+make one pale
+Ant
+mottle
+The dry cleaner blanched Steve's favorite white shirt for his upcoming job interview.
+4
+blandish
+v
+to persuade in a flattering manner
+pur
+coax
+The employee blandished her boss into giving her a promotion.
+5
+coalesce
+v
+to come together
+ant
+disaggregate
+Two stars coalesced and shone brightly as one.
+6
+cramp
+v
+to restrict the freedom of by colsely confining
+ant
+commodious
+The passengers complained about the cramped spaces in the dining lounge.
+7
+depose
+v
+to make a statement under oath
+ant
+perjure
+Irene was brought to the stand and she deposed that she had seen the murder.
+8
+desiccant
+n
+a substance that absorbs moisture or water;
+fun
+dry
+Desiccants are used in packages to keep the products from getting wet.
+9
+evanescent
+adj
+vanishing like vaor
+wo
+permanency
+The change was subtle, evanescent, and hard to define, but unmistakable.
+10
+ford
+n
+a shallow area in a tream
+par
+river
+The boys could not cross the river because it was still a mile away to the next ford.
+11
+fury
+n
+intense anger or rage
+de
+anger
+The father hid his fury in front of the guests.
+12
+grandiloquent
+adj
+extravagant in language or manner
+obj
+language
+The winner's grandiloquent speech was too much for the qudience.

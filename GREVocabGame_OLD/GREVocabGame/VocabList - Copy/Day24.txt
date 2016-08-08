@@ -1,0 +1,287 @@
+0
+abridge
+v
+to shorten written works
+obj
+length
+The abridged version of Lonesome Dove is available for poeple who don't have the time to read it in its entirety.
+1
+acrid
+adj
+having an irritatingly pungent
+ant
+savory
+The acrid smell of rotting garbage is revolting.
+2
+aloof
+adj
+reserved and remote
+ant
+gregarious
+The man remained aloof and refused to participate in the party games.
+3
+amorphous
+adj
+lacking shape
+wo
+conformation
+Gene could not appreciate the  amorphous mass of clay as abstract art.
+4
+anomalous
+adj
+irregular
+ant
+typical
+The regulators recognized that events like the Enron bankruptcy are relatively anomalous in a well-functioning economy.
+5
+apoplectic
+adj
+extremly angry
+ant
+calm
+Sheila was apoplectic with rage over the salesperson's comment about her waist size.
+6
+burgeon
+v
+to grow rapidly
+ant
+wither
+Once the rain came, new wildflowers burgeoned all across the field.
+7
+burlesque
+n
+a comic theatrical work that pokes fun at people
+ch
+mockery
+Burlesques satirizing the president are a common feature on the Saturday Night Live show.
+8
+choleric
+adj
+easily irritated or upset
+ch
+rile
+The commander of the regiment was an elderly, choleric man who snapped angrily at every little thing.
+9
+choreograph
+v
+to arrange the dances
+obj
+dance
+Madonna's concerts are always well choreographed and worht the money to see.
+10
+cronyism
+n
+the partiality to one's friends in political appointments or business contracts
+obj
+intimate
+Cronyism was a big problem at the firm until the new owner took over the tast of hiring.
+11
+croon
+v
+to sing or speak softly
+kin
+sing
+Alice was softly crooning to herself during class.
+12
+curb
+v
+to restrain
+ant
+goad
+Heather curbed her spending habit cutting up all her credit cards.
+13
+distraught
+adj
+greatly agitated by conflict of emotions
+de
+troubled
+The couple was deeply distraught over the kidnapping of their child.
+14
+droll
+adj
+having a funny or add character
+ant
+somber
+Adults found his droll comments comical.
+15
+exonerate
+v
+to clear of guilt
+ant
+inculpate
+I am relieved that I have been exonerated from the criminal charges.
+16
+gloom
+n 
+a feeling of despair or sadness
+ant
+glee
+A gloom set over the people as they heard that fighting in the Middle-East had broken out again.
+17
+glossy
+adj
+shiny
+fun
+varnish
+The horses in his stable with their glossy manes were clearly well cared for.
+18
+groove
+n
+a long narrow hole
+pos
+striated
+Crooves were placed onto handlebars for a better grip.
+19
+harbinger
+n
+one that indicates or foreshadows what is to come
+ch
+presage
+In the Bible, the Book of Revelation contains several harbingers about the end of the world.
+20
+mypoia
+n
+inability to think or plan into the future
+ant
+prescience
+Fun seekers who spurn life's responsibility are said to suffer from myopia.
+21
+peremptory
+adj
+not permitting refusal
+cn
+fawn
+The director became rather peremptory after the great success of his last film.
+22
+porcelain
+n
+a hard white ceramic ware often highly decorated
+obj
+glaze
+The girl's porcelain doll smashed to pieces when it fell on the floor.
+23
+pore
+v
+to read carefully or studiously
+par
+membrane
+The night before the exam, the college student pored over her lecture notes.
+24
+prolix
+adj
+drawn out too long
+wo
+terseness
+The prolix style of his speech lost the audience's attention.
+25
+propitiate
+v
+to pacify or appease
+ant
+incense
+I took an orange from my pocket in order to propitiate the belligerent monkey.
+26
+propitious
+adj
+favorable or lucky
+ant
+inauspicious
+The terrace at Bellomont on a September afternoon is propitious for sentimental musings.
+27
+propriety
+n
+appropriateness
+ant
+presumption
+Susan's outdated ideas of propriety are better suited for someone living in Victorian England.
+28
+prosaid
+adj
+ordinary or dull
+wo
+ingenuity
+The book was derided by critics as a prosaic piece of fiction.
+29
+proscribe
+v
+to prohibit or banish publicly
+ant
+sanction
+In the Johnson's household, phone calls after 9 p.m. were strictly proscribed.
+30
+proselytize
+v
+to pursuade and convert the religion
+obj
+religion
+The misssionaries proselytized the people of Zimbabwe.
+31
+rarefy
+v
+to become thin
+ant
+condense
+Mixing in some water, the chemist rarefied the thick solution.
+32
+scorn
+v
+to show disdain
+de
+reject
+The bigoted townspeople scorned the disfigured man and cast him out of the community.
+33
+serendipty
+n
+something not earned but luckily found
+wo
+effort
+Peggy discovered true love by rerendipity and not by a well-planned endeavor.
+34
+sordid
+adj
+dirty or wretched
+ant
+noble
+Jack's reputation was forever tainted by his sordid extramarital affair.
+35
+threadbare
+adj
+worn and shabby
+wo
+novelty
+Barry's threadbare excuses for his financial problems ran thin with his parents.
+36
+unrepentant
+adj
+unwilling to ask forgiveness for a sin or wrong-doing
+ant
+penitential
+The killer was unrepentant, even at his execution.
+37
+verbose
+adj
+wordy or long-winded
+ant
+concise
+St. Augustine's writings are extremely verbose.
+38
+verdant
+adj
+covered with green growth
+ant
+sterile
+The verdant prairies of South Dakota are ideal for grazing cattle.
+39
+vicarious
+adj
+substitutionary
+ant
+firsthand
+Because she couldn't travel, Alice's grandmother lived vicariously through her grandchildren's experiences.
+40
+wholesome
+adj
+promoting health of body
+ant
+morbid
+Michael urged him to embrace the opportunity of taking wholesome exercise in the open air.

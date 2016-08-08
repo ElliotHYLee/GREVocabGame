@@ -5,6 +5,7 @@ to speak, plead, or argue in favor of
 ch
 exponent
 Cesar Chaves was the founder of the United Farm Workers and strongly advocated the reform of labor laws in America
+False
 1
 antagonize
 v
@@ -12,6 +13,7 @@ to counteract or provoke the anger of; to offend
 ant
 propitiate
 Presidents usually try to avoid antagonizing senators with long recess appointments.
+False
 2
 attenuate
 v
@@ -19,6 +21,7 @@ to make thin;
 obj
 thickness
 to lessen the force, magnitude, or value of
+False
 3
 busybody
 n
@@ -26,6 +29,7 @@ an inquisitive person, often too interested in the lives of others.
 ch
 intrusive
 Every society has its busybodies who spend half their life gossiping.
+False
 4
 caprice
 n
@@ -33,6 +37,7 @@ a sudden change in feeling, action, or opinion
 pos
 whimsical
 Most people did not trust Tome because he was known for his many caprice
+False
 5
 catalyst
 n 
@@ -40,6 +45,7 @@ a substance that speeds up a chemical reaction;
 kin
 enzyme
 The bombing of Pearl Harbor was America's catalyst into World War 2.
+False
 6
 categorical
 adj
@@ -47,6 +53,7 @@ having no exceptions or conditions; absolute or unequivocal
 ant
 qualified
 Robert made a categorical denial of any wrongdoig in his statement to the press.
+False
 7
 cavil
 v
@@ -54,6 +61,7 @@ to raise trivial objections or criticisms
 ch
 quibbler
 Bobby loves to cavil at his mother just to annoy her.
+False
 8
 cavort
 v
@@ -61,6 +69,7 @@ to bound about in a sprightly manner; to have lively fun
 ch
 sprightly
 The leprechauns cavorted around their pot of gold.
+False
 9
 civillize
 v
@@ -68,6 +77,7 @@ to bring out of a primitive state; to refine or socialize
 ant
 barbarize
 Missionaries civillized the tribes of New Guinea, teaching many members how to read and write.
+False
 10
 cowardice
 n
@@ -75,6 +85,7 @@ lack of courage
 ant
 pluck
 Failing to stand up for his girlfriend exhibited cowardice on Ron's part.
+False
 11
 cryptic
 adj
@@ -82,6 +93,7 @@ secret or with hidden meaning
 ch
 cipher
 The cryptic message puzzled the CIA.
+False
 12
 desultory
 adj
@@ -89,6 +101,7 @@ lacking in plan or purpose; lacking rational sequence or connection
 wo
 plan
 Chuck's parents began to worry when he turned 35 and showed no signs of chaning his desultory ways.
+False
 13
 detach
 v
@@ -96,6 +109,7 @@ to separate or disengage
 ant
 tether
 Once he became a teenager, Jim gradually detached himself emotionally from his family.
+False
 14
 devout
 adj
@@ -103,6 +117,7 @@ religiously devoted; serious about a belief or cause
 de
 sanctimonious
 The devout Christian went to church every Sunday.
+False
 15
 dexterous
 adj
@@ -110,6 +125,7 @@ skillful or clever; artful
 ch
 manipulate
 The dexterous pitch at the end of game brought victory to the East Coast team.
+False
 16
 ditch
 n
@@ -117,6 +133,7 @@ a long narrow hole dug in the earth, usually used for water drainage or containm
 de
 canyon
 The car went into the ditch because it spun out of control.
+False
 17
 downpour
 n
@@ -124,6 +141,7 @@ a heavy rain
 cause
 flooding
 Just as we were walking out of the partk, a downpour came and ruined our evening.
+False
 18
 doyen
 n
@@ -131,6 +149,7 @@ an experienced and senior member of a body or group.
 cn
 uninitiated
 The doyen of the compnay suggested that it make the deal with Intel.
+False
 19
 drawl
 v
@@ -138,6 +157,7 @@ to talk using lengthened vowel sounds
 ch
 slow
 Erica drawled her speech when she first began to study English.
+False
 20
 envious
 adj
@@ -145,6 +165,7 @@ feeling or showing jealously or envy
 de
 greedy
 Jinny became increasingly envious of Trisha after hearing that her boyfriend had bought her a new coat.
+False
 21
 esteem
 v
@@ -152,6 +173,7 @@ regard with respect or reverence; to consider
 de
 idolize
 The president had met many great men during his career, but he esteemed his father above them all.
+False
 22
 extant
 adj
@@ -159,6 +181,7 @@ currently or still existing
 ant
 extinct
 The largest extant reptile found in Asia is the Komodo dragon.
+False
 23
 favorable
 adj
@@ -166,6 +189,7 @@ expressing or facilitating approval or favor;
 ant
 propitious
 The weather on our trip was favorable to our outdoor plans.
+False
 24
 fawn
 v
@@ -173,6 +197,7 @@ to seek favor by groveling or flattery
 wo
 hauteur
 The nobles fawned over the King as they asked for more titles and land grants.
+False
 25
 faze
 v
@@ -180,6 +205,7 @@ to disturb or disconcert
 ant
 undisturbed
 The accident didn't faze him a bit for some reason,
+False
 26
 indict
 v
@@ -187,6 +213,7 @@ to formally accuse of a crime
 obj
 accused
 People continued to treat Mr. Johnson with suspicion though he was never indicted for the murder.
+False
 27
 insubordinate
 adj
@@ -194,6 +221,7 @@ disobedient; refusing to adhere to authority
 ant
 submissive
 The officer announced that he would not tolerate insubordinate behavior.
+False
 28
 intangible
 adj
@@ -201,6 +229,7 @@ not tangible; incapable of being defined or realized
 cn
 perceive
 The intangible aura of the old man made me weak in his presence.
+False
 29
 integral
 adj
@@ -208,6 +237,7 @@ consisting of essential parts; entire
 ant
 peripheral
 Hapiness is an integral ingredient for a long life.
+False
 30
 intensify
 v
@@ -215,6 +245,7 @@ to strengthen or increase i density or intenseness
 ant
 wane
 The noise of the crowd intensified as the final minutes of the game wore down.
+False
 31
 intent
 n
@@ -222,6 +253,7 @@ the purpose or plan
 ant
 accidental
 It was my intent to exercise every night, but I didn't do it.
+False
 32
 invigorate
 v
@@ -229,6 +261,7 @@ to stimulate or given energy to
 fun
 tonic
 A cold shower in the morning invigorates me during the hot summer months.
+False
 33
 inviolable
 adj
@@ -236,6 +269,7 @@ secure from profanation, assault, or violation
 cn
 profane
 Christians regard the Bible as an inviolable source for inspiration and wisdom.
+False
 34
 invulnerable
 adj
@@ -243,6 +277,7 @@ incapable of being wounded or conquered
 cn
 injure
 The invulnerable Superman flew through the burning fire to save the family.
+False
 35
 latent
 adj
@@ -250,6 +285,7 @@ present but not currently active; dormant
 ant
 manifest
 Lyme Disease can stay latent in a body for years before it affects one's health.
+False
 36
 lavish
 adj
@@ -257,6 +293,7 @@ generous in using or spending; extravagant
 ant
 penurious
 The lavish wedding was held at a posh mansion and adorned with ice sculptures.
+False
 37
 lax
 adj
@@ -264,6 +301,7 @@ careless or slacking; negligent to details
 syn
 loose
 Toward the end of a semester, students tend to become lax with their studies.
+False
 38
 lethal
 adj
@@ -271,6 +309,7 @@ devastatingly harmful to the point of causing death
 de
 harmful
 Juliet woke up a moment after Romeo had drunk the lethal poison.
+False
 39
 loyalty
 n
@@ -278,6 +317,7 @@ faithfulness or allegiance
 wo
 perfidious
 His loyalty makes him a good soldier.
+False
 40
 luxuriant
 adj
@@ -285,6 +325,7 @@ abundant or rich; marked by luxury
 ant
 Spartan
 My family took a luxuriant vacation to the tropics.
+False
 41
 meteoric
 adj
@@ -292,6 +333,7 @@ of or relating to meteors; relating to the speed of meteors
 wo
 constancy
 For her role in the movie Basic Instinct, Sharon Stone experienced a meteoric rise to fame.
+False
 42
 patent
 n
@@ -299,6 +341,7 @@ the written rights given to an inventor by the government to exclusively make, u
 ant
 occult
 A patent was given to Alexander Graham Bell for the invention of the telephone.
+False
 43
 potable
 adj
@@ -306,6 +349,7 @@ drinkable
 ch
 beverage
 Contrary to popular belief, the tap water in New York City is potable and of good quality.
+False
 44
 potentate
 n
@@ -313,6 +357,7 @@ ruler or one who holds great power
 ch
 power
 In a democracy, there is no true potentate, only poular icons called politicians.
+False
 45
 resurgence
 n
@@ -320,6 +365,7 @@ the coming again into activity and prominence
 ant
 moribund
 After the wild tech stock speculations of the 1990's, there was a resurgence of investment in traditionally stable companies.
+False
 46
 retain
 v
@@ -327,6 +373,7 @@ to keep in possession; to maintain in a certain place, condition, or position.
 ant
 proffer
 Bob retains most of his income and stores it in savings accounts.
+False
 47
 retaliate
 v
@@ -334,6 +381,7 @@ to repay an injury in kind; to return like for like
 ant
 forgive
 The French retaliated against the Spanish for invading Cotignac.
+False
 48
 retard
 v
@@ -341,6 +389,7 @@ to slow up or delay
 ant
 hasten
 Caffeine is thought to retard growth in children
+False
 49
 shackle
 v
@@ -348,6 +397,7 @@ v
 ant
 emancipate
 David felt shackled by his wife, children, job, and financial obligations.
+False
 50
 suture
 n
@@ -355,6 +405,7 @@ the act of surgically closing a wound
 ant
 incision
 If the sutures left an unsightly scar, Kara's hopes to be a model would be lost.
+False
 51
 testimonial
 n
@@ -362,6 +413,7 @@ something given as an expression of thans or admiration
 pur
 appreciation
 The enormouse statue of the mayor served as a testimonial to his great service to the city.
+False
 52
 tinker
 v
@@ -369,6 +421,7 @@ to fix experimentally or unskillfully
 de
 adjust
 Janet finally called the plumber after tinkering with the sink by herself for an hour.
+False
 53
 tonic
 n
@@ -376,6 +429,7 @@ a medicine or agent that invigorates and refreshes
 fun
 invigorate
 Balding men hope for a hair tonic that will re-grow lost hair
+False
 54
 unsuitable
 adj
@@ -383,6 +437,7 @@ not suitable or appropriate; not acceptable or wanted
 ant
 meet
 The retinue found the hotel room to be entirely unsuitable for the movie star,
+False
 55
 untenable
 adj
@@ -390,6 +445,7 @@ unable to be defended
 cn
 defend
 The captain determined that their position on the field was untenable, so the soldiers moved back several miles.
+False
 56
 usurp
 v
@@ -397,6 +453,7 @@ to seize in possession of rights, powe, or role of another
 obj
 power
 The commander in chief was usurped by the opposing genral.
+False
 57
 vital
 adj
@@ -404,6 +461,7 @@ essentail to life; lively, full of energy or spirit
 wo
 languish
 Nutrients and clean water are vital to maintaining good health.
+False
 58
 vivacious
 adj
@@ -411,6 +469,7 @@ livelyh or sprightly
 ant
 lifeless
 The boy had a vivacious and pleasant character
+False
 59
 votary
 n
@@ -418,3 +477,4 @@ a committed follower of a religion or cult; an enthusiast or devoted admirer
 ant
 skeptic
 Bush's votaries waited three days outside the White House to see him in person.
+False

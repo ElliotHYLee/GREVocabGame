@@ -5,6 +5,7 @@ traitor
 wo
 faith
 The apostate from the Republican Party was welcomed by the Democrats.
+False
 1
 appall
 v
@@ -12,6 +13,7 @@ to cause one to be shocekd
 ant
 embolden
 The social worker was appalled by the working conditions of the seatshop.
+False
 2
 appease
 v
@@ -19,6 +21,7 @@ to calm down
 ant
 miff
 Nothing could appease her fears and worries.
+False
 3
 bootless
 adj
@@ -26,6 +29,7 @@ useless
 wo
 worth
 Your many bootless business ventures have also bankrupted you personally.
+False
 4
 clout
 n
@@ -33,6 +37,7 @@ a heavy blow
 ant
 umpuissance
 The mayor had a lot of clout over the police department.
+False
 5
 colonnade
 n
@@ -40,6 +45,7 @@ a series of pillars
 par
 pillar
 Colonnades are used by architects to give a building a more stately and grand appearance.
+False
 6
 coquette
 n
@@ -47,6 +53,7 @@ playgirl
 ch
 flirtatious
 Jeannie had unknowingly gained the reputation of being a coquette.
+False
 7
 debacle
 n
@@ -54,6 +61,7 @@ a total failure
 ant
 landslide
 The campaign was a debacle and a waste of money
+False
 8
 dingy
 adj
@@ -61,6 +69,7 @@ darkened or discolored
 cn
 glisten
 The dingy motel room was badly in need of new wallpaper and other renovations.
+False
 9
 disabuse
 v
@@ -68,6 +77,7 @@ to wake up from misconception
 obj
 fallacy
 Megellan disabused the belief that the world was flat.
+False
 10
 dread
 n
@@ -75,6 +85,7 @@ extreme fear
 cause
 cringe
 The people in the war-torn city live in dread of further shelling.
+False
 11
 dupe
 v
@@ -82,6 +93,7 @@ to trick
 ch
 gullible
 That he culd have chosen to dupe her in so ready a mannder seemed a cruel thing.
+False
 12
 grotesque
 adj
@@ -89,6 +101,7 @@ extraordinary
 de
 fantastic
 It is always more fun to dress as something grotesque on Halloween.
+False
 13
 impassive
 adj
@@ -96,6 +109,7 @@ showing no emotion
 syn
 deadpan
 Fleming always sat with the same impassive and absent-minded air during the boss' rantings.
+False
 14
 impeccable
 adj
@@ -103,6 +117,7 @@ flawless
 wo
 blemish
 Joe was an impeccable hero in his younger brother's eyes.
+False
 15
 parable
 n
@@ -110,6 +125,7 @@ a brief fiction talks about a moral
 kin
 story
 Children's bedtime stories are often parables.
+False
 16
 platitude
 n
@@ -117,6 +133,7 @@ boredom
 ch
 banal
 The preacher's sanctimonious platitudes were on his congregation.
+False
 17
 preamble
 n
@@ -124,6 +141,7 @@ the introductory statement or fact
 ch
 introductory
 The preamble to the new law highlighted the government's commitment to protect forests.
+False
 18
 prostrate
 adj
@@ -131,6 +149,7 @@ lying flat and face down
 ant
 upright
 After an incredibly long and strenuous day of work, Brian came home and lay down prostrate on his bed.
+False
 19
 protract
 v
@@ -138,6 +157,7 @@ to prolong unnecessarily
 ant
 curtail
 Blucher's neck made a sickerningly protracted crackling sound.
+False
 20
 protuberance
 n
@@ -145,6 +165,7 @@ the state of bulging
 ant
 concavity
 Nolan had a strange protuberance on his cheeck that he asked the doctor to examine.
+False
 21
 provident
 adj
@@ -152,6 +173,7 @@ wise, prudent, economical
 ch
 spendthrift
 Lilly is a provident person who saves 15% of her playcheck each month.
+False
 22
 provincial
 adj
@@ -159,6 +181,7 @@ coming from a province
 ant
 cosmopolitan
 The brilliant and sophisticated writer's provincial nature surprised his audience of readers.
+False
 23
 provisions
 n
@@ -166,6 +189,7 @@ preparatory measures
 fun
 larder
 The travelers stopped at the nearest town to get provisions for their hike.
+False
 24
 quotidian
 adj
@@ -173,6 +197,7 @@ occuring everyday
 ant
 striking
 Personal hygiene such as brushing one's teeth is a quotidian chore.
+False
 25
 rapacious
 adj
@@ -180,6 +205,7 @@ grasping or taking by force
 de
 covetous
 Many hoped that the rapacious strangers would be induced to leave the town quickly.
+False
 26
 repartee
 n
@@ -187,6 +213,7 @@ a quick clever reply
 syn
 retort
 Our neighbor was a witty man, famous for pleasant repartees.
+False
 27
 repatriate
 v
@@ -194,6 +221,7 @@ to return to original country
 ant
 emigrate
 In the mid 1900s, Greece and Turkey repatriated each other's citizens to their home countries.
+False
 28
 slouch
 v
@@ -201,6 +229,7 @@ to let one's shoulder and neck fall forward
 ant
 stand erect
 The young man slouched at his desk.
+False
 29
 slovenly
 adj
@@ -208,6 +237,7 @@ untidy or dirty
 ant
 natty
 Harran's groping hand met that of a slovenly little Dutchman.
+False
 30
 smother
 v
@@ -215,6 +245,7 @@ to deprive of exygen
 syn
 choke
 The fireman smothered the flames with a wet blanket.
+False
 31
 sop
 n
@@ -222,6 +253,7 @@ a bribe
 ch
 conciliatory
 the feuding tribes exchanged sops in order to maintain the accord of the two tribes.
+False
 32
 treacherous
 adj
@@ -229,6 +261,7 @@ unreliable
 ant
 faithful
 In the entertainment business, most people are treacherous and only befriend you while you're famous.
+False
 33
 vertigo
 n
@@ -236,3 +269,4 @@ dizziness
 syn
 dizziness
 Beth went to the doctor because she was repeatedly experiencing vertigo.
+False

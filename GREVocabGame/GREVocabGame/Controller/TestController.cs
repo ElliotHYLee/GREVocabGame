@@ -14,10 +14,10 @@ namespace GREVocabGame.Controller
     class TestController
     {
 
-        ModelToWrite _data;
+        DayPacket _dayData;
         MainWindow _view;
         ControllerNewVocab _con;
-        List<VPacket> _listPacket;
+        List<VPacket> _listVPacket;
         List<bool> _listResult;
         List<RadioButton> _listRB;
         int currentQuestionNumber = 0;
@@ -28,12 +28,13 @@ namespace GREVocabGame.Controller
         int[] listWordIndex;
         int sec, min;
         DispatcherTimer dispatcherTimer;
+        int loopCounter;
 
         public TestController(MainWindow view, ControllerNewVocab tCon)
         {
             _view = view;
             _con = tCon;
-            _listPacket = new List<VPacket>();
+            _listVPacket = new List<VPacket>();
             _listResult = new List<bool>();
             resetRadio();
         }
@@ -54,15 +55,22 @@ namespace GREVocabGame.Controller
             if (prepData())
             {
                 _view.lstResult.Items.Clear();
-                _listPacket = new List<VPacket>();
+                _listVPacket = new List<VPacket>();
                 _listResult = new List<bool>();
                 resetRadio();
 
                 trapAnswer = 0;
                 currentQuestionNumber = 0;
-                chooseNRandom();
+                if (_view.chkBriefMode.IsChecked == true)
+                {
+                    _listVPacket = _dayData.FocusedVocabList;
+                    
+                    maxIteration = Int32.Parse(_view.txtNumQu.Text);
+                    listWordIndex = new int[maxIteration];
+                }
+                else chooseNRandom();
+
                 displayQuestion();
-                
             }
             _view.btnSubmit.IsEnabled = true;
             sec = 0;
@@ -100,25 +108,55 @@ namespace GREVocabGame.Controller
             int randomNumber = random.Next(0, 6);
             trapAnswer = randomNumber;
             string[] traps = { "", "" ,"", "", "", ""};
+            
             for (int i = 0; i <6; i++)
             {
-                randomNumber = random.Next(0, _data.listExample.Count - 1);
+                randomNumber = random.Next(0, _listVPacket.Count - 1);
                 while (listWordIndex.Contains(randomNumber))
                 {
-                    randomNumber = random.Next(0, _data.listExample.Count - 1);
+                    randomNumber = random.Next(0, _listVPacket.Count - 1);
                 }
                 VPacket tempVPacket = new VPacket();
-                tempVPacket.Word = _data.listWord[randomNumber];
-                tempVPacket.RelatedTO = _data.listRelatedTo[randomNumber];
+
+                tempVPacket.Word = _dayData.at(randomNumber).Word;
                 randomNumber = random.Next(0, 10);
-                if (randomNumber > 5) traps[i] = tempVPacket.RelatedTO;
-                else traps[i] = tempVPacket.Word;
+                if (randomNumber > 5)
+                {
+                    randomNumber = random.Next(0, _dayData.Count - 1);
+                    tempVPacket.RelatedTO = _dayData.at(randomNumber).RelatedTO;
+
+                    loopCounter = 0;
+                    while (traps.Contains(tempVPacket.RelatedTO))
+                    {
+                        randomNumber = random.Next(0, _listVPacket.Count - 1);
+                        tempVPacket.RelatedTO = _dayData.at(randomNumber).RelatedTO;
+                        loopCounter++;
+                        if (loopCounter > 10) break;
+
+                    }
+                    traps[i] = tempVPacket.RelatedTO;
+
+                }
+                else
+                {
+                    tempVPacket.Word = _dayData.at(randomNumber).Word;
+
+                    loopCounter = 0;
+                    while (traps.Contains(tempVPacket.Word))
+                    {
+                        randomNumber = random.Next(0, _listVPacket.Count - 1);
+                        tempVPacket.Word = _dayData.at(randomNumber).Word;
+                        loopCounter++;
+                        if (loopCounter > 10) break;
+                    }
+                    traps[i] = tempVPacket.Word;
+                }
 
             }
             int trapIndex=0;
             for (int i = 0; i < 6; i++)
             {
-                if (i == trapAnswer) _listRB[i].Content = _listPacket[currentQuestionNumber].Word;
+                if (i == trapAnswer) _listRB[i].Content = _listVPacket[currentQuestionNumber].Word;
                 else
                 {
                     _listRB[i].Content = traps[trapIndex];
@@ -134,8 +172,8 @@ namespace GREVocabGame.Controller
             {
                 _listRB[i].IsChecked = false;
             }
-            _listPacket[currentQuestionNumber].processSentence();
-            _view.txtSentence.Text = _listPacket[currentQuestionNumber].ProEx;
+            _listVPacket[currentQuestionNumber].processSentence();
+            _view.txtSentence.Text = _listVPacket[currentQuestionNumber].ProEx;
             //_view.txtResponse.Text = _listPacket[currentQuestionNumber].Word;
             _view.txtHint.Text = "";
             _view.txtScore.Text = "";
@@ -161,30 +199,16 @@ namespace GREVocabGame.Controller
                 VPacket vp;
                 for (int i = 0; i < maxIteration; i++)
                 {
-                    vp = new VPacket();
-                    randomNumber = random.Next(0, _data.listExample.Count );
+                    randomNumber = random.Next(0, _dayData.Count );
                     while (listRand.Contains(randomNumber))
                     {
-                        randomNumber = random.Next(0, _data.listExample.Count );
+                        randomNumber = random.Next(0, _dayData.Count );
                     }
                     listRand.Add(randomNumber);
                     listWordIndex[i] = randomNumber;
-                    vp.Day = _data.day;
-                    vp.Word = _data.listWord[randomNumber];
-                    Console.WriteLine(vp.Word);
-                    vp.WordType = _data.listWordType[randomNumber];
-                    vp.Example = _data.listExample[randomNumber];
-                    vp.Mean = _data.listMean[randomNumber];
-                    vp.RelatedTO = _data.listRelatedTo[randomNumber];
-                    vp.Relation = _data.listRelation[randomNumber];
-                    _listPacket.Add(vp);
+                    _listVPacket.Add(_dayData.at(randomNumber));
                 }
             }
-
-
-            
-            
-
         }
 
         public bool prepData()
@@ -192,7 +216,7 @@ namespace GREVocabGame.Controller
             bool isReady = true;
             string fName = detFileName();
             if (fName.Equals("Day")) isReady = false;
-            else _data = scatterToDayArray(fName);
+            else _dayData = getDayPacket(fName);
             return isReady;
         }
 
@@ -212,13 +236,34 @@ namespace GREVocabGame.Controller
             return fName;
         }
 
-        public ModelToWrite scatterToDayArray(string fileName)
+        public void getTotalVocabs()
         {
-            ModelToWrite tempData;
+            
+            string fName = detFileName();
+            if (fName.Equals("Day")) MessageBox.Show("Type day");
+            else _dayData = getDayPacket(fName);
+
+            _view.txtNumQu.Text = (_dayData.Count-1).ToString();
+            
+        }
+
+        public void getTotalFocusedVocabs()
+        {
+            string fName = detFileName();
+            if (fName.Equals("Day")) MessageBox.Show("Type day");
+            else _dayData = getDayPacket(fName);
+
+            _view.txtNumQu.Text = (_dayData.FocusedVocabList.Count).ToString();
+        }
+
+
+        public DayPacket getDayPacket(string fileName)
+        {
+            DayPacket tempData;
             Console.WriteLine(fileName);
             String strDay = fileName.Substring(3, 2);
             int day = int.Parse(strDay);
-            tempData = _con.GetDays[day - 1];
+            tempData = _con.DayAt[day - 1];
             return tempData;
         }
 
@@ -247,7 +292,7 @@ namespace GREVocabGame.Controller
             
 
             string response = _view.txtResponse.Text;
-            string ans = _listPacket[currentQuestionNumber].Word;
+            string ans = _listVPacket[currentQuestionNumber].Word;
 
             for(int i=0; i< _listRB.Count; i++)
             {
@@ -285,9 +330,9 @@ namespace GREVocabGame.Controller
             _view.btnSubmit.IsEnabled = false;
             dispatcherTimer.Stop();
             string tempResult;
-            for(int i = 0; i<_listPacket.Count;  i++)
+            for(int i = 0; i<_listVPacket.Count;  i++)
             {
-                tempResult = _listPacket[i].Word;
+                tempResult = _listVPacket[i].Word;
                 if (_listResult[i])
                 {
                     tempResult = "Correct:     " + tempResult;
@@ -304,15 +349,15 @@ namespace GREVocabGame.Controller
         {
             if (hintLevel==0)
             {
-                _view.txtHint.Text = "Hint1-> "+_listPacket[currentQuestionNumber].Mean;
+                _view.txtHint.Text = "Hint1-> "+_listVPacket[currentQuestionNumber].Mean;
                 hintLevel++;
             }
             else
             {
                 _view.txtHint.Text += "\nHint2-> ";
-                _view.txtHint.Text += _listPacket[currentQuestionNumber].Relation
+                _view.txtHint.Text += _listVPacket[currentQuestionNumber].Relation
                                     + ": "
-                                    + _listPacket[currentQuestionNumber].RelatedTO;
+                                    + _listVPacket[currentQuestionNumber].RelatedTO;
                 hintLevel++;
             }
 

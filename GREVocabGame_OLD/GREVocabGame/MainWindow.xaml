@@ -1,0 +1,79 @@
+﻿<Window x:Class="GREVocabGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GREVocab" Height="657.162" Width="1076.449">
+    <Grid Margin="0,0,2,-21">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80*"/>
+            <ColumnDefinition Width="453*"/>
+        </Grid.ColumnDefinitions>
+        <TabControl HorizontalAlignment="Left" Margin="10,30,0,0" Width="842" Height="550" VerticalAlignment="Top" Grid.Column="1">
+            <TabItem Name="tabViewVocab" Header="Viewer">
+                <Grid Background="white" Margin="11,7,14,22">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="18*"/>
+                        <RowDefinition Height="475*"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="Word" HorizontalAlignment="Left" Height="28" Margin="34,55,0,0" VerticalAlignment="Top" Width="66" Grid.Row="1"/>
+                    <Label Content="Word Type" HorizontalAlignment="Left" Height="27" Margin="34,93,0,0" VerticalAlignment="Top" Width="72" Grid.Row="1"/>
+                    <Label Content="Meaning" HorizontalAlignment="Left" Height="27" Margin="34,129,0,0" VerticalAlignment="Top" Width="56" Grid.Row="1"/>
+                    <Label Content="Relation" HorizontalAlignment="Left" Height="23" Margin="41,316,0,0" VerticalAlignment="Top" Width="61" Grid.Row="1"/>
+                    <Label Content="Realted To" HorizontalAlignment="Left" Height="23" Margin="179,316,0,0" VerticalAlignment="Top" Width="72" Grid.Row="1"/>
+                    <Label Content="Day" HorizontalAlignment="Left" Height="28" Margin="34,19,0,0" VerticalAlignment="Top" Width="66" Grid.Row="1"/>
+                    <TextBox Name="txtDay" KeyDown="enterTyped" HorizontalAlignment="Left" Height="23" Margin="131,24,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="277" TabIndex="0" Grid.Row="1" />
+                    <TextBox Name="txtWord" KeyDown="enterTyped" HorizontalAlignment="Left" Height="23" Margin="131,60,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="277" TabIndex="1" Grid.Row="1"/>
+                    <TextBox Name="txtWordType" KeyDown="enterTyped" HorizontalAlignment="Left" Height="23" Margin="131,97,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="277" TabIndex="2" Grid.Row="1"/>
+                    <TextBox Name="txtMean" KeyDown="enterTyped" HorizontalAlignment="Left" Height="39" Margin="131,133,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="277" TabIndex="3" Grid.Row="1" TextChanged="txtMean_TextChanged"/>
+                    <TextBox Name="txtRelation"  KeyDown="enterTyped" HorizontalAlignment="Left" Height="24" Margin="41,344,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="74" TabIndex="5" Grid.Row="1"/>
+                    <TextBox Name="txtRealtedTo" KeyDown="enterTyped" HorizontalAlignment="Left" Height="24" Margin="131,344,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="165" TabIndex="6" Grid.Row="1" />
+                    <TextBox Name="txtExample" KeyDown="enterTyped" HorizontalAlignment="Left" Height="86" Margin="44,230,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="364" TabIndex="4" Grid.Row="1" />
+                    <ListBox Name="listWords" HorizontalAlignment="Left" Height="448" Margin="423,24,0,0" VerticalAlignment="Top" Width="187" ScrollViewer.CanContentScroll="True" AllowDrop="True" SelectionChanged="listWords_SelectionChanged" Grid.Row="1"/>
+                    <Button Name="btnAdd" Content="Add" HorizontalAlignment="Left" Height="28" Margin="34,392,0,0" VerticalAlignment="Top" Width="94" Click="btnAdd_Click" Grid.Row="1"/>
+                    <Button Name="btnModify" Content="Modify" HorizontalAlignment="Left" Height="28" Margin="157,392,0,0" VerticalAlignment="Top" Width="94" Click="btnModify_Click" Grid.Row="1"/>
+                    <Button Name="btnDelte" Content="Delete" HorizontalAlignment="Left" Height="30" Margin="34,442,0,0" VerticalAlignment="Top" Width="94" Grid.Row="1"/>
+                    <Button Name="btnSave" Content="Save This List" HorizontalAlignment="Left" Height="30" Margin="157,442,0,0" VerticalAlignment="Top" Width="94" Click="btnSave_Click" Grid.Row="1"/>
+                    <Label Content="Example Sentence" HorizontalAlignment="Left" Height="38" Margin="44,192,0,0" VerticalAlignment="Top" Width="110" Grid.Row="1"/>
+                    <ListBox Name="listDays" HorizontalAlignment="Left" Height="448" Margin="644,24,0,0" VerticalAlignment="Top" Width="122" ScrollViewer.CanContentScroll="True" AllowDrop="True" MouseDoubleClick="listDays_DoubleClick" SelectionChanged="listDays_SelectionChanged" Grid.Row="1" />
+                    <Button Name="btnClear" Content="Clear" HorizontalAlignment="Left" Height="26" Margin="276,394,0,0" VerticalAlignment="Top" Width="78" Click="btnClear_Click" Grid.Row="1"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem Name="tabTestVocab" Header="Test">
+                <Grid Margin="0,-4,-2,-10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="7*"/>
+                        <ColumnDefinition Width="265*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox x:Name="txtSentence" HorizontalAlignment="Left" Height="50" Margin="20,68,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="479" Grid.ColumnSpan="2"/>
+                    <Button x:Name="btnGen" Content="generate" HorizontalAlignment="Left" Height="29" Margin="368,9,0,0" VerticalAlignment="Top" Width="110" Click="btnGen_Click" Grid.Column="1"/>
+                    <TextBox x:Name="txtDaySet" HorizontalAlignment="Left" Height="28" Margin="71,10,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="73" Grid.Column="1"/>
+                    <Label x:Name="label" Content="Day From:" HorizontalAlignment="Left" Height="29" Margin="20,10,0,0" VerticalAlignment="Top" Width="67" Grid.ColumnSpan="2"/>
+                    <Label x:Name="label1" Content="# of Questions" HorizontalAlignment="Left" Height="29" Margin="188,10,0,0" VerticalAlignment="Top" Width="95" Grid.Column="1"/>
+                    <TextBox x:Name="txtNumQu" HorizontalAlignment="Left" Height="28" Margin="288,10,0,0" TextWrapping="Wrap" Text="5" VerticalAlignment="Top" Width="75" Grid.Column="1"/>
+                    <TextBox x:Name="txtResponse" HorizontalAlignment="Left" Height="26" Margin="306,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" KeyUp="txtResponse_KeyUp" Grid.Column="1"/>
+                    <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Height="112" Margin="20,123,0,0" VerticalAlignment="Top" Width="303" Click="btnSubmit_Click" Grid.ColumnSpan="2"/>
+                    <TextBox x:Name="txtScore" HorizontalAlignment="Left" Height="28" Margin="583,11,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="128" Grid.Column="1"/>
+                    <Label x:Name="label2" Content="score" HorizontalAlignment="Left" Height="28" Margin="533,11,0,0" VerticalAlignment="Top" Width="46" Grid.Column="1"/>
+                    <ListBox x:Name="lstResult" HorizontalAlignment="Left" Height="454" Margin="533,44,0,0" VerticalAlignment="Top" Width="252" Grid.Column="1"/>
+                    <TextBox x:Name="txtHint" HorizontalAlignment="Left" Height="46" Margin="1,435,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="398" Grid.Column="1"/>
+                    <Button x:Name="btnHint" Content="Show Hint" HorizontalAlignment="Left" Height="46" Margin="405,435,0,0" VerticalAlignment="Top" Width="76" Click="btnHint_Click" Grid.Column="1"/>
+                    <Label x:Name="lblNumber" Content="" HorizontalAlignment="Left" Height="24" Margin="1,39,0,0" VerticalAlignment="Top" Width="48" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox1" Content="_" HorizontalAlignment="Left" Height="22" Margin="0,263,0,0" VerticalAlignment="Top" Width="105" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox2" Content="_" HorizontalAlignment="Left" Height="22" Margin="0,317,0,0" VerticalAlignment="Top" Width="105" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox3" Content="_" HorizontalAlignment="Left" Height="22" Margin="0,371,0,0" VerticalAlignment="Top" Width="105" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox4" Content="_" HorizontalAlignment="Left" Height="22" Margin="155,263,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox5" Content="_" HorizontalAlignment="Left" Height="22" Margin="155,317,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox6" Content="_" HorizontalAlignment="Left" Height="22" Margin="155,371,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1"/>
+
+                    <Label x:Name="lblTime" Content="" HorizontalAlignment="Left" Height="24" Margin="368,44,0,0" VerticalAlignment="Top" Width="50" Grid.Column="1"/>
+                    <Label x:Name="lblTimeTarget" Content="" HorizontalAlignment="Left" Height="24" Margin="428,44,0,0" VerticalAlignment="Top" Width="50" Grid.Column="1"/>
+                    <Button x:Name="btnAll" Content="All" Grid.Column="1" HorizontalAlignment="Left" Height="21" Margin="288,44,0,0" VerticalAlignment="Top" Width="76" Click="btnAll_Click"/>
+                    <Button x:Name="btnNext" Content="next" Grid.Column="1" HorizontalAlignment="Left" Height="21" Margin="109,42,0,0" VerticalAlignment="Top" Width="35" Click="btnNext_Click" />
+                    <Button x:Name="btnPrev" Content="prev" Grid.Column="1" HorizontalAlignment="Left" Height="21" Margin="71,42,0,0" VerticalAlignment="Top" Width="35" Click="btnPrev_Click" />
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Button Name="btnViewer" Content="Viewer" HorizontalAlignment="Left" Height="34" Margin="29,46,0,0" VerticalAlignment="Top" Width="105" Click="btnViewer_Click"/>
+        <Button Name="btnTest" Content="Test" HorizontalAlignment="Left" Height="34" Margin="29,108,0,0" VerticalAlignment="Top" Width="105" Click="btnTest_Click"/>
+    </Grid>
+</Window>

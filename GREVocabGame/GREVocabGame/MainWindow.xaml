@@ -30,11 +30,14 @@
                     <ListBox Name="listWords" HorizontalAlignment="Left" Height="448" Margin="423,24,0,0" VerticalAlignment="Top" Width="187" ScrollViewer.CanContentScroll="True" AllowDrop="True" SelectionChanged="listWords_SelectionChanged" Grid.Row="1"/>
                     <Button Name="btnAdd" Content="Add" HorizontalAlignment="Left" Height="28" Margin="34,392,0,0" VerticalAlignment="Top" Width="94" Click="btnAdd_Click" Grid.Row="1"/>
                     <Button Name="btnModify" Content="Modify" HorizontalAlignment="Left" Height="28" Margin="157,392,0,0" VerticalAlignment="Top" Width="94" Click="btnModify_Click" Grid.Row="1"/>
-                    <Button Name="btnDelte" Content="Delete" HorizontalAlignment="Left" Height="30" Margin="34,442,0,0" VerticalAlignment="Top" Width="94" Grid.Row="1"/>
+                    <Button Name="btnDelte" Content="Delete" HorizontalAlignment="Left" Height="30" Margin="34,442,0,0" VerticalAlignment="Top" Width="94" Grid.Row="1" Click="btnDelte_Click"/>
                     <Button Name="btnSave" Content="Save This List" HorizontalAlignment="Left" Height="30" Margin="157,442,0,0" VerticalAlignment="Top" Width="94" Click="btnSave_Click" Grid.Row="1"/>
                     <Label Content="Example Sentence" HorizontalAlignment="Left" Height="38" Margin="44,192,0,0" VerticalAlignment="Top" Width="110" Grid.Row="1"/>
                     <ListBox Name="listDays" HorizontalAlignment="Left" Height="448" Margin="644,24,0,0" VerticalAlignment="Top" Width="122" ScrollViewer.CanContentScroll="True" AllowDrop="True" MouseDoubleClick="listDays_DoubleClick" SelectionChanged="listDays_SelectionChanged" Grid.Row="1" />
                     <Button Name="btnClear" Content="Clear" HorizontalAlignment="Left" Height="26" Margin="276,394,0,0" VerticalAlignment="Top" Width="78" Click="btnClear_Click" Grid.Row="1"/>
+                    <CheckBox Name="chkFocus" Content="Focus" HorizontalAlignment="Left" Height="24" Margin="324,344,0,0" Grid.Row="1" VerticalAlignment="Top" Width="84"/>
+                    <Button x:Name="btnPrevVocab" Content="prev" HorizontalAlignment="Left" Height="23" Margin="276,442,0,0" Grid.Row="1" VerticalAlignment="Top" Width="41" Click="btnPrevVocab_Click"/>
+                    <Button x:Name="btnNextVocab" Content="next" HorizontalAlignment="Left" Height="23" Margin="334,442,0,0" Grid.Row="1" VerticalAlignment="Top" Width="40" Click="btnNextVocab_Click"/>
                 </Grid>
             </TabItem>
 
@@ -45,28 +48,32 @@
                         <ColumnDefinition Width="265*"/>
                     </Grid.ColumnDefinitions>
                     <TextBox x:Name="txtSentence" HorizontalAlignment="Left" Height="50" Margin="20,68,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="479" Grid.ColumnSpan="2"/>
-                    <Button x:Name="btnGen" Content="generate" HorizontalAlignment="Left" Height="29" Margin="368,9,0,0" VerticalAlignment="Top" Width="110" Click="btnGen_Click" Grid.Column="1"/>
-                    <TextBox x:Name="txtDaySet" HorizontalAlignment="Left" Height="28" Margin="71,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="73" Grid.Column="1"/>
+                    <Button x:Name="btnGen" Content="generate" HorizontalAlignment="Left" Height="29" Margin="368,9,0,0" VerticalAlignment="Top" Width="109" Click="btnGen_Click" Grid.Column="1"/>
+                    <TextBox x:Name="txtDaySet" HorizontalAlignment="Left" Height="28" Margin="71,10,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="73" Grid.Column="1"/>
                     <Label x:Name="label" Content="Day From:" HorizontalAlignment="Left" Height="29" Margin="20,10,0,0" VerticalAlignment="Top" Width="67" Grid.ColumnSpan="2"/>
                     <Label x:Name="label1" Content="# of Questions" HorizontalAlignment="Left" Height="29" Margin="188,10,0,0" VerticalAlignment="Top" Width="95" Grid.Column="1"/>
-                    <TextBox x:Name="txtNumQu" HorizontalAlignment="Left" Height="28" Margin="288,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="75" Grid.Column="1"/>
-                    <TextBox x:Name="txtResponse" HorizontalAlignment="Left" Height="26" Margin="20,122,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="304" Grid.ColumnSpan="2" KeyUp="txtResponse_KeyUp"/>
-                    <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Height="177" Margin="308,123,0,0" VerticalAlignment="Top" Width="170" Click="btnSubmit_Click" Grid.Column="1"/>
+                    <TextBox x:Name="txtNumQu" HorizontalAlignment="Left" Height="28" Margin="288,10,0,0" TextWrapping="Wrap" Text="5" VerticalAlignment="Top" Width="75" Grid.Column="1"/>
+                    <TextBox x:Name="txtResponse" HorizontalAlignment="Left" Height="26" Margin="306,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" KeyUp="txtResponse_KeyUp" Grid.Column="1"/>
+                    <Button x:Name="btnSubmit" Content="Submit" HorizontalAlignment="Left" Height="112" Margin="20,123,0,0" VerticalAlignment="Top" Width="303" Click="btnSubmit_Click" Grid.ColumnSpan="2"/>
                     <TextBox x:Name="txtScore" HorizontalAlignment="Left" Height="28" Margin="583,11,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="128" Grid.Column="1"/>
                     <Label x:Name="label2" Content="score" HorizontalAlignment="Left" Height="28" Margin="533,11,0,0" VerticalAlignment="Top" Width="46" Grid.Column="1"/>
                     <ListBox x:Name="lstResult" HorizontalAlignment="Left" Height="454" Margin="533,44,0,0" VerticalAlignment="Top" Width="252" Grid.Column="1"/>
-                    <TextBox x:Name="txtHint" HorizontalAlignment="Left" Height="46" Margin="20,327,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="398" Grid.ColumnSpan="2"/>
-                    <Button x:Name="btnHint" Content="Show Hint" HorizontalAlignment="Left" Height="46" Margin="402,327,0,0" VerticalAlignment="Top" Width="76" Click="btnHint_Click" Grid.Column="1"/>
+                    <TextBox x:Name="txtHint" HorizontalAlignment="Left" Height="46" Margin="1,435,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="398" Grid.Column="1"/>
+                    <Button x:Name="btnHint" Content="Show Hint" HorizontalAlignment="Left" Height="46" Margin="405,435,0,0" VerticalAlignment="Top" Width="76" Click="btnHint_Click" Grid.Column="1"/>
                     <Label x:Name="lblNumber" Content="" HorizontalAlignment="Left" Height="24" Margin="1,39,0,0" VerticalAlignment="Top" Width="48" Grid.Column="1"/>
-                    <RadioButton x:Name="opBox1" Content="_" HorizontalAlignment="Left" Height="22" Margin="20,170,0,0" VerticalAlignment="Top" Width="105" Grid.ColumnSpan="2"/>
-                    <RadioButton x:Name="opBox2" Content="_" HorizontalAlignment="Left" Height="22" Margin="20,224,0,0" VerticalAlignment="Top" Width="105" Grid.ColumnSpan="2"/>
-                    <RadioButton x:Name="opBox3" Content="_" HorizontalAlignment="Left" Height="22" Margin="20,278,0,0" VerticalAlignment="Top" Width="105" Grid.ColumnSpan="2"/>
-                    <RadioButton x:Name="opBox4" Content="_" HorizontalAlignment="Left" Height="22" Margin="153,170,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1"/>
-                    <RadioButton x:Name="opBox5" Content="_" HorizontalAlignment="Left" Height="22" Margin="153,224,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1"/>
-                    <RadioButton x:Name="opBox6" Content="_" HorizontalAlignment="Left" Height="22" Margin="153,278,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox1" Content="_" HorizontalAlignment="Left" Height="22" Margin="0,263,0,0" VerticalAlignment="Top" Width="105" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox2" Content="_" HorizontalAlignment="Left" Height="22" Margin="0,317,0,0" VerticalAlignment="Top" Width="105" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox3" Content="_" HorizontalAlignment="Left" Height="22" Margin="0,371,0,0" VerticalAlignment="Top" Width="105" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox4" Content="_" HorizontalAlignment="Left" Height="22" Margin="155,263,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox5" Content="_" HorizontalAlignment="Left" Height="22" Margin="155,317,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1"/>
+                    <RadioButton x:Name="opBox6" Content="_" HorizontalAlignment="Left" Height="22" Margin="155,371,0,0" VerticalAlignment="Top" Width="106" Grid.Column="1"/>
 
                     <Label x:Name="lblTime" Content="" HorizontalAlignment="Left" Height="24" Margin="368,44,0,0" VerticalAlignment="Top" Width="50" Grid.Column="1"/>
                     <Label x:Name="lblTimeTarget" Content="" HorizontalAlignment="Left" Height="24" Margin="428,44,0,0" VerticalAlignment="Top" Width="50" Grid.Column="1"/>
+                    <Button x:Name="btnAll" Content="All" Grid.Column="1" HorizontalAlignment="Left" Height="21" Margin="288,44,0,0" VerticalAlignment="Top" Width="76" Click="btnAll_Click"/>
+                    <Button x:Name="btnNext" Content="next" Grid.Column="1" HorizontalAlignment="Left" Height="21" Margin="109,42,0,0" VerticalAlignment="Top" Width="35" Click="btnNext_Click" />
+                    <Button x:Name="btnPrev" Content="prev" Grid.Column="1" HorizontalAlignment="Left" Height="21" Margin="71,42,0,0" VerticalAlignment="Top" Width="35" Click="btnPrev_Click" />
+                    <CheckBox x:Name="chkBriefMode" Content="Brief Mode" Grid.Column="1" HorizontalAlignment="Left" Height="19" Margin="188,44,0,0" VerticalAlignment="Top" Width="95" Checked="chkBriefMode_Checked" Unchecked="chkBriefMode_Unchecked"/>
                 </Grid>
             </TabItem>
         </TabControl>

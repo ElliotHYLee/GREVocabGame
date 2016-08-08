@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F327AB83-853E-4AFE-A4D2-FC5716D23479}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GREVocabGame</RootNamespace>
     <AssemblyName>GREVocabGame</AssemblyName>
@@ -57,6 +57,7 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Controller\TestController.cs" />
+    <Compile Include="Model\DayPacket.cs" />
     <Compile Include="Model\VPacket.cs" />
     <Compile Include="Tokenizer.cs" />
     <Page Include="MainWindow.xaml">

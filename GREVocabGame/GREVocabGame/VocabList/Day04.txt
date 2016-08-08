@@ -5,6 +5,7 @@ characterized by restraint in indulgences such as food and drink
 ch
 idulge
 The overweight woman was abstemious because of her desire to lose weight.
+False
 1
 aesthete
 n
@@ -12,6 +13,7 @@ one having sensitivity to beauty, mostly in art
 obj
 art
 The aesthete's entire home was devoted to the collection and display of scenic paintings.
+False
 2
 assuage
 v
@@ -19,6 +21,7 @@ to calm
 obj
 sorrrow
 My fears were assuaged by the presence of my best friend.
+False
 3
 austere
 adj
@@ -26,6 +29,7 @@ cold and grave in appearance or manner; morally self-disciplined; having no ador
 cn
 decorate
 The dean appeared at the banquet with an austere demeanor
+False
 4
 barefaced
 adj
@@ -33,6 +37,7 @@ open and shameless
 ant
 surreptitious
 Hogan couldn't belive that his brother told a barefaced lie to his parents.
+False
 5
 bathetic
 adj
@@ -40,6 +45,7 @@ marked by banality and triviality; insincerely emotional
 ant
 offbeat
 The bathetic course of his life frustrated Tom because he had dreamed of great things in his youth.
+False
 6
 castigate
 v
@@ -47,6 +53,7 @@ to rebuke or subject to severe criticism
 de
 admonishment
 The traveler was castigated harshly by the immigration officer for overstaying his visa.
+False
 7
 cistern
 n
@@ -54,6 +61,7 @@ a reservoir used to store water
 fun
 liquids
 A cistern was added to the village during war time as a precaution.
+False
 8
 crutch
 n
@@ -61,6 +69,7 @@ a support put under the arm and used to assist people to walk.
 fun
 walk
 The football player was given crutches to use while his sprained foot was healing.
+False
 9
 crux
 n
@@ -68,6 +77,7 @@ the essential point or main feature
 syn
 gist
 The crux of the negotiations dealt with the equitable distribution of the corporation's stock.
+False
 10
 dissolute
 adj
@@ -75,6 +85,7 @@ lacking restraint in the indulgence of vices
 ch
 libertine
 The hedonistic and dissolute man's vices included driking and  gambling.
+False
 11
 dissolve
 v
@@ -82,6 +93,7 @@ to disappear or disperse; to liquefy
 fun
 solvent
 The cold tablets dissolve in hot water or cold water.
+False
 12
 dissuade
 v
@@ -89,6 +101,7 @@ to persuade someone against something
 ch
 remonstrator
 I tried hard to dissuade my friend from quitting his job
+False
 13
 distort
 v
@@ -96,6 +109,7 @@ to twist out of true meaning or shape
 ch
 caricature
 Some people will distort the truth to get what they want.
+False
 14
 distract
 v
@@ -103,6 +117,7 @@ to divert or turn one's attention away.
 cn
 rapt
 The loud music was distracting me from my studies.
+False
 15
 dour
 adj
@@ -110,6 +125,7 @@ gloomy or unhappy; stern or obstinate
 wo
 geniality
 It would be very nice if that dour man would smile for once.
+False
 16
 excursive
 adj
@@ -117,6 +133,7 @@ tending to digress
 ch
 digress
 The professor's excursive lecture lacked focus and confused the students.
+False
 17
 exempt
 v
@@ -124,6 +141,7 @@ to free or release from obligation or duty
 obj
 liability
 Due to diplomatic immunity, Luke was exempted from all the criminal charges filed against him.
+False
 18
 fast
 v
@@ -131,6 +149,7 @@ to abstain from eating
 ant
 eat
 The whole family fasts one day a month to cleanse their bodies.
+False
 19
 fastidious
 adj
@@ -138,6 +157,7 @@ extremely careful or concerned with details
 de
 careful
 Paul is so fastidious about cleanliness that he will do any dishes left in the sink for 10 minutes.
+False
 20
 fervor
 n
@@ -145,6 +165,7 @@ the passion or intensity of feeling or expression
 ch
 zealot
 The painter worked on his art piece with incredible fervor.
+False
 21
 foster
 v
@@ -152,6 +173,7 @@ to encourage and support in development or growth
 ant
 stifle
 By reading to your children at an early age, you foster thier educational development.
+False
 22
 glut
 n
@@ -159,6 +181,7 @@ an excess
 ch
 overindulge
 There was a glut of spare parts that had to be stockpiled in the storage room.
+False
 23
 gourmet
 n
@@ -166,6 +189,7 @@ a connoisseur of food and drink
 obj
 cuisine
 The gourmet ordered a succulent five course meal and an expensive bottle of wine for his dinner guests.
+False
 24
 hasten
 v
@@ -173,6 +197,7 @@ to act or move quickly; to accelerate
 ant
 retard
 Already ten minutes late, Becky hastened to class.
+False
 25
 histrionic
 adj
@@ -180,6 +205,7 @@ dramatic or excessively emotional
 ch
 actor
 Stan's histrionic reaction to the announcement made everyone laugh.
+False
 26
 inure
 v
@@ -187,6 +213,7 @@ to make to tolerating something undesirable
 cause
 tolerance
 The captain forced the new recruits to run three miles daily inuring them to the strict regime of military life.
+False
 27
 instigate
 v
@@ -194,6 +221,7 @@ to incite or provoke
 ant
 quell
 The school board instigated a protest advocating equla rights for students of color.
+False
 28
 instill
 v
@@ -201,6 +229,7 @@ to infuse slowly; to give gradually by example or teaching
 syn
 implant
 Traveling instills an appreciation and tolerance for other cultures.
+False
 29
 instruct
 v
@@ -208,6 +237,7 @@ teach or direct
 pur
 apothegm
 The chef instructed his class on how to make a cheese cake.
+False
 30
 invective
 n
@@ -215,6 +245,7 @@ insulting or abusive language or speech
 ant
 accolade
 The angry woman yelled invectives at her son, but immediately regretted it.
+False
 31
 investigate
 v
@@ -222,6 +253,7 @@ to observe or examine closely and systematically.
 syn
 probe
 It is the detective's job to investigate crimes.
+False
 32
 inveterate
 adj
@@ -229,6 +261,7 @@ habitual or firmly established
 ant
 casual
 The German tendency to close doors at all times is an inveterate character of the culture.
+False
 33
 jest
 n
@@ -236,6 +269,7 @@ a joke or humorous remark; a gay and playful mood or manner
 ant
 solemn utterance
 Larry's jests often offended those around him though it was never inteded.
+False
 34
 jovial
 adj
@@ -243,6 +277,7 @@ good humored and cheerful
 ant
 morose
 John was attracted to her jovial nature.
+False
 35
 listless
 adj
@@ -250,6 +285,7 @@ lacking interest or energy
 ant
 verve
 Anne usually comes home from work tired and listless.
+False
 36
 massive
 adj
@@ -257,6 +293,7 @@ bulky or heavy; serious
 ant
 trivial
 Grandfather died after a massive heart attack.
+False
 37
 maven
 n
@@ -264,6 +301,7 @@ expert
 ch
 experience
 The government called him because he is a negotiation maven.
+False
 38
 maverick
 n
@@ -271,6 +309,7 @@ an independent person who resists adherence to a group; a dissenter
 ant
 follower
 William had earned the reputation of maverick because he never did what was expected and always did things on his own.
+False
 39
 obstinate
 adj
@@ -278,6 +317,7 @@ stubbornly adhering to an opinion or purpose
 de
 firm
 Grandma is obstinate about not getting on planes because of her great fear of flying.
+False
 40
 obstruct
 v
@@ -285,6 +325,7 @@ to block with obstacles; to impede or hinder
 obj
 progress
 The enforcement of the ruling was obstructed by a large group of protesters.
+False
 41
 obviate
 v
@@ -292,6 +333,7 @@ to do away with; to anticipate; to make unnecessary
 pur
 unnecessary.
 Fail-safe precautions built into the design of nuclear reactors do not obviate the need for vigilance against accidents and catastrophe.
+False
 42
 pastiche
 n
@@ -299,6 +341,7 @@ a work of art that imitates the style of some previous work
 ant
 original work
 Modern Greek architecture is a pastiche of Turkish, Venetian, and Western architecture.
+False
 43
 pantechnicon
 n
@@ -306,6 +349,7 @@ a van used for moving furniture
 fun
 furniture
 The Watsons had to order two pantechnicons to move all the furniture to their new house.
+False
 44
 paroxysm
 n
@@ -313,6 +357,7 @@ a sudden outburst or attack of emotion; convulsion
 ch
 sudden
 The patient took a turn for the better after his paroxysm of laughing at the antics of Dr. Adams.
+False
 45
 parrot
 v
@@ -320,6 +365,7 @@ to mindlessly repeat or imitate words or actions of another
 wo
 originality.
 Children often parrot the adults around them as the most efficient way to learn language or other new skills.
+False
 46
 restive
 adj
@@ -327,6 +373,7 @@ fidgety or agitated; unable to rest
 wo
 calmness
 The children were restive and grouchy from riding in the back of the car for 5 hours.
+False
 47
 restrain
 v
@@ -334,6 +381,7 @@ to hold back or control; to prevent from doing something
 ch
 irrepressible
 John had to restrain himself from killing the man who had kidnapped his son.
+False
 48
 revere
 v
@@ -341,6 +389,7 @@ to admire fondly and show devoted honor to
 de
 respect
 The teacher is revered highly by all her students.
+False
 49
 rustic
 adj
@@ -348,6 +397,7 @@ relating to the countryside or old buildings; rough or coarse
 ant
 polished
 In Wyoming there are rustic cabins for rent everywhere.
+False
 50
 scurrilous
 adj
@@ -355,6 +405,7 @@ using or containing vulgar or abusive language.
 wo
 properiety
 The student was suspended for using scurrilouse language in class.
+False
 51
 sentinel
 v
@@ -362,6 +413,7 @@ to guard or watch over
 ch
 watchful
 John was to sentinel the grounds and report anything out of the ordinary.
+False
 52
 spurious
 adj
@@ -369,6 +421,7 @@ marked by absence of authenticity or validity
 ant
 genuine
 The antique the traveler purchased turned out to be spurious.
+False
 53
 spurn
 v
@@ -376,6 +429,7 @@ to reject or treat in a contemptible or scornful way.
 ant
 embrace
 The company spurned the proposal to merge with the weak competitor.
+False
 54
 systematic
 adj
@@ -383,6 +437,7 @@ based on a system; methodical or orderly in procedure or paln
 ant
 haphazard
 The school was run systematically.
+False
 55
 testimony
 n
@@ -390,6 +445,7 @@ a solemn declaration made under oath; evidence
 ant
 perjury
 The witness gave his testimony in tears.
+False
 56
 testy
 adj
@@ -397,6 +453,7 @@ irritable or easily angered
 syn
 irascible
 In the mornings, Kelly is testy and sluggish.
+False
 57
 unsteady
 adj
@@ -404,3 +461,4 @@ changeable or unstable
 ch
 dodder
 The vase fell off the unsteady book shelf.
+False

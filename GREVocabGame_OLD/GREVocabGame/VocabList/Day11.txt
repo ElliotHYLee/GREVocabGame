@@ -1,0 +1,273 @@
+0
+alacrity
+n
+eagerness
+wo
+apathetic
+Bryan carried on his mission with great alacrity.
+1
+ancillary
+adj
+auxilliary
+ant
+paramount
+After the pressing matters are discuseed, the ancillary topics will be covered if there is leftover time.
+2
+aseptic
+adj
+clear of pathogenic microorganisms
+fun
+disinfection
+Doctors have to use aseptic instruments when treating patients to prevent infections.
+3
+atrocious
+adj
+appallingly inhumane
+de
+bad
+Surviving atrocious living conditions, the family was finally able to move out of the slums.
+4
+babble
+v
+to utter meaningless sounds
+ant
+express succinctly
+The stranger babbled endlessly about the reasons why I should buy his product.
+5
+blazon
+n
+a coat of arms
+fun
+adorn
+A dove was added to the country's blazon following the ratification of the pease treaty.
+6
+brattish
+adj
+often used in reference to a spoiled child
+syn
+mischievous
+The brattish child was scolded by his mother for his rude behavior in front of the guests.
+7
+chagrin
+n
+a feeling of frustration or embrassment
+ant
+elation
+Much to his chagrin, Phillip didn't receive the promotion his boss promised.
+8
+coagulate
+v
+to transfor from a liquid into a mass
+fun
+clot
+There was coagulated blood at the corners of Hector's mouth.
+9
+craven
+adj
+cowardish
+ch
+dastard
+The craven soldiers were the first to die on the battlefield.
+10
+dabble
+v
+to engage in or do something superficially
+ant
+specialist
+Although Tyrone dabbled in learning many languages, he was fluent in none.
+11
+deadpan
+adj
+marked by a void of expression
+syn
+impassive
+His face remained deadpan throughout the poker game.
+12
+debase
+v
+to lower in value of quality
+obj
+value
+The euro has dramatically debased the value of the Turkish lira.
+13
+debilitate
+v
+to weaken the strength of
+obj
+strength
+Throwing for nine innings debilitated the pitcher's arm.
+14
+draconian
+adj
+very severe or harsh
+pos
+severity
+Many people believe that modern immigration laws are draconian.
+15
+exacerbate
+v
+to increase the severity of
+syn
+deprave
+Pollution exacerbates the depletion of the ozone layer.
+16
+fidget
+v
+to move uneasily due to anziety or restlessness
+cause
+nervousness
+During a job interview, one must remember to appear calm and confident by not fidgeting.
+17
+flaccid
+adj
+lacking normal firmness
+wo
+firmness
+Many months of not exercising made Andrew's boy flaccid.
+18
+frailty
+n
+physical weakness
+pos
+spindly
+You should be very careful when you are handling babies because of their frailty
+19
+gibe
+n
+a mocking or derisive comment
+syn
+derision
+The crowd gave a gibe to the old kin as he marhced in the town.
+20
+glaze
+v
+to apply a smooth, glossy surface to
+obj
+porcelain
+The chef glazed the pastries with a thin layer of strawberry syrup.
+21
+gratify
+v
+to give pleasure or satisfaction to
+obj
+desire
+It would gratify grandmother if you would stop cursing.
+22
+gratuitous
+adj
+unwarranted
+ant
+warranted
+The doctor claimed that the charges of malpractice were gratuitous but the prosecutor insisted he had evidence to back up the charge.
+23
+green
+adj
+marked by lack of experience or sophistication
+wo
+experience
+The veteran could see that though the young man was green he had a great deal of potential.
+24
+headlong
+adj
+makred by impulse
+ant
+deliberate
+Tom always fell headlong in love with beautiful woemn before he really got to know them.
+25
+inaugurate
+v
+to bring into office with a ceremony
+ch
+official
+The president was inaugurated with the biggest celebration ever seen in Washington D.C.
+26
+leaden
+adj
+heavy and inert
+ant
+vivacious
+The woman's heart was leaden upon hearing the news of her friend's passing.
+27
+lien
+n
+a legal claim to take over another's property if an obligation is not met or debt repaid
+ch
+claim
+The lien gave the bank possession of the house unless a deposit was made within the next 24 hours.
+28
+matriculation
+n
+admission
+obj
+student
+Matriculation at Harvard is considered to be great accomplishment.
+29
+meager
+adj
+lacking in quality or quantity
+ant
+amplitude
+Dan's monthly salary was too meager for him to afford a new car.
+30
+nucleate
+v
+to gather
+ant
+scatter
+The students had already nucleated around the campfire.
+31
+opacity
+n
+the quality of not being transparent
+wo
+translucent
+The curtain's opacity was just perfect for my room.
+32
+placate
+v
+to appease by making concessions
+cn
+irascible
+William placated his girlfriend's anger by sendig her flowers.
+33
+prairie
+n
+a large area of treeless grassland
+wo
+tree
+Priaries are good grazing lands for cattle.
+34
+slacken
+v
+to slow down
+obj
+tension
+The prisoner's handcuffs were slackened after complaining they were too tight.
+35
+slake
+v
+to satisfy a craving
+obj
+thirst
+Tarzan went to the brook first and slaked his thirst.
+36
+staid
+adj
+having a state of permanence or sedateness
+ant
+jauty
+Darcy is typically a staid and unanimated person.
+37
+swagger
+v
+to walk with an air of arrogance
+syn
+strut
+The prince has a tendency to swagger as he walks through the palace.
+38
+tractable
+adj
+easily handled or controlled
+ant
+balky
+Parents are happy with their children so long as they are tractable and obedient.
