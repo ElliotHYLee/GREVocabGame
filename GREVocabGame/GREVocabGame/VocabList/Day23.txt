@@ -5,7 +5,7 @@ bitter and caustic
 wo
 goodwill
 The memory of my parent's acrimonious divorce made me fear marriage for a long time.
-False
+True
 1
 apocalypse
 n
@@ -21,7 +21,7 @@ to scold severely
 ant
 laud
 The military unnecessarily berates its officers to instill blind obedience and devotion.
-False
+True
 3
 canvass
 v
@@ -29,7 +29,7 @@ to examine carefully with others
 ch
 pollster
 The group canvassed the neighborhood to determine if it was a conservative or liberal area.
-False
+True
 4
 circumlocution
 n
@@ -37,7 +37,7 @@ the use of an excessive quantity of words to express something
 cn
 forthright
 Curcumlocution is usually a sign of nervousness or anxiety.
-False
+True
 5
 circumscribe
 v
@@ -45,7 +45,7 @@ to restrict
 ant
 unlimited
 The new law circumscribed the strength of unions by prohibiting strikes that lasted longer than a week.
-False
+True
 6
 circumspect
 adj
@@ -53,7 +53,7 @@ cautious
 ant
 rash
 To be circumspect is necessary in life if one is to live wisely.
-False
+True
 7
 circumvent
 v
@@ -61,7 +61,7 @@ to avoid
 ant
 confront
 Rather than finish his assignment, the student circumvented it with excuses.
-False
+True
 8
 coagulant
 n
@@ -77,7 +77,7 @@ feeling of regret
 syn
 compunctious
 Catherine offered a contrite apology for having torn her sister's favorite sweater.
-False
+True
 10
 contumacious
 adj
@@ -85,7 +85,7 @@ disobedient
 ant
 obedient
 The contumacious anarchists refused to register for the draft.
-False
+True
 11
 conviction
 v
@@ -93,7 +93,7 @@ sentence for quilty at a court
 wo
 dubious
 Hillary Clinton is a woman of strong political convictions.
-False
+True
 12
 convoluted
 adj
@@ -117,7 +117,7 @@ abandoned by a owner
 ant
 pillar of society
 the derelict warehouse was used  as a playground by the neighborhood childre.
-False
+True
 15
 dire
 adj
@@ -133,7 +133,7 @@ extremely pleasant and melodious to the ear
 ant
 cacophonous
 The dulcet voices of the children's choir filled the church sanctuary every Sunday.
-False
+True
 17
 ennui
 n
@@ -141,7 +141,7 @@ a feeling of dissatisfaction from lack of interest
 wo
 enthusiastic
 It was only to her closest friends that she acknowledged she was tortured by ennui.
-False
+True
 18
 farce
 n
@@ -149,7 +149,7 @@ a light comic play
 kin
 performance
 The entire evening was such a disastrous farce!
-False
+True
 19
 forbid
 v
@@ -165,7 +165,7 @@ to distort
 ant
 elucidate
 The static garbled Leslies' phone conversation with her friend.
-False
+True
 21
 harebrained
 adj
@@ -173,7 +173,7 @@ foolish and reckless
 syn
 giddy
 The harebrained man decided to dance in the public fountain in his underwear.
-False
+True
 22
 larder
 n
@@ -181,7 +181,7 @@ a place to store food
 fun
 food
 The larder for flour storage is the highest place in the house in order to keep out pests.
-False
+True
 23
 manumit
 v
@@ -189,7 +189,7 @@ to free from slavery
 ant
 enslave
 As the Union army invaded the South, it manumitted all the plantation slaves it encountered.
-False
+True
 24
 minuscule
 adj
@@ -213,7 +213,7 @@ a legally authorized delay of payment; pausement
 wo
 activity
 Due to unstable political conditions, the U.S. put a moratorium on all flights to Pakistan.
-False
+True
 27
 mordant
 adj
@@ -221,7 +221,7 @@ biting or bitter in manner or style
 ant
 genial
 The movie received a mordant review.
-False
+True
 28
 penurious
 adj
@@ -229,7 +229,7 @@ very stingy
 ant
 lavish
 The character Scrooge was the most penurious of men.
-False
+True
 29
 plod
 v
@@ -237,7 +237,7 @@ to walk heavily
 kin
 walk
 The young man plodded along the dark streets in silence to his house.
-False
+True
 30
 probity
 n
@@ -245,7 +245,7 @@ honesty
 ant
 shiftiness
 The idea of probity in all financial dealings was deeply ingrained in him by his business class.
-False
+True
 31
 proclivity
 n
@@ -253,7 +253,7 @@ an inclination or tendency
 ant
 antipathy
 Sam has a proclivity for drastic mood swings.
-False
+True
 32
 procure
 v
@@ -261,15 +261,15 @@ to obtain or take possession of
 ant
 relinquish
 During the will reading, Georgia procured many worthless personal effects of her late great aunt.
-False
+True
 33
 prod
 v 
-tourge someone
+to nudge someone
 de
 nudge
 The cowboy prodded the cattle to get them moving.
-False
+True
 34
 prodigal
 adj
@@ -277,7 +277,7 @@ recklessly wasteful with money
 ant
 husbandry
 Larry was accused of being prodigal with company funds for expending a Lear jet for his daily commute.
-False
+True
 35
 profane
 adj
@@ -285,7 +285,7 @@ debased
 ant
 inviolate
 Bildad had told them that no profane songs would be allowed on board the Pequod.
-False
+True
 36
 proffer
 v
@@ -293,7 +293,7 @@ to offer for acceptance
 ant
 retain
 The defense rejected the plea bargain proffered by the prosecution.
-False
+True
 37
 profligate
 adj
@@ -301,7 +301,7 @@ extravagant
 obj
 money
 The government officer was charged for profligate spending of the taxpayer's money.
-False
+True
 38
 profuse
 adj
@@ -309,7 +309,7 @@ plentiful
 ant
 skimpy
 No one enjoyed sitting next to Johnny in class because of his profuse perspiration all year round.
-False
+True
 39
 puny
 adj
@@ -317,7 +317,7 @@ weak and small
 syn
 weakly
 The puny landowner looked silly next to his tall and strong field worker.
-False
+True
 40
 riveting
 adj
@@ -325,7 +325,7 @@ engrossing one's attention
 ant
 vapid
 The lecture on "The State of the Environment in East Asia" was far from riveting, and everyone left in the middle of it.
-False
+True
 41
 stodgy
 adj
@@ -333,7 +333,7 @@ boring or tedious
 syn
 dull
 Living in a small town becomes stodgy and predictable for most people.
-False
+True
 42
 stoic
 adj
@@ -342,3 +342,11 @@ cn
 perturb
 The stoic look on Jeanie's face masked the disappointment she felt when passed over for the promotion.
 False
+43
+variegate
+v
+to make variation
+syn
+vary
+Variegating the menu of the restaurant enticed more customers.
+True

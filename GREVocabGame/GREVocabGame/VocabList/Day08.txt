@@ -5,7 +5,7 @@ give up
 obj
 throne
 The allies forced Napoleon to abdicate his emperorship and exiled him to the island of Elba.
-False
+True
 1
 ameliorate
 v
@@ -29,7 +29,7 @@ to be an omen
 ant
 auspicious
 The policy bodes ill for the future of international cooperation on environment.
-False
+True
 4
 cleft
 n
@@ -45,7 +45,7 @@ merciful
 ant
 pitiless
 The clement woman took in the deserted stray and nourished it back to health.
-False
+True
 6
 credence
 n
@@ -85,7 +85,7 @@ fade away quick
 syn
 meteoric
 Being in the spot light for just a fleeting moment was enought to make the old signer smile.
-False
+True
 11
 gregarious
 adj
@@ -93,7 +93,7 @@ sociable
 wo
 recluse
 The once shy and reticent girl had become a gregarious young lady.
-False
+True
 12
 hedge
 v
@@ -117,7 +117,7 @@ hut
 cn
 palatial
 Comapred to the mansion we used to live in, this place is a hovel.
-False
+True
 15
 indifferent
 adj
@@ -133,7 +133,7 @@ lazy
 ant
 sedulous
 Clare's indolent partner caused them to receive a poor grade on the project.
-False
+True
 17
 indomitable
 adj
@@ -141,7 +141,7 @@ never surrender
 cn
 subdued
 The Greeks besieged the indomitable city of Troy with the gift of a wooden horse.
-False
+True
 18
 indubitable
 adj
@@ -157,7 +157,7 @@ inevitable
 syn
 inescapable.
 Fate is the belief that all of life is ineluctable.
-False
+True
 20
 judicious
 adj
@@ -173,7 +173,7 @@ apathetic
 wo
 energy
 Alex was so lethargic from oversleeping that he didn't care that his favorite show was on.
-False
+True
 22
 intercessor
 n
@@ -205,7 +205,7 @@ small amount
 ant
 large amount
 Even a modicum of moisture would be greatly appreciated by farmers in the dry season.
-False
+True
 26
 meek
 adj
@@ -213,7 +213,7 @@ mild
 wo
 arrogance
 Daniel's meek personality was often taken as a sign of weakness by others.
-False
+True
 27
 mnemonic
 n
@@ -229,7 +229,7 @@ to push gently
 de
 prod
 Steve nudged me with his elbow when I began dozing off in the meeting.
-False
+True
 29
 obdurate
 adj
@@ -237,7 +237,7 @@ stubborn in perspective
 de
 firm
 The captain was obdurate to their appeals.
-False
+True
 30
 obedient
 adj
@@ -253,7 +253,7 @@ show off
 ch
 dandy
 Mary preened herself for two hours on the night of the school dance.
-False
+True
 32
 quell
 v
@@ -261,7 +261,7 @@ to supress
 ant
 stir
 Liz quelled the crying baby with a pacifier.
-False
+True
 33
 sneer
 v
@@ -269,7 +269,7 @@ mock and laugh
 syn
 derision
 The crowd sneered at the poor attemps of the magician.
-False
+True
 34
 spendthrift
 n
@@ -317,7 +317,7 @@ incisive
 ant
 vague
 The trenchant facts of the case left little for the jury to deliberate on.
-False
+True
 40
 troupe
 n
@@ -333,4 +333,4 @@ to entice by flattery
 pos
 cajolery
 Developers of some projects are wheedling potential clients with free food and entertainment.
-False
+True

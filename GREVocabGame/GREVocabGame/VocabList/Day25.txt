@@ -12,7 +12,7 @@ v
 to cause one to be shocekd
 ant
 embolden
-The social worker was appalled by the working conditions of the seatshop.
+The social worker was appalled by the working conditions of the sweatshop.
 False
 2
 appease

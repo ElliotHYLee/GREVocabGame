@@ -45,7 +45,7 @@ a gift in  a will
 obj
 testator
 Edward's educational rust fund was a bequest left to him by his rich uncle.
-False
+True
 6
 catholic
 adj
@@ -53,7 +53,7 @@ broad in scope; universal
 ant
 narrow
 Amy was a woman of catholic interests, ranign from bungee jumping to stamp collecting.
-False
+True
 7
 cement
 v
@@ -69,7 +69,7 @@ a pretense or mockery
 pos
 dissimulate
 Though they loathed each other, the couple managed the charade of a marriage for the sake of their children.
-False
+True
 9
 connive
 v
@@ -77,7 +77,7 @@ to work together in a secret or illegal manner; to collude
 ch
 conspiratorial
 The bank robbers connived for 3 months to plan the perfect robbery.
-False
+True
 10
 deter
 v
@@ -109,7 +109,7 @@ to obstruct or impede
 ant
 remove impediment
 Drinking in moderation is fine, but it becomes a problem when it encumbers one's ability to make dicisions.
-False
+True
 14
 enthusiasm
 n
@@ -133,7 +133,7 @@ capable of being valuable; worthy of esteem
 ant
 contemptible
 The king was impressed by the estimable young knight's heoric deeds in battle.
-False
+True
 17
 extinguish
 v
@@ -157,7 +157,7 @@ to obtain by force or illegal power
 ch
 intimidation
 The bully extorted money from the boy everyday by threatenig to beat him up.
-False
+True
 20
 fathom
 v
@@ -165,7 +165,7 @@ v to come to understanding through probing or thinking.
 ch
 erudite
 Tim couldn't fathom why she would do that.
-False
+True
 21
 futile
 adj
@@ -173,7 +173,7 @@ useless or completely ineffective
 ant
 efficacious
 It is futile to argue with her when she has made up her mind like that.
-False
+True
 22
 intercessor
 n
@@ -213,7 +213,7 @@ flexible; easily bent or flexed
 syn
 lissome
 Fortunately the gymnast was lithe enough to handle the difficult move.
-False
+True
 27
 mawkish
 adj
@@ -237,7 +237,7 @@ to reduce the severity or pain of; to mollify or alleviate
 obj
 severity
 The camper mitigated the itch of his mosquito bites by applying a cream.
-False
+True
 30
 noxious
 adj
@@ -253,7 +253,7 @@ a combination of contradictory words.
 ch
 contradictory
 The phrase "just war" is an oxymoron that is often used by politicians to alleviate fears that onnocent civilians will be killed accidently.
-False
+True
 32
 pith
 n
@@ -261,7 +261,7 @@ the core or essential part
 ant
 unimportant point
 The pith of humanity is love.
-False
+True
 33
 ratification
 n
@@ -277,7 +277,7 @@ the quality of being reserved or restrained.
 cn
 talk
 Jim has some reticence about expressing emotion.
-False
+True
 35
 retinue
 n
@@ -293,7 +293,7 @@ to reply rapidly and sharply, sometimes in jest;
 syn
 repartee
 The receptionist retorted with a sarcastic comment.
-False
+True
 37
 revive
 v
@@ -341,7 +341,7 @@ gaudy in brightness of appearance
 obj
 garment
 Cynthia failed to achieve an air of elegance with that tawdry dress she wore.
-False
+True
 43
 thwart
 v
@@ -349,7 +349,7 @@ to prevent ocurence, realization, or attainment of; to baffle
 ant
 aid
 The nation thwarted the war by giving back the hostages.
-False
+True
 44
 untoward
 adj
@@ -373,7 +373,7 @@ easily excused or forgiven
 ch
 excuse
 In Singapore, littering is not considered a venial offense.
-False
+True
 47
 veto
 n

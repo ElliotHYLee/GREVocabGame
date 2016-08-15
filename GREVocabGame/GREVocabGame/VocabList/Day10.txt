@@ -4,8 +4,8 @@ n
 the quality of being pleasant and easy to talk to
 ant
 surliness
-His affability, even to those whom he disliked, was unfailing.
-False
+His affability , even to those whom he disliked, was unfailing.
+True
 1
 affiliate
 v
@@ -21,7 +21,7 @@ an interest or attraction to, often based on similarity
 ant
 anipathy
 The two young lovers felt an affinity for each other at first sight.
-False
+True
 3
 affluent
 adj
@@ -53,7 +53,7 @@ to submit to another's wishes or opinions through respect
 obj
 leader
 Lieberman has said he would defer to Gore if the former vice president decides to seek the presidency.
-False
+True
 7
 defile
 v
@@ -61,7 +61,7 @@ to make impure or despicably unclean.
 syn
 taint
 The church had been broken into and defiled by vandals.
-False
+True
 8
 deft
 adj
@@ -109,7 +109,7 @@ to erase
 ant
 bring to prominent
 Michelle often effaced herself in an attempt to avoid being the object of attention.
-False
+True
 14
 effervesce
 v
@@ -117,7 +117,7 @@ to emit small bubbles of gas
 ant
 droop
 Jane effervesced with joy upon hearing the news of her husband's successful surgery.
-False
+True
 15
 effete
 adj
@@ -125,7 +125,7 @@ depleted of vitallity
 ant
 hale
 The effete senior citizen walked feebly and only with aid of a cane.
-False
+True
 16
 efficacious
 adj
@@ -141,7 +141,7 @@ shining brilliantly
 pos
 resplendence
 The stars in the sky produced an effulgent sight.
-False
+True
 18
 enfeeble
 v
@@ -149,15 +149,15 @@ to deprive of strength
 obj
 strength
 The reliance on funding has gradually enfeebled every state which has adopted it.
-False
+True
 19
 enfranchise
 v
-to confer a frenchise on
+to confer  a right to vote
 ant
 enfetter
 The Emancipation Proclamation enfranchised American slaves.
-False
+True
 20
 gloat
 v
@@ -165,7 +165,7 @@ to think about something with victorious and malicious gratification
 ch
 smug
 The victor of the election gloated at his opponent.
-False
+True
 21
 impartial
 adj
@@ -189,7 +189,7 @@ cold attitude
 ant
 warm
 A callous muderer killed a man.
-False
+True
 24
 jaundice
 v
@@ -197,7 +197,7 @@ to affect adversely
 ant
 dispose favorably
 Diane's previous marriage had jaundiced her opinion of men until she met Josh.
-False
+True
 25
 lofty
 adj
@@ -213,7 +213,7 @@ characterized by excessively gloomy or unwholesome thoughts and feelings
 ant
 wholesome
 His morbid thoughts nearly led him to commit suicide.
-False
+True
 27
 muffle
 v
@@ -229,7 +229,7 @@ wiched or evil
 pos
 wickedness
 Al Capone was the nefarious mastermind behind the St. Valentine's day massacre.
-False
+True
 29
 recalcitrant
 adj
@@ -237,7 +237,7 @@ hard to treat
 cn
 obey
 Is this supposed to indicate recalcitrant behavior?
-False
+True
 30
 obfuscate
 v
@@ -245,7 +245,7 @@ to make obscure or unclear
 ant
 clarify
 The president's staff obfuscated the sotry concerning the president's alleged affair.
-False
+True
 31
 offbeat
 adj
@@ -253,15 +253,15 @@ unexpected or unusual
 ant
 bathetic
 The new student was too offbeat to fit in with the other students.
-False
+True
 32
 officious
 adj
-meddlesome
+meddlesome +arrogant
 de
 attentive
 The officious neighbor was known for giving unwanted advice and being noisy.
-False
+True
 33
 offish
 adj
@@ -269,7 +269,7 @@ prone to be reserved and aloof
 ant
 sociable
 I asked my sister why she was being so offish, but she gave no reply.
-False
+True
 34
 parry
 v
@@ -277,7 +277,7 @@ to deflect or evade
 obj
 question
 Smith had been a politician for 10 years and could parry any reporter's question.
-False
+True
 35
 penitent
 adj
@@ -285,7 +285,7 @@ feeling sorrow and shame over acts of sin committed
 syn
 remorese
 A truly penitent person makes amends to the people he has hurt.
-False
+True
 36
 perforate
 v 
@@ -301,7 +301,7 @@ cheaply or showily vulgar
 wo
 decorum
 Amy's father worreid about her becoming friendly with the raffish bunch of hoodlums
-False
+True
 38
 refractory
 adj
@@ -309,7 +309,7 @@ resistant to authority
 obj
 authority
 The frustrated teacher quickly sent her refractory student to the principal's office.
-False
+True
 39
 snobbish
 adj
@@ -325,7 +325,7 @@ to fill or spread over with fluid
 de
 tint
 The room was suffused with sunlight when she opened the window shades.
-False
+True
 41
 unflappable
 adj
@@ -333,7 +333,7 @@ not easily perturbed
 cn
 upset
 one sign of a true leader is an unflappable reaction to crisis.
-False
+True
 42
 vagrant
 adj
@@ -341,7 +341,7 @@ moving around without direction
 ant
 fixed
 During the depression, the streets were filled with vagrant children who had nowhere to go.
-False
+True
 43
 veer
 v

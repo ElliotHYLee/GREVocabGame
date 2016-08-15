@@ -4,15 +4,15 @@ v
 avoid
 obj
 forbidden
-It is common traditional practice to abstain from sex until marriage.
-False
+Some people abstain from sex until marriage.
+True
 1
 aggrandize
 v
 to increase
 obj
 strength
-Over the past decade China has aggrandized its influence in world affairs.
+China has aggrandized its influence in the world.
 False
 2
 aggravate
@@ -20,7 +20,7 @@ v
 to make worse
 syn
 exacerbate
-The loud construction aggravated many nearby residence.
+The effort aggravated the circumstance with a huge penalty.
 False
 3
 aggrieve
@@ -28,7 +28,7 @@ v
 to distress or bring trouble to
 ant
 gratify
-Eva looked downcast and aggrieved after her father's surgery.
+After loosing the game, Eva looked aggrieved.
 False
 4
 argot
@@ -36,15 +36,15 @@ n
 secret language or idom
 syn
 jargon
-The two uttered an argot so as not to be understood by the others.
-False
+The two uttered an argot to avoid eavesdroppers.
+True
 5
 bedlam
 n
 noisy uproar
 ant
 serenity
-Weddings are such a bedlam of activities that the bridal party is always exhausted after wards.
+The demonstration became bedlam.
 False
 6
 bigot
@@ -52,15 +52,15 @@ n
 prejudiced person
 wo
 tolerance
-In the rural areas of the country there are more bigots because they have less exposure to different kinds of people.
-False
+Racists are bigot.
+True
 7
 cantankerous
 adj
 difficult to deal with
 ant
 genial
-If ron doesn't have his espresso in the morning, he becomes cantankerous for the whole day.
+Bears are cantankerous animals.
 False
 8
 circumference
@@ -68,15 +68,15 @@ n
 the length of a circle
 par
 circle
-The curcumference of the watermelon is triple that of the pear.
-False
+Measure the circumference of the wheel.
+True
 9
 cogent
 adj
 very compelling
 ch
 convince
-A missionary's job is to be cogent in delivering the message of God.
+The harold's cogent argument almost toppled the president.
 False
 10
 cognizant
@@ -84,7 +84,7 @@ adj
 having an awareness of knowledge
 ant
 unaware
-It is said that the oracles of Ancient Greece were cognizant of the wyas of the gods.
+The professor is cognizant of the experiment.
 False
 11
 consummate
@@ -92,7 +92,7 @@ v
 to complete or finish
 ant
 amateurish
-The two corporate leaders consummated their merger with a glass of wine.
+The two corporate leaders consummated their merger.
 False
 12
 digress
@@ -117,7 +117,7 @@ rediculous poem
 kin
 verse
 As the soldier marched he sang a bit of a doggerel in a high and quavering voice.
-False
+True
 15
 effusive
 adj
@@ -132,7 +132,7 @@ v
 to produce
 ant
 quash
-There had been so much enthusiasm engendered that Carrie believed herself depply in love.
+It was believed that life is engendered by itself on pristine Earth.
 False
 17
 engross
@@ -140,7 +140,7 @@ v
 to occupy completely
 syn
 absorbed
-The book engrossed readers with an intense and imaginative plot.
+Harry Potter series engrossed the world.
 False
 18
 fiasco
@@ -148,7 +148,7 @@ n
 a complete failure
 ant
 notable success
-Terry's friends had procrastinated too long in planning his birthday party and as a result it was a fiasco.
+Vietnam war is a fiasco of U.S.
 False
 19
 infuse
@@ -164,7 +164,7 @@ n
 a naive girl
 wo
 sophistication
-The actress played the role of the ingenue who the lead male fell in love with.
+She is an epitome of ingenue.
 False
 21
 odious
@@ -180,7 +180,7 @@ v
 to state as one's own opinion
 ch
 pundit
-The doctor opinned that the indisposition arose from fatigue and he prescribed rest.
+The doctor opinned that the indisposition arose from the fatigue.
 False
 23
 ostentation
@@ -188,7 +188,7 @@ n
 a showy display to impress others
 ant
 artlessness
-The wealthy are not disliked for their riches, but rather for their ostentatious behavior.
+Bourgeoisie are hated because of their ostentation.
 False
 24
 persevere
@@ -204,7 +204,7 @@ v
 to speak or write in a violent manner
 cause
 anger
-The townspeoople had grown accustomed to the crazy man ranting about his life.
+The childeren are accustomed to their acholic father ranting every day.
 False
 26
 rapprochement
@@ -212,7 +212,7 @@ n
 the state of reconciliation among nations
 ant
 estrangement
-The rapprochement of the two nations is necessary for trade negotiations to take place.
+The rapprochement of the two nations is necessary for the economic growth.
 False
 27
 regimen
@@ -220,7 +220,7 @@ n
 a remedy diet to be healthy
 pur
 health
-Soldiers in any army follow a strict regimen of diet, exercise, and discipline.
+Soldiersfollow a strict regimen of diet, exercise, and discipline.
 False
 28
 roil
@@ -228,7 +228,7 @@ v
 to stir up
 ant
 sedate
-Throwing rocks into a pond always roils the fish.
+Throwing rocks into a pond roils the fish.
 False
 29
 sagacious
@@ -236,7 +236,7 @@ adj
 keen, agile
 wo
 simpleton
-It is said the most sagacious are the slowers to speak.
+The general used sagacious starategy in the war.
 False
 30
 sage
@@ -244,7 +244,7 @@ n
 a wise man
 ch
 judicous
-The sage was often sought by the poeple of the village for advice.
+The philosopher was not believed as a sage during his era.
 False
 31
 scintillate
@@ -268,7 +268,7 @@ v
 to treat as small or unimportant
 ant
 cosset
-The slighted worker continued to keep his discontent hidden under a cheerful smile.
+The slighted worker kept his discontent hidden under a smile.
 False
 34
 swill
@@ -276,7 +276,7 @@ v
 to drink rapidly or greedily
 de
 sip
-For an hour I ate tacos and swilled glasss of tequila that were filled again by the time they'd been put back on the bar.
+I ate tacos and swilled glasss of tequila.
 False
 35
 taint
@@ -284,8 +284,8 @@ v
 to corrupt or spoil
 cn
 pristine
-Tracy's fall off the bike tainted her image of motorcycling.
-False
+Tracy's fall off the bike tainted her reputation as a professional.
+True
 36
 ungainly
 adj
@@ -300,7 +300,7 @@ n
 an erractic action
 cn
 predict
-The vagary of the horse races is the very excitement of them.
+The vagary of the horse races is the excitement.
 False
 38
 vigilant
@@ -308,7 +308,7 @@ adj
 keenly alert
 cn
 entrap
-The vigilant guards kept watch over the  town as everyone slept.
+The vigilant guards kept watching.
 False
 39
 vignette
@@ -316,7 +316,7 @@ n
 a brief scene in a play or movie
 kin
 scene
-Thankfully the movie's pedestrian love vignette was brief.
+Thankfully the movie's pedestrian vignette was brief.
 False
 40
 vigor

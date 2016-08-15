@@ -21,7 +21,7 @@ no color
 wo
 hue
 The achromatic door caused many visitors to miss the entrance completely.
-False
+True
 3
 amble
 v
@@ -29,7 +29,7 @@ to walk slowly
 kin
 walk
 The couple ambled lazily through their garden after dinner.
-False
+True
 4
 ambrosial
 adj
@@ -37,7 +37,7 @@ pleasing to the tase or smell
 obj
 food
 The ambrosial drink was heralded by many as the nectar of the gods.
-False
+True
 5
 amicable
 adj
@@ -45,7 +45,7 @@ friendly and peaceful
 ant
 inimical
 The amicable men came to a settlement quickly.
-False
+True
 6
 aphorism
 n
@@ -61,7 +61,7 @@ ancient artistic
 ant
 neologism
 The factory's archaic methods of production slowed the growth of the company.
-False
+True
 8
 arid
 adj
@@ -77,15 +77,15 @@ desire-supressing
 ch
 self-denial
 Jogn had lived an ascetic life until he came to the very liberal and adventurous lifestyle of th eKorean peninsula.
-False
+True
 10
 augur
 n
 prophet
 ch
 prediction
-Louis went to the angur to discover his fate.
-False
+Louis went to the augur to discover his fate.
+True
 11
 avid
 adj
@@ -108,8 +108,8 @@ n
 cunning deception
 ant
 aboveboard action
-Many Americans think that President Bush used chicanery to win the last election.
-False
+Chicanery is basic stratigy in battle.
+True
 14
 eccentric
 adj
@@ -141,7 +141,7 @@ witful
 obj
 speech
 Victor's facetious coment was met with great amusement by his co-workers.
-False
+True
 18
 gash
 n
@@ -149,7 +149,7 @@ a deep wound
 de
 cut
 The paramedics found a large gash in the stabbing victim's right side.
-False
+True
 19
 genteel
 adj
@@ -157,7 +157,7 @@ elegant
 ant
 churlish
 Brad's genteel demeanor belied his true maliciusness.
-False
+True
 20
 incendiary
 n
@@ -165,7 +165,7 @@ crime of fire
 ch
 agitate
 Charlie was hired as an incendiary to stir up anger among the workers.
-False
+True
 21
 incense
 v
@@ -173,7 +173,7 @@ being angry alot
 ant
 propitiate
 The recollection of Alexei's last act incensed his wife.
-False
+True
 22
 labyrinth
 n
@@ -181,7 +181,7 @@ a hard maze
 ch
 tortuous
 McDougal's cave was a vast labyrinth of crooked walkways.
-False
+True
 23
 lacerate
 v
@@ -189,23 +189,23 @@ to hurt feeling
 syn
 distress
 His colleague's tragic death lacerated the fireman, and his guilty consccience drove him to see a therapist.
-False
+True
 24
 licentious
 v
 not deciplined
 ant
 moral restraint
-The man went to the cathedral and confessed of his lientious behavior.
-False
+The man went to the cathedral and confessed of his licentious behavior.
+True
 25
 nebulous
 adj
 lacking distinct form
 ant
 unambiguous
-Banks and investors prefer the structure of a corporation to the often more nubulous organization of a sole proprietorship.
-False
+Banks and investors prefer the structure of a corporation to the often more nebulousorganization of a sole proprietorship.
+True
 26
 nicety
 n
@@ -213,7 +213,7 @@ a subtle difference
 syn
 precision
 The consultant's nicety of the situation allowed her to immediately think of an alternative remedy.
-False
+True
 27
 peccadillo
 n
@@ -221,7 +221,7 @@ a slight fault or sin
 de
 sin
 The conquistador committed a peccadillo to the priuest but quickly made amends for it.
-False
+True
 28
 recalcitrant
 adj
@@ -229,7 +229,7 @@ defiant to authority
 cn
 obey
 In general, the people of France have been historically recalcitrant.
-False
+True
 29
 recant
 to
@@ -237,7 +237,7 @@ cancelling previous oppinion
 obj
 belief
 Helen's refusal to recant her Christian faith led to her imprisonment for more than a year.
-False
+True
 30
 saboteur
 n
@@ -245,7 +245,7 @@ one who sabotages
 ch
 disrupt
 The saboteurs' underhanded tactics led to the demise of the agency.
-False
+True
 31
 sobriety
 n
@@ -253,7 +253,7 @@ seriousness in manner
 wo
 sumptuous
 Sobriety is one of the most important tenets of Buddism.
-False
+True
 32
 sublime
 adj
@@ -261,7 +261,7 @@ majestic
 ant
 base
 There is but one step from the sublime to the ridiculous.
-False
+True
 33
 subside
 v
@@ -269,7 +269,7 @@ to fall downward, to become less active
 ant
 intensify
 The storm eventually subsided.
-False
+True
 34
 subsidiary
 adj
@@ -285,7 +285,7 @@ a deception to conceal the truth
 wo
 candor
 Roberta's apparent happiness with her domestic life was nothing mroe than subterfuge that maksked a lonely and empty existence.
-False
+True
 36
 subvert
 v
@@ -293,7 +293,7 @@ to overturn from the foundation
 syn
 sabotage
 The rebels subverted the existing regime and replaed it with a democratic system of government.
-False
+True
 37
 succor
 n
@@ -301,7 +301,7 @@ help when need
 syn
 relief
 The homeless woman found succer at the local shelter.
-False
+True
 38
 taciturn
 adj
@@ -309,7 +309,7 @@ not talkative
 ant
 loquacious
 Alex enjoyed Beth's company even though she was taciturn by nature.
-False
+True
 39
 vibrant
 adj
@@ -317,7 +317,7 @@ full of life
 ant
 flagging
 A vibrant complexion can signal younger, healthier individuals.
-False
+True
 40
 waver
 v
@@ -325,4 +325,4 @@ to be indecisive
 pos
 irresoluteness
 Alex finally made a decision after two weeks of wavering back and forth.
-False
+True

@@ -12,7 +12,7 @@ n
 the inability to feel pain but without a loss of consciousness
 fun
 ache
-The patient asked the doctor to put her into a state of amalgesia before the oepration.
+The patient asked the doctor to put her into a state of analgesia before the oepration.
 False
 2
 barb
@@ -76,8 +76,8 @@ adj
 vanishing like vaor
 wo
 permanency
-The change was subtle, evanescent, and hard to define, but unmistakable.
-False
+The life is evanescent
+True
 10
 ford
 n
@@ -101,4 +101,156 @@ extravagant in language or manner
 obj
 language
 The winner's grandiloquent speech was too much for the qudience.
+False
+13
+inane
+adj
+void, stupid
+ant
+meaningful
+Jack suddenly came to the realization that his life thus far had been inane and purposeless.
+False
+14
+libertine
+n
+백수건달
+ch
+dissolute
+The libertine was known as a Casanova who sought the company of women.
+False
+15
+plangent
+adj
+sound is loud
+ant
+muffled
+From across the street I could hear the demonstrators' plangent cries.
+False
+16
+primp
+v
+to take excessive care in dressing
+syn
+preen
+All the girls met a Becky's house to primp themselves before the prom.
+False
+17
+rabble
+n
+angry crowd
+syn
+mob
+The police soon lost all control as the rabble swarmed the barricades.
+False
+18
+rabid
+adj
+crazy in actions and thoughts
+wo
+composure
+The rabid protestors tooke the streets of Milan with a fury.
+False
+19
+rubicund
+adj
+having a healthy color
+ant
+wan
+The typical images of Santa Clause depit a rubicund old man.
+False
+20
+scant
+adj
+lacking
+ant
+profuse
+Society has made scant progress in its efforts to curb environmental pollution
+False
+21
+sham
+adj
+fake
+ant
+geunine
+The sham diamonds were sold at an exorbitant price to unsuspecting customers.
+False
+22
+sham
+v
+to fake
+syn
+pass off
+He shamed being ill to get out of the date.
+False
+23
+sinew
+n
+fiber that connects bone and muscle.
+syn
+tendinous
+Having strong sinews means having muscular power.
+False
+24
+stalwart
+adj
+healthy, strong, loyal
+ch
+constancy
+The Secret Service is the stalwart security of the White House.
+False
+25
+stammer
+v
+mumbling
+kin
+speak
+Alexei was speaking so quickly that he began to stammer, unable to articulate the word "suffering".
+False
+26
+subdue
+v
+defeat and conquer
+cn
+indomitable
+Virtuous people have the ability to subdue the desire for power.
+False
+27
+subjugate
+v
+to bring under authority or control
+ant
+manumit
+The fascist dictator subjugated the people of the country with his strong military force.
+False
+28
+sybarite
+n
+libertine
+cn
+resolute
+Sybarites are practitioners of hedonism
+False
+29
+transgress
+v
+to break the law
+wo
+rectitude
+The felon transgressed a recent city ordinance, which was in direct wiolation of his parole.
+False
+30
+translucent
+adj
+transparent, clear
+ant
+impervious to light
+The brand new car has four translucent windows.
+False
+31
+urbane
+adj
+secular
+ant
+rustic
+Although urbane in appearance, Jerry displayed his lack of etiquette when refusing to greet his guests.
 False

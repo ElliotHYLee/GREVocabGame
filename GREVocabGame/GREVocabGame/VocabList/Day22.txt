@@ -4,15 +4,15 @@ v
 deciple
 de
 denounce
-She softly admonished her husband for criticizing his brother's inrresponsible lifestyle.
+Father admonished his nasty children.
 False
 1
-arrhythmic
+arrythmic
 adj
 lacking steady rhythm
 syn
 erratic
-Sandy brought the car to the mechanic because of an arrhythmic sound in the engine.
+The music is arrythmic.
 False
 2
 brat
@@ -20,7 +20,7 @@ n
 troublesome child
 ch
 mischievous
-Karen loved her nieces, but she had to admit that they were brats.
+The brat got in to a trouble after getting into a utility room.
 False
 3
 bumptious
@@ -28,7 +28,7 @@ adj
 arrogant
 de
 assertive
-The bumptious student didn't have many friends because of his aggressive attitude.
+The bumptious man is numberone target to eschew to meet.
 False
 4
 commend
@@ -52,7 +52,7 @@ n
 fuss
 de
 squall
-Curous upon hearing the commotion in the boss' office, Mina decided to investiage.
+There wss a commotion in the squad after loosing their base.
 False
 7
 compendious
@@ -60,7 +60,7 @@ adj
 brief
 ch
 encyclopedia
-aThe professor's comepndious remarks impressed the faculty board.
+The professor's compendious remarks impressed the faculty board.
 False
 8
 complacence
@@ -68,7 +68,7 @@ n
 contended satisfaction with oneself.
 wo
 anxiety
-Steve's complacence infuriated his ambitious grilfriend and eventually resulted in their break-up.
+Steve's complacence infuriated his ambitious grilfriend.
 False
 9
 compunction
@@ -84,7 +84,7 @@ n
 guess
 syn
 speculate
-Elinor could only conjecture about their relationship because her husband didn't talk about it much.
+Jamie could only conjecture about their relationship because her husband didn't talk about it much.
 False
 11
 dank
@@ -132,7 +132,7 @@ adj
 friendly and warm
 ant
 mordant
-Lyman seemed to be every man's friend, because his genial disposition even puts strangers at ease.
+A genial person makes friend easily.
 False
 17
 hamper
@@ -148,12 +148,12 @@ adj
 dejected or depressed
 ant
 elate
-The by left the classroom with a hangdog expression on his face when the teacher told him to go to the principal's office.
+A hangdog student didn't know what to say in front of the principal.
 False
 19
 hankering
-adj
-aspiring
+n
+aspiration
 ant
 odious
 Barney rummaged through the fridge to satisfy his hankering for a midnight snack.
@@ -180,7 +180,7 @@ n
 a merciful disposition
 wo
 martinet
-On occasion, the teacher exhibited leniency for her students' misbehavior, but usually she was very strict and quick o punish.
+Mother Terresa showed leniency for the peopole.
 False
 23
 longing
@@ -196,7 +196,7 @@ adj
 sordid
 ant
 decorous
-Homeless people are mangy looking because they lack life's necessities.
+The guy's clothes became mangy after hunting for birds.
 False
 25
 manifest
@@ -212,7 +212,7 @@ adj
 very liberal or generous
 ant
 parsimonious
-The chief offered me a munificent benefits package to stay with the company longer.
+The munificent nature is now becoming wizen.
 False
 27
 pompous
@@ -244,7 +244,7 @@ n
 regret
 syn
 rue
-I was full of remorese for having hurt my sister with my viciuous criticism.
+I was full of remorese for having hurt my sister with my vicious criticism.
 False
 31
 remunerate
@@ -252,7 +252,7 @@ v
 to compensate
 ant
 unrequited
-The company will remunerate their traveling salesmen for any reasonable expenses incurred.
+The company will remunerate their traveling salesmen.
 False
 32
 somnolence
@@ -284,7 +284,7 @@ adj
 fearful or timid
 wo
 temerity
-Worried about the cat, the timorous mouse never scampered about the house for very long.
+Worried about the cat, the timorous mouse never scampered.
 False
 36
 tumult
@@ -292,5 +292,5 @@ n
 mental or emotional agitation
 ant
 serenity
-The tiny earthquake left Paul in a tumult of fear and anxiety even though it hardly registered on the Richter Scale.
+The loud sound left him a tumult, which made him believe it was a bomb.
 False

@@ -61,7 +61,7 @@ to raise trivial objections or criticisms
 ch
 quibbler
 Bobby loves to cavil at his mother just to annoy her.
-False
+True
 8
 cavort
 v
@@ -69,7 +69,7 @@ to bound about in a sprightly manner; to have lively fun
 ch
 sprightly
 The leprechauns cavorted around their pot of gold.
-False
+True
 9
 civillize
 v
@@ -101,7 +101,7 @@ lacking in plan or purpose; lacking rational sequence or connection
 wo
 plan
 Chuck's parents began to worry when he turned 35 and showed no signs of chaning his desultory ways.
-False
+True
 13
 detach
 v
@@ -157,7 +157,7 @@ to talk using lengthened vowel sounds
 ch
 slow
 Erica drawled her speech when she first began to study English.
-False
+True
 20
 envious
 adj
@@ -181,7 +181,7 @@ currently or still existing
 ant
 extinct
 The largest extant reptile found in Asia is the Komodo dragon.
-False
+True
 23
 favorable
 adj
@@ -197,7 +197,7 @@ to seek favor by groveling or flattery
 wo
 hauteur
 The nobles fawned over the King as they asked for more titles and land grants.
-False
+True
 25
 faze
 v
@@ -205,7 +205,7 @@ to disturb or disconcert
 ant
 undisturbed
 The accident didn't faze him a bit for some reason,
-False
+True
 26
 indict
 v
@@ -269,7 +269,7 @@ secure from profanation, assault, or violation
 cn
 profane
 Christians regard the Bible as an inviolable source for inspiration and wisdom.
-False
+True
 34
 invulnerable
 adj
@@ -293,7 +293,7 @@ generous in using or spending; extravagant
 ant
 penurious
 The lavish wedding was held at a posh mansion and adorned with ice sculptures.
-False
+True
 37
 lax
 adj
@@ -336,11 +336,11 @@ For her role in the movie Basic Instinct, Sharon Stone experienced a meteoric ri
 False
 42
 patent
-n
-the written rights given to an inventor by the government to exclusively make, use or sell an invention for a set number of years.
+adj
+obvious
 ant
 occult
-A patent was given to Alexander Graham Bell for the invention of the telephone.
+Rick sprndd five hours each day in front of the computer and is a patent addict to computer games.
 False
 43
 potable
@@ -357,7 +357,7 @@ ruler or one who holds great power
 ch
 power
 In a democracy, there is no true potentate, only poular icons called politicians.
-False
+True
 45
 resurgence
 n
@@ -413,7 +413,7 @@ something given as an expression of thans or admiration
 pur
 appreciation
 The enormouse statue of the mayor served as a testimonial to his great service to the city.
-False
+True
 52
 tinker
 v
@@ -445,7 +445,7 @@ unable to be defended
 cn
 defend
 The captain determined that their position on the field was untenable, so the soldiers moved back several miles.
-False
+True
 56
 usurp
 v

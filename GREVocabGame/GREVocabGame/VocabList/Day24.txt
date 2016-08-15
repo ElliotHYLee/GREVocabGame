@@ -4,7 +4,7 @@ v
 to shorten written works
 obj
 length
-The abridged version of Lonesome Dove is available for poeple who don't have the time to read it in its entirety.
+The abridged version of a thick book became popular.
 False
 1
 acrid
@@ -159,7 +159,7 @@ presage
 In the Bible, the Book of Revelation contains several harbingers about the end of the world.
 False
 20
-mypoia
+myopia
 n
 inability to think or plan into the future
 ant
@@ -223,7 +223,7 @@ presumption
 Susan's outdated ideas of propriety are better suited for someone living in Victorian England.
 False
 28
-prosaid
+prosaic
 adj
 ordinary or dull
 wo
@@ -268,7 +268,7 @@ n
 something not earned but luckily found
 wo
 effort
-Peggy discovered true love by rerendipity and not by a well-planned endeavor.
+Peggy discovered true love by serendipty and not by a well-planned endeavor.
 False
 34
 sordid

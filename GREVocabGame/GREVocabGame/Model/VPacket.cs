@@ -99,11 +99,15 @@ namespace GREVocabGame.Model
                         else if (word.Equals("vex") && token.Equals("vexed")) targetIndex = index;
                         else if (word.Equals("rue") && token.Equals("rue")) targetIndex = index;
                         else if (word.Equals("ode") && token.Equals("ode")) targetIndex = index;
+                        else if (word.Equals("hem") && token.Equals("hem")) targetIndex = index;
+                        else if (word.Equals("vim") && token.Equals("vim")) targetIndex = index;
+                        else if (word.Equals("din") && token.Equals("din")) targetIndex = index;
+
                         else
                         {
-                            
+
                             processedEx = "hard noun and verb..";
-                            
+
                         }
                     }
                     else

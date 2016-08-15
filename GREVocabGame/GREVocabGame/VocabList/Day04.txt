@@ -5,7 +5,7 @@ characterized by restraint in indulgences such as food and drink
 ch
 idulge
 The overweight woman was abstemious because of her desire to lose weight.
-False
+True
 1
 aesthete
 n
@@ -29,7 +29,7 @@ cold and grave in appearance or manner; morally self-disciplined; having no ador
 cn
 decorate
 The dean appeared at the banquet with an austere demeanor
-False
+True
 4
 barefaced
 adj
@@ -53,7 +53,7 @@ to rebuke or subject to severe criticism
 de
 admonishment
 The traveler was castigated harshly by the immigration officer for overstaying his visa.
-False
+True
 7
 cistern
 n
@@ -85,7 +85,7 @@ lacking restraint in the indulgence of vices
 ch
 libertine
 The hedonistic and dissolute man's vices included driking and  gambling.
-False
+True
 11
 dissolve
 v
@@ -125,7 +125,7 @@ gloomy or unhappy; stern or obstinate
 wo
 geniality
 It would be very nice if that dour man would smile for once.
-False
+True
 16
 excursive
 adj
@@ -149,7 +149,7 @@ to abstain from eating
 ant
 eat
 The whole family fasts one day a month to cleanse their bodies.
-False
+True
 19
 fastidious
 adj
@@ -157,7 +157,7 @@ extremely careful or concerned with details
 de
 careful
 Paul is so fastidious about cleanliness that he will do any dishes left in the sink for 10 minutes.
-False
+True
 20
 fervor
 n
@@ -261,7 +261,7 @@ habitual or firmly established
 ant
 casual
 The German tendency to close doors at all times is an inveterate character of the culture.
-False
+True
 33
 jest
 n
@@ -269,7 +269,7 @@ a joke or humorous remark; a gay and playful mood or manner
 ant
 solemn utterance
 Larry's jests often offended those around him though it was never inteded.
-False
+True
 34
 jovial
 adj
@@ -301,7 +301,7 @@ expert
 ch
 experience
 The government called him because he is a negotiation maven.
-False
+True
 38
 maverick
 n
@@ -309,7 +309,7 @@ an independent person who resists adherence to a group; a dissenter
 ant
 follower
 William had earned the reputation of maverick because he never did what was expected and always did things on his own.
-False
+True
 39
 obstinate
 adj
@@ -341,7 +341,7 @@ a work of art that imitates the style of some previous work
 ant
 original work
 Modern Greek architecture is a pastiche of Turkish, Venetian, and Western architecture.
-False
+True
 43
 pantechnicon
 n
@@ -397,7 +397,7 @@ relating to the countryside or old buildings; rough or coarse
 ant
 polished
 In Wyoming there are rustic cabins for rent everywhere.
-False
+True
 50
 scurrilous
 adj
@@ -405,7 +405,7 @@ using or containing vulgar or abusive language.
 wo
 properiety
 The student was suspended for using scurrilouse language in class.
-False
+True
 51
 sentinel
 v
@@ -421,7 +421,7 @@ marked by absence of authenticity or validity
 ant
 genuine
 The antique the traveler purchased turned out to be spurious.
-False
+True
 53
 spurn
 v
@@ -429,7 +429,7 @@ to reject or treat in a contemptible or scornful way.
 ant
 embrace
 The company spurned the proposal to merge with the weak competitor.
-False
+True
 54
 systematic
 adj
@@ -453,7 +453,7 @@ irritable or easily angered
 syn
 irascible
 In the mornings, Kelly is testy and sluggish.
-False
+True
 57
 unsteady
 adj

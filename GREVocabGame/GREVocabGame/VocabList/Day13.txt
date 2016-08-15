@@ -5,23 +5,23 @@ to lower esteem
 obj
 prestige
 The abased executive was embarrassed by his recent demotion.
-False
+True
 1
 abash
 v
 to embarrass or make ashamed of
 ant
 embolden
-Abashed glances of wonder were exchanged by the sailors.
-False
+Physicists were abashed by double slit experiment.
+True
 2
 abate
 v
 reduce
 obj
 degree
-The installation of insect light traps did little to abate the probelm.
-False
+Conventional PID contrller does not abate oscillation immidiately.
+True
 3
 apathetic
 adj
@@ -36,8 +36,8 @@ n
 an excessive desire for wealth
 ant
 generosity
-The avarice of the man caused his neighbors and friends to spite him.
-False
+Capitalism is founded on avarice of human being.
+True
 5
 blatant
 adj
@@ -45,7 +45,7 @@ vulgarly conspicuous
 cn
 ignore
 The oil tycoon's blatant show of wealth was epitomized by his gold encrusted belt buckle.
-False
+True
 6
 blush
 v
@@ -53,7 +53,7 @@ to become red in the face from shame or nervousness
 cause
 embarrassment
 Surprised and a little embarrassed by his flattery, Tonya blushed.
-False
+True
 7
 conspicuous
 adj
@@ -61,15 +61,15 @@ apparent
 ant
 inconspicuous
 Mary's red hair always made her conspicuous at school
-False
+True
 8
 brash
 adj
 hasty
 ant
 deliberate
-Tony's brash manner has gotten him in a lot of trouble.
-False
+When playing Starcraft2, don't be brash
+True
 9
 chary
 adj
@@ -77,7 +77,7 @@ very cautious
 ant
 bold
 Clara knew that Mr. Gryce was chary, not prone to rash or impulsive decisions.
-False
+True
 10
 chasm
 n
@@ -85,14 +85,14 @@ a deep opening in the surface of the Earth
 de
 cleft
 The rock climbers looked down into the chasm.
-False
+True
 11
 concede
 v
 to accept that somehing is true
 ant
 disavow
-It is generally conceded that humans are social beings.
+The suspect conceded the crime.
 False
 12
 consent
@@ -109,7 +109,7 @@ superficial
 ant
 fastidious
 The editor's cursory review of the document failed to reveal its structural flaws.
-False
+True
 14
 dearth
 n
@@ -117,15 +117,15 @@ a lack or shortage of supply
 ant
 plethora
 The drought in Bengal a few years ago caused a great dearth of food supplies.
-False
+True
 15
-disphanous
+diaphanous
 adj
 transparent
 ant
 opaque.
-In the gloom the girls' wraps glowed palllid and diaphanous.
-False
+The see-through clothes is diaphanous.
+True
 16
 disclosure
 n
@@ -148,20 +148,20 @@ adj
 dull
 wo
 resplendence
-The man's entire ardrobe is rather drab.
-False
+The man's entire wardrobe is rather drab.
+True
 19
 ensconce
 v
 to conceal in a secure place
 ant
 unsettle
-Norma deals with stress by ensconcing herself in her apartment and reading.
-False
+The fugitive ensconced the money in the ground.
+True
 20
 forbear
 v
-to refrain from
+to bear
 syn
 forgo
 Although Kelly could hardly wait to give her Mom the present, she forbore the urge until Christmas day.
@@ -173,7 +173,7 @@ flattering
 de
 comoplimentary
 The bartender's fulsome compliments did not impress the lady server.
-False
+True
 22
 gobble
 v
@@ -181,7 +181,7 @@ to eat greedily and quickly
 de
 nibble
 As children, my siblings and I would make fun of our dad for always gobbling his dinner.
-False
+True
 23
 hearten
 v
@@ -197,7 +197,7 @@ easy to be angry
 cn
 placate
 All the tenants tried to avoid the irascible landowner whenever possible.
-False
+True
 25
 loathe
 v
@@ -213,7 +213,7 @@ despicably small.
 ant
 grand
 The measly salary of the factory workers gave them reason to strike.
-False
+True
 27
 mince
 v
@@ -221,7 +221,7 @@ to chop or walk short steps
 kin
 walk
 The prince had minced her way across the ballroom to attract attention to her new gown.
-False
+True
 28
 orate
 v
@@ -229,7 +229,7 @@ speak arrogant
 wo
 modesty
 Pericles orated to the Athenians, persuading them to go to war.
-False
+True
 29
 oust
 v
@@ -237,7 +237,7 @@ to kick out from a position
 obj
 incumbent
 The mayor was ousted from office after a huge scandal broke loose.
-False
+True
 30
 palmy
 adj
@@ -245,7 +245,7 @@ prosperous
 pos
 prosperity
 The 1990's was a palmy time for technology companies.
-False
+True
 31
 penchant
 n
@@ -253,15 +253,15 @@ preference
 ant
 aversion
 Lee has penchant for percussion instruments.
-False
+True
 32
-perscience
+prescience
 n
 knowledge for futuer
 ant
 myopia
 The ancient wise men claimed to have a prescience which all the citizens listened to and followed.
-False
+True
 33
 quash
 v
@@ -269,7 +269,7 @@ to extinguish forcibly and compleely
 ant
 engender
 Modred was slain in his attempt to quash the revolt.
-False
+True
 34
 shard
 n
@@ -277,7 +277,7 @@ debris
 par
 pottery
 There were shards everywhere on the floor from the broken mirror.
-False
+True
 35
 snarl
 v
@@ -285,15 +285,15 @@ entangle
 ant
 disentangle
 The fly was snarled in the black widow's spider web with no prospects of escaping.
-False
+True
 36
 spate
 n
 a sudden outburst or flood
 ant
 dearth
-Alice was a popular columnist and received a spate of letters everyday.
-False
+The admission office received spate of applications.
+True
 37
 stasis
 n
@@ -309,4 +309,4 @@ fatigued or exhausted in strenth
 ant
 vivid
 Grandma is weary from the trip and must take a nap.
-False
+True

@@ -4,16 +4,16 @@ adj
 in a miserable or low condition
 ant
 spirited
-The abject neighborhood was often the scene of violent crimes.
-False
+That Tom is ditched by his girlfriend made him abject.
+True
 1
 abjure
 v
 to reject or renounce something under oath
 ant
 espouse
-Mr. Linton abjured his involvement with the cult.
-False
+Jack abjured his involvement with the Christianity.
+True
 2
 askew
 adj
@@ -21,31 +21,31 @@ not straight
 ant
 aligned
 The picture was hanging askew on the wall
-False
+True
 3
 banal
 adj
 trivial; not interesting
 ch
 platitude
-Brian did poorly on his creative writing assignment because the professor thought it was a banal piece of writing.
-False
+The student's work is so banal to the professor.
+True
 4
 belabor
 v
 to attack verbally
 de
 assert
-The Jehovah's Witness came to my house and belabored me with his messages.
-False
+The oppenent belabored my weakness.
+True
 5
 bristle
 v
 to show anger
 cause
 anger
-The hair on Peter's head bristled even after many brushings with a comb.
-False
+The hair bristledafter brushings with a comb.
+True
 6
 cajole
 v
@@ -53,38 +53,38 @@ to coax or persuade with charm
 pos
 wheedle
 The sales man cajoled the woman into buying a new car.
-False
+True
 7
 candid
 adj
 honest and straightforward
 ant
 furtive
-Charles' candid story did not leave out his own role in the crime.
-False
+Jack's candid attitude was lauded by the interviewer.
+True
 8
 candor
 n
 impartiality
 wo
 palter
-The political candidate's candor won over many voters who wre impressed by his frankness.
-False
+The soccer referee was not even close to candor.
+True
 9
 clique
 n
 an exclusive group of people
 syn
 faction
-The jock's clique was comprised of fellow football players and their cheerleader girlfriends.
-False
+The polititions always have clique.
+True
 10
 concord
 n
 an agreement
 wo
 inconsonant
-The sisters finally reached a concord about the layout of their bedroom.
+The comittee banned him after reaching a concord.
 False
 11
 concur
@@ -92,7 +92,7 @@ v
 to approve or agree
 ant
 dissent
-Not all scientists agree about how Earth got its oceans, but most concur that space debris contributed.
+Scientists do not concur that aliens exist.
 False
 12
 condone
@@ -100,7 +100,7 @@ v
 to pardon
 ant
 denounce
-The mother didn't condone the outlandish behavior of her daughter.
+A judge could not condone the defendent.
 False
 13
 dappled
@@ -108,16 +108,16 @@ adj
 marked with spots
 pos
 spot
-Virginia preferred her dappled horse to all the other palin horses.
-False
+Virginia preferred her dappled horse.
+True
 14
 drivel
 v
 to speak snselessly
 ch
 nonsensical
-The actor driveled all over the media looking for any kind of publicity.
-False
+The president driveld to the people.
+True
 15
 eleemosynary
 adj
@@ -125,31 +125,31 @@ benevolent
 ch
 philanthropist
 The unexpected outpouring of eleemosynary gifts touched the missionaries deeply.
-False
+True
 16
 fetid
 adj
 stinky
 obj
 smell
-The fetid odor made the girls nauseous.
-False
+The fetid odor is from the old food.
+True
 17
 flit
 v
 to dart across or move quickly
 kin
 move
-Tracy's role as the angle in the school play was to flit acros the stage gracefully.
-False
+His role as the angle  was to flit across the stage.
+True
 18
 frivolity
 n
 the act of being light-hearted
 wo
 gravity
-He did not like to combine frivolity with the serious business of hunting.
-False
+He did not like to combine frivolity with the serious business.
+True
 19
 gait
 n
@@ -164,15 +164,15 @@ n
 a habitually complaining person
 ch
 querulous
-The children wre all afraid of the grouch who sat in front of the corner store.
-False
+The leader does not like a grouch.
+True
 21
 hike
 v
 to increase
 ant
 backset
-The Federal Reserve Chairman hiked the interest rate in hopes of slowing inflation.
+The goverment hike the electricity fee.
 False
 22
 idolater
@@ -180,7 +180,7 @@ n
 one who worships idols
 ch
 reverent
-In today's society, most people are idolaters of money.
+Capitalism makes idolater of money.
 False
 23
 iniquitous
@@ -188,24 +188,24 @@ adj
 unjust
 ant
 rectitude
-The iniquitous freight rates had been implanted due to a lack of competition in the shipping industry.
-False
+The iniquitous rule for the players did not frustrate them.
+True
 24
 irk
 v
 to make irritated or annoyed.
 de
 enrage
-It irked Helen that Matt forgot her birthday.
-False
+It irked her that Matt forgot her birthday.
+True
 25
 jejune
 adj
-lacking in interest
+not interesting
 wo
 interest
-The jejune novel put me to sleep after the first page.
-False
+The jejune story made me fall asleep.
+True
 26
 lugubrious
 adj
@@ -213,14 +213,14 @@ sad or mournful
 ant
 jovial
 A dog let out a long, lugubrious howl outside.
-False
+True
 27
 maladroit
 adj
 inept
 ant
 deft
-The maladroit young lady is not fit to be a dancer.
+The maladroit dancer is not fit to be a crew member.
 False
 28
 morose
@@ -228,40 +228,40 @@ adj
 sullen 
 ant
 jocund
-Janet guessed from Jason's morose mood that the test did not go very well.
-False
+The dour man always have a morose air!
+True
 29
 nonentity
 n
 not a significant person
 wo
 consequence
-Having been considered a nonentity his whole life, Albert aspired to be a world renowned author one day.
-False
+Nonentity passed off as if he is a celebrity.
+True
 30
 pontificate
 v
 to speak in an arrogant and dogmatic manner
 kin
 speak
-The brilliant professor was disliked because he had a tendency to pontificate during his lectuers.
-False
+The smart professor pontificate in front of the class that people are all stupid.
+True
 31
-shrik
+shirk
 v
 to avoid responsibility or duty
 ch
 malingerer
 Jogn has tried to shirk the responsibility.
-False
+True
 32
 skirt
 v
 avoid
 syn
 evade
-Tom skirted the issue of his family by changing the subject.
-False
+Tom skirted the issue by changing the subject.
+True
 33
 skit
 n 
@@ -269,7 +269,7 @@ short comedy
 kin
 drama
 Our skit at summer camp had the children in stitches.
-False
+True
 34
 slipshod
 adj
@@ -277,36 +277,36 @@ looking shabby
 syn
 slovenly
 A slipshod man passed me on the street, wearing a ragged coat and torn pants.
-False
+True
 35
 smirk
 n
 an arrogant and self-satisfied smile
 ch
 smugness
-Emily's smirk upon hearing the news of her rival company's demise indicated she knew of it beforehand.
-False
+The smart programmer made a smirk after hacking the bank.
+True
 36
 trite
 ad
 commonplace
 syn
 hackneyed
-The maxim is so old that it is trite.
-False
+The comedy is trite.
+True
 37
 turncoat
 n
 a traitor
 wo
 constancy
-One of the greatest crimes is to be a turncoat against your country.
+A crimes is to be a turncoat against the country.
 False
 38
-unekempt
+unkempt
 adj
 messy or not clean
 ant
 dapper
-Mr. Gracie was short and unkempt, almost rustic.
+His coat is unkempt.
 False

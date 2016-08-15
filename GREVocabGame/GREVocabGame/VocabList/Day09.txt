@@ -5,15 +5,15 @@ deviating form the norm
 obj
 standard
 The mother began to worry when all of her son's teachers complained of his aberrant behavior.
-False
+True
 1
 abet
 v
 encourage and support
 pos
 encouragement
-The protesters gathered to abet the legalization of same0sex marriages.
-False
+The protesters gathered to abet the legalization of same sex marriages.
+True
 2
 acerbic
 adj
@@ -29,7 +29,7 @@ a feeling of strong hate
 de
 disinclination
 A young man naturally conceives an aversion to labor when he receives no benefit from it.
-False
+True
 4
 caveat
 n
@@ -37,7 +37,7 @@ warning
 pos
 cautionary
 Samantha did not heed the caveat given by her father.
-False
+True
 5
 crestfallen
 adj
@@ -61,7 +61,7 @@ to bring into a state of decay or partial ruin
 ant
 resotred
 The riots left the street dilapidated.
-False
+True
 8
 earshot
 n
@@ -77,7 +77,7 @@ to drain of physical or mental energy
 obj
 vigor
 The long work day and lack of sleep enervated Marie.
-False
+True
 10
 frenetic
 adj
@@ -101,7 +101,7 @@ a facial contortion in reaction to pain or disgust
 causal
 pain
 Francis grimaced whenever she was reminded of her painful past.
-False
+True
 13
 adroit
 adj
@@ -133,7 +133,7 @@ arrogant
 ant
 meek
 The overbearing commander shouted at and threatened his troops.
-False
+True
 17
 overindulge
 v
@@ -149,7 +149,7 @@ ordinary
 ant
 imaginative
 The company's pedestrian advertisements failed to generate sales.
-False
+True
 19
 peeve
 v
@@ -157,7 +157,7 @@ piss off
 ant
 placate
 The housekeeper was peeved at his boss for leaving such a mess.
-False
+True
 20
 precarious
 adj
@@ -165,7 +165,7 @@ unstable or insecure
 wo
 stability
 You don't seem to realize that we are in a precarious condition.
-False
+True
 21
 precipitate
 v
@@ -181,7 +181,7 @@ superiority
 obj
 weight
 A preponderance of evidence against the defendant made the prosecution's job easy.
-False
+True
 23
 preposterous
 adj
@@ -189,7 +189,7 @@ abberant
 ant
 commonsensical
 No one paid any attention to Bill because everything he said was preposterous.
-False
+True
 24
 prevaricate
 v
@@ -197,7 +197,7 @@ to cover up the truth;
 wo
 truth
 The guilty child prevaricated to his mother when she asked who broke the vase.
-False
+True
 25
 querulous
 adj
@@ -205,7 +205,7 @@ continually whining or complaining
 ch
 grouch
 The traveler could not stand taking trips with querulous people.
-False
+True
 26
 redolent
 adj
@@ -213,7 +213,7 @@ giving off and odor or fragrance
 syn
 fragrant
 Sara's hair was redolent of sweet perfume.
-False
+True
 27
 redoubtable
 adj
@@ -221,7 +221,7 @@ respectful, scary
 pos
 regard
 The counselor was a redoubtable member of the faculty who many students turned to for advice.
-False
+True
 28
 rudiment
 n
@@ -245,7 +245,7 @@ assiduous
 ant
 indolent
 The sedulous student was on the hornor roll every semester.
-False
+True
 31
 sidereal
 adj
@@ -261,7 +261,7 @@ appearing true although it is false
 ant
 valid
 The man's specious reasoning nearly convinced the couple to sign the contract.
-False
+True
 33
 stentorian
 adj
@@ -269,7 +269,7 @@ very loud
 de
 audible
 The stentorian speeches of the artilery continued in some distant encounter, but the crashes of the musketry had almost ceased.
-False
+True
 34
 sterile
 adj
@@ -285,7 +285,7 @@ to waver or move unsteadily
 syn
 totter
 A chinaman went by, teetering under the weight of the market baskets slung on a pile across his shoulders.
-False
+True
 36
 torrid
 adj
@@ -301,4 +301,4 @@ anxiety or fear
 wo
 dauntless
 The dog's enormous size caused the little boy to approach it with trepidation.
-False
+True

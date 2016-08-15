@@ -205,7 +205,7 @@ to make clear by explanationl to render more intelligible
 ant
 garble
 Mary elucidated her actions by explaining her perspective and intentions.
-True
+False
 26
 emulate
 v
@@ -221,7 +221,7 @@ a state of equilibrium
 cn
 vacillate
 Will the world ever reach an equipoise?
-True
+False
 28
 fervid
 adj
@@ -381,7 +381,7 @@ to supply provisions or materials
 ch
 vendor
 The committee purveyed food and other supplies for the conference.
-True
+False
 48
 ribald
 adj
@@ -389,7 +389,7 @@ offensive; containing indecent humor.
 ant
 seemly
 Politicians must be careful not to make ribald comments during speeches.
-True
+False
 49
 rescind
 v
@@ -421,7 +421,7 @@ to spend foolishly; to scatter
 ant
 conserve
 Michael squandered his entire first paycheck at the casino.
-True
+False
 53
 steadfast
 adj
@@ -429,7 +429,7 @@ immovable;
 ant
 capricious
 There is nothing more valuable than a steadfast friendship.
-True
+False
 54
 strut
 v

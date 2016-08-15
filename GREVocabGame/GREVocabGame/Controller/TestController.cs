@@ -52,6 +52,7 @@ namespace GREVocabGame.Controller
 
         public void generateSession()
         {
+            if (dispatcherTimer != null) dispatcherTimer.Stop();
             if (prepData())
             {
                 _view.lstResult.Items.Clear();
@@ -159,7 +160,15 @@ namespace GREVocabGame.Controller
                 if (i == trapAnswer) _listRB[i].Content = _listVPacket[currentQuestionNumber].Word;
                 else
                 {
-                    _listRB[i].Content = traps[trapIndex];
+                    if (traps[trapIndex] == _listVPacket[currentQuestionNumber].Word)
+                    {
+                        _listRB[i].Content = "";
+                    }
+                    else
+                    {
+                        _listRB[i].Content = traps[trapIndex];
+                    }
+                    
                     trapIndex++;
                 }
             }

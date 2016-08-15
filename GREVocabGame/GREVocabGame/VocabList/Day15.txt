@@ -39,12 +39,12 @@ fear
 Every time the owner raised his voice, the dog cowered in the corner.
 False
 5
-derlirium
+delirium
 n
 a state of mental disorder or confusion
 ch
 confusion
-The force of the blow put Liz into a temporary delirium.
+The bombardment put the city into a delirium.
 False
 6
 exhaust
@@ -100,7 +100,7 @@ adj
 fluent but shallow
 de
 fluent
-The glib speaker told his life story to an entraptured audience.
+The glib speaker told his life story to an enraptured audience.
 False
 13
 grieve
@@ -127,7 +127,7 @@ salmon
 The number of fish in Long Lake was determined by the ichthyologist.
 False
 16
-incipeint
+incipient
 adj
 just starting
 ch

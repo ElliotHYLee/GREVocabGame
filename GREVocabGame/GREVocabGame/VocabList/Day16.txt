@@ -4,23 +4,23 @@ v
 to increase gradually by addition
 kin
 grow
-The money that Fred had invested 14 years ago had accredeted to a large amont.
-False
+The money invested had accredeted to a large amont.
+True
 1
 ardent
 adj
 passionate and torrent
 ant
 tepid
-The ardent opponents to the death penalty lined up to protest outside the prison walls.
-False
+The ardent opponents to the death penalty lined up to protest.
+True
 2
 audacious
 adj
 recklessly adventurous or brave
 wo
 trepidation
-The audacious tricks of the stunt man awed the audience.
+The last five years have been audacious periods in my life.
 False
 3
 blight
@@ -28,7 +28,7 @@ v
 to wither up
 syn
 ruin
-Tom hoped that Mary wouldn't forget his shoes, but the hope was blighted.
+A fiscal issue blighted the couple's relationship.
 False
 4
 cacophony
@@ -44,7 +44,7 @@ n
 a concluding part of an music work.
 ant
 prelude
-Finally in the coda, the book moves forward to 1999 for its embracing, reflective conclusion.
+Orchestra conductor marred the concert at the coda.
 False
 6
 decorous
@@ -52,7 +52,7 @@ adj
 being of decent or proper
 ant
 mangy
-The decorous yong man never lost his temper or said anything outof line.
+The decorous yong bowed to the elders.
 False
 7
 decrepit
@@ -60,7 +60,7 @@ adj
 weakned, worn out.
 ant
 vigorous
-the decrepit old man spent the last ten years of his life in bed.
+The decrepit restroom in the park is abhorred by the tourists.
 False
 8
 didactic
@@ -68,7 +68,7 @@ adj
 tending to teach or moralize
 ch
 teach
-Although he was an extremely intelligent man, his didactic attitude was not liked by anyone.
+I hate didactic lecturers.
 False
 9
 dodder
@@ -76,7 +76,7 @@ v
 to shake body due to old age
 ch
 unsteady
-Grandmother Betty doddered on her way from the house to the car.
+Grandma doddered on her way from the house to the car.
 False
 10
 eminent
@@ -84,7 +84,7 @@ adj
 highly ranked or prominent
 ch
 luminary
-Dressed in full attire, the eminent General led the parade through the town's main street.
+The eminent scholar in the field disappeared.
 False
 11
 epigram
@@ -92,15 +92,15 @@ n
 a wise saying
 ch
 wise
-Sometimes the doctor made philosophic epigrams which he used as encouragement through the hardships in his life.
-False
+Some philosophers used epigrams
+True
 12
 excoriate
 v
 censure harshly
 ant
 extol
-Mr. Arafat has been excoriate harshly by President Bush because of the many Palestinian suicide bombings.
+Immoral politicians were excoriated by philosophers.
 False
 13
 exculpate
@@ -116,7 +116,7 @@ n
 a select group within a larger group
 syn
 clique
-Only the most outstanding faction of students was selected to represent the school at the ceremony.
+Politicians dismentled by the factions.
 False
 15
 faint
@@ -124,7 +124,7 @@ adj
 weak, idle
 ant
 stentorian
-The faint voices began to grow louder as Mary got closer to the door.
+The faint voices began to grow louder.
 False
 16
 fecundity
@@ -180,7 +180,7 @@ adj
 stubbornly conservative
 de
 conservative
-Some critics say that present-day Korean society is much less hierarchical and hidebound than it was during the country's long pre-modern period.
+Irresponsible ownner put the pet in the cage until it became hidebound.
 False
 23
 hideous
@@ -196,7 +196,7 @@ adj
 unruly; unable to reform
 ch
 amend
-The incoriigible young man could not be controlled by anyone, not even his parents.
+The status quo of capitalism looks incorrigible.
 False
 25
 inculpate
@@ -212,7 +212,7 @@ adj
 being hostile or opposed to someone or something
 ant
 amicable
-Peter's cold, inimical voice towards Michael indicated the bad blood tetween the two.
+China and U.S have inimical military issues while they share the economy.
 False
 27
 inimitable
@@ -252,7 +252,7 @@ adj
 being a pedant
 de
 scholarly
-The three Spanish professors laughed heartily at the pedantic Classics student who spent his entire time studying one Ancient Greek book.
+The lecturer was too pedantic because he cared every single word.
 False
 32
 persiflage
@@ -260,7 +260,7 @@ n
 light teasing or banter
 pur
 incite
-The persiflage between the old friends belied the actual tension that strained their relationship.
+The persiflage between the old friends belied the actual tension.
 False
 33
 philistine
@@ -324,7 +324,7 @@ adj
 lacking in tact and grace
 ch
 churl
-Mattie remembered the shyness he had felt at approcahing her in his uncouth clothes.
+The colors of painting is uncouth
 False
 41
 unctuous
@@ -332,7 +332,7 @@ adj
 insincere kindness
 ch
 salve
-Many products, such as candles and oil, are made from the body parts of unctuous animals, suh as whales.
+Candle oil is made of unctuous whales.
 False
 42
 vehement

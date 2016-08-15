@@ -5,7 +5,7 @@ difficult to understand
 ant
 accessible
 The abstruse terminology used in the economist's presentation confused most of his audience.
-False
+True
 1
 astronomy
 n
@@ -29,7 +29,7 @@ to find fault or complain querulously
 de
 complain
 The old man was always carping at anyone who sat near him.
-False
+True
 4
 caulk
 v
@@ -45,7 +45,7 @@ festive; fond of good company
 syn
 sociable
 The convivial young boy was the most popular student in his class.
-False
+True
 6
 serenity
 n
@@ -61,7 +61,7 @@ uniform or steadyl even-tempered
 ant
 intemperate
 The new principal's equable demeanor was appreciated and respected by the community.
-False
+True
 8
 extraneous
 adj
@@ -93,7 +93,7 @@ foolish
 ant
 scintillating
 Kenny's dream of becoming a race car driver was considered fatuous by his peers.
-False
+True
 12
 fetter
 v
@@ -101,7 +101,7 @@ to put fetters onl to confine
 ant
 release
 After graduation, Jennifer longed to move away where she wouldn't be fettered by family obligations.
-False
+True
 13
 intractable
 adj
@@ -109,7 +109,7 @@ not easily directed or manipulated; unruly
 cn
 manage
 Erica soon discovered that children at day care are intractable and frustrating.
-False
+True
 14
 intrepid
 adj
@@ -149,7 +149,7 @@ fatigue
 ant
 vim
 After a night of drinking, Brain's lassitude was clearly apparent to his co-workers.
-False
+True
 19
 miff
 v
@@ -157,7 +157,7 @@ to insult or offend slightly
 ant
 appease
 Mr. Kronkite was miffed by reportere's tardiness for the interview.
-False
+True
 20
 mottle
 n
@@ -173,7 +173,7 @@ neat
 ant
 slovenly
 The actor looked natty at the oscars in his long black tuxedo.
-False
+True
 22
 nettle
 n
@@ -189,7 +189,7 @@ uncontrolable
 cn
 control
 The birthday party became obstreperous as soon as the parents left.
-False
+True
 24
 obtuse
 adj
@@ -197,7 +197,7 @@ dull
 wo
 keen
 The man was too obtuse to catch the humor and with of the play.
-False
+True
 25
 ostracize
 v
@@ -205,7 +205,7 @@ to exclude or exile
 syn
 exile
 Themistokles, the Ancient Greek politician, was ostracized from Athens for three years in the 5th century BC.
-False
+True
 26
 parsimonious
 adj
@@ -213,7 +213,7 @@ stingy
 de
 frugal
 Frugality was a quality she admired, but Frank's parsimonious habits were too much for her.
-False
+True
 27
 patrionize
 v
@@ -245,7 +245,7 @@ trivial
 cn
 noticeable
 The two friends fought over something petty that managed to destroy their friendship.
-False
+True
 31
 pittance
 n
@@ -269,7 +269,7 @@ to cut down or reduce
 obj
 expense
 The family retrenched their monthly expenses to save for a big trip.
-False
+True
 34
 squabble
 n
@@ -277,7 +277,7 @@ small argument
 de
 dispute
 All of our squabbles are about Jack's smoking habit.
-False
+True
 35
 squalid
 adj
@@ -285,7 +285,7 @@ filthy
 ant
 immaculate
 The squalid streets of the impoverished neighborhood can be very depressing.
-False
+True
 36
 squall
 n
@@ -293,7 +293,7 @@ gust
 de
 commontion
 The squall came upon the countryside without warning
-False
+True
 37
 squalor
 n
@@ -301,7 +301,7 @@ vulgar
 ant
 splendor
 Due to current political and economic problems, squalor is the norm in the inner cities of America.
-False
+True
 38
 tatty
 adj
@@ -309,7 +309,7 @@ worn or shabby
 ant
 smart
 The homeless man near my work dresses in tatty clothes and carries a garbage bag.
-False
+True
 39
 taut
 adj
@@ -317,7 +317,7 @@ tight or tense
 obj
 slacken
 His nerves were taut during the interview.
-False
+True
 40
 truant
 adj
@@ -325,7 +325,7 @@ lazy
 ant
 dutiful
 The truant father abandoned his wife and children in order to pursue his dream of being a singer.
-False
+True
 41
 unwonted
 adj
@@ -333,7 +333,7 @@ extraordinary
 ant
 usual
 We experienced unwonted freezing this past autumn.
-False
+True
 42
 vex
 v
@@ -349,7 +349,7 @@ to criticize alot
 ant
 admire
 Jessie Ventura, the Minnesota governor, was harshly vituperated by politicians nationwide when he was first eleceted.
-False
+True
 44
 waylay
 v
@@ -373,4 +373,4 @@ bent, out of shape
 de
 humorous
 The student showed an almost wry attitude towards his teacher.
-False
+True
